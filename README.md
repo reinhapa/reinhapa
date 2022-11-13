@@ -47,6 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#45](https://github.com/adoptium/jmc-build/pull/45) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
+2. 🎉 Merged PR [#348](https://github.com/reinhapa/rabbitmq-cdi/pull/348) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
+3. 🗣 Commented on [#348](https://github.com/reinhapa/rabbitmq-cdi/issues/348) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
+4. 🎉 Merged PR [#197](https://github.com/reinhapa/eventeditor/pull/197) in [reinhapa/eventeditor](https://github.com/reinhapa/eventeditor)
+5. 🎉 Merged PR [#195](https://github.com/reinhapa/eventeditor/pull/195) in [reinhapa/eventeditor](https://github.com/reinhapa/eventeditor)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
