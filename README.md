@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#69](https://github.com/reinhapa/slf4j-cdi/pull/69) in [reinhapa/slf4j-cdi](https://github.com/reinhapa/slf4j-cdi)
-2. 🎉 Merged PR [#351](https://github.com/reinhapa/rabbitmq-cdi/pull/351) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
-3. 🗣 Commented on [#4616](https://github.com/eXist-db/exist/issues/4616) in [eXist-db/exist](https://github.com/eXist-db/exist)
-4. 🎉 Merged PR [#349](https://github.com/reinhapa/rabbitmq-cdi/pull/349) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
-5. 🎉 Merged PR [#200](https://github.com/reinhapa/eventeditor/pull/200) in [reinhapa/eventeditor](https://github.com/reinhapa/eventeditor)
+1. 🎉 Merged PR [#45](https://github.com/adoptium/jmc-build/pull/45) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
+2. 💪 Opened PR [#47](https://github.com/jenkinsci/notification-plugin/pull/47) in [jenkinsci/notification-plugin](https://github.com/jenkinsci/notification-plugin)
+3. 🎉 Merged PR [#69](https://github.com/reinhapa/slf4j-cdi/pull/69) in [reinhapa/slf4j-cdi](https://github.com/reinhapa/slf4j-cdi)
+4. 🎉 Merged PR [#351](https://github.com/reinhapa/rabbitmq-cdi/pull/351) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
+5. 🗣 Commented on [#4616](https://github.com/eXist-db/exist/issues/4616) in [eXist-db/exist](https://github.com/eXist-db/exist)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
