@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1172](https://github.com/adoptium/website-v2/pull/1172) in [adoptium/website-v2](https://github.com/adoptium/website-v2)
-2. 🎉 Merged PR [#45](https://github.com/adoptium/jmc-build/pull/45) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
-3. 💪 Opened PR [#47](https://github.com/jenkinsci/notification-plugin/pull/47) in [jenkinsci/notification-plugin](https://github.com/jenkinsci/notification-plugin)
-4. 🎉 Merged PR [#69](https://github.com/reinhapa/slf4j-cdi/pull/69) in [reinhapa/slf4j-cdi](https://github.com/reinhapa/slf4j-cdi)
-5. 🎉 Merged PR [#351](https://github.com/reinhapa/rabbitmq-cdi/pull/351) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
+1. 🗣 Commented on [#47](https://github.com/jenkinsci/notification-plugin/issues/47) in [jenkinsci/notification-plugin](https://github.com/jenkinsci/notification-plugin)
+2. 🗣 Commented on [#47](https://github.com/jenkinsci/notification-plugin/issues/47) in [jenkinsci/notification-plugin](https://github.com/jenkinsci/notification-plugin)
+3. 🗣 Commented on [#47](https://github.com/jenkinsci/notification-plugin/issues/47) in [jenkinsci/notification-plugin](https://github.com/jenkinsci/notification-plugin)
+4. 🗣 Commented on [#47](https://github.com/jenkinsci/notification-plugin/issues/47) in [jenkinsci/notification-plugin](https://github.com/jenkinsci/notification-plugin)
+5. 🎉 Merged PR [#92](https://github.com/reinhapa/virtual-printer/pull/92) in [reinhapa/virtual-printer](https://github.com/reinhapa/virtual-printer)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
