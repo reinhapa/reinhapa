@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4623](https://github.com/eXist-db/exist/pull/4623) in [eXist-db/exist](https://github.com/eXist-db/exist)
-2. 🎉 Merged PR [#93](https://github.com/reinhapa/virtual-printer/pull/93) in [reinhapa/virtual-printer](https://github.com/reinhapa/virtual-printer)
-3. 🎉 Merged PR [#62](https://github.com/xmldb-org/xmldb-api/pull/62) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
-4. 🎉 Merged PR [#70](https://github.com/reinhapa/slf4j-cdi/pull/70) in [reinhapa/slf4j-cdi](https://github.com/reinhapa/slf4j-cdi)
-5. 🎉 Merged PR [#355](https://github.com/reinhapa/rabbitmq-cdi/pull/355) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
+1. 💪 Opened PR [#243](https://github.com/eclipse-cbi/jiro/pull/243) in [eclipse-cbi/jiro](https://github.com/eclipse-cbi/jiro)
+2. 🎉 Merged PR [#4623](https://github.com/eXist-db/exist/pull/4623) in [eXist-db/exist](https://github.com/eXist-db/exist)
+3. 🎉 Merged PR [#93](https://github.com/reinhapa/virtual-printer/pull/93) in [reinhapa/virtual-printer](https://github.com/reinhapa/virtual-printer)
+4. 🎉 Merged PR [#62](https://github.com/xmldb-org/xmldb-api/pull/62) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
+5. 🎉 Merged PR [#70](https://github.com/reinhapa/slf4j-cdi/pull/70) in [reinhapa/slf4j-cdi](https://github.com/reinhapa/slf4j-cdi)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
