@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#228](https://github.com/eXist-db/monex/pull/228) in [eXist-db/monex](https://github.com/eXist-db/monex)
-2. 🎉 Merged PR [#4647](https://github.com/eXist-db/exist/pull/4647) in [eXist-db/exist](https://github.com/eXist-db/exist)
-3. 🎉 Merged PR [#206](https://github.com/reinhapa/eventeditor/pull/206) in [reinhapa/eventeditor](https://github.com/reinhapa/eventeditor)
-4. 🎉 Merged PR [#358](https://github.com/reinhapa/rabbitmq-cdi/pull/358) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
-5. 🎉 Merged PR [#96](https://github.com/reinhapa/virtual-printer/pull/96) in [reinhapa/virtual-printer](https://github.com/reinhapa/virtual-printer)
+1. 🎉 Merged PR [#356](https://github.com/reinhapa/rabbitmq-cdi/pull/356) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
+2. 🎉 Merged PR [#71](https://github.com/reinhapa/slf4j-cdi/pull/71) in [reinhapa/slf4j-cdi](https://github.com/reinhapa/slf4j-cdi)
+3. 🎉 Merged PR [#359](https://github.com/reinhapa/rabbitmq-cdi/pull/359) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
+4. 💪 Opened PR [#228](https://github.com/eXist-db/monex/pull/228) in [eXist-db/monex](https://github.com/eXist-db/monex)
+5. 🎉 Merged PR [#4647](https://github.com/eXist-db/exist/pull/4647) in [eXist-db/exist](https://github.com/eXist-db/exist)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
