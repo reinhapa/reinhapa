@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#785](https://github.com/izpack/izpack/pull/785) in [izpack/izpack](https://github.com/izpack/izpack)
-2. 🗣 Commented on [#785](https://github.com/izpack/izpack/issues/785) in [izpack/izpack](https://github.com/izpack/izpack)
-3. 🎉 Merged PR [#72](https://github.com/reinhapa/slf4j-cdi/pull/72) in [reinhapa/slf4j-cdi](https://github.com/reinhapa/slf4j-cdi)
-4. 🎉 Merged PR [#209](https://github.com/reinhapa/eventeditor/pull/209) in [reinhapa/eventeditor](https://github.com/reinhapa/eventeditor)
-5. 🎉 Merged PR [#98](https://github.com/reinhapa/virtual-printer/pull/98) in [reinhapa/virtual-printer](https://github.com/reinhapa/virtual-printer)
+1. 🎉 Merged PR [#69](https://github.com/xmldb-org/xmldb-api/pull/69) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
+2. 🗣 Commented on [#102](https://github.com/reinhapa/virtual-printer/issues/102) in [reinhapa/virtual-printer](https://github.com/reinhapa/virtual-printer)
+3. 🎉 Merged PR [#213](https://github.com/reinhapa/eventeditor/pull/213) in [reinhapa/eventeditor](https://github.com/reinhapa/eventeditor)
+4. ❌ Closed PR [#785](https://github.com/izpack/izpack/pull/785) in [izpack/izpack](https://github.com/izpack/izpack)
+5. 🗣 Commented on [#785](https://github.com/izpack/izpack/issues/785) in [izpack/izpack](https://github.com/izpack/izpack)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
