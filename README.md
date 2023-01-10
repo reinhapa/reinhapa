@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#69](https://github.com/xmldb-org/xmldb-api/pull/69) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
-2. 🗣 Commented on [#102](https://github.com/reinhapa/virtual-printer/issues/102) in [reinhapa/virtual-printer](https://github.com/reinhapa/virtual-printer)
-3. 🎉 Merged PR [#213](https://github.com/reinhapa/eventeditor/pull/213) in [reinhapa/eventeditor](https://github.com/reinhapa/eventeditor)
-4. ❌ Closed PR [#785](https://github.com/izpack/izpack/pull/785) in [izpack/izpack](https://github.com/izpack/izpack)
-5. 🗣 Commented on [#785](https://github.com/izpack/izpack/issues/785) in [izpack/izpack](https://github.com/izpack/izpack)
+1. 🎉 Merged PR [#101](https://github.com/reinhapa/virtual-printer/pull/101) in [reinhapa/virtual-printer](https://github.com/reinhapa/virtual-printer)
+2. 🎉 Merged PR [#103](https://github.com/reinhapa/virtual-printer/pull/103) in [reinhapa/virtual-printer](https://github.com/reinhapa/virtual-printer)
+3. 🎉 Merged PR [#104](https://github.com/reinhapa/virtual-printer/pull/104) in [reinhapa/virtual-printer](https://github.com/reinhapa/virtual-printer)
+4. 🎉 Merged PR [#214](https://github.com/reinhapa/eventeditor/pull/214) in [reinhapa/eventeditor](https://github.com/reinhapa/eventeditor)
+5. 🎉 Merged PR [#215](https://github.com/reinhapa/eventeditor/pull/215) in [reinhapa/eventeditor](https://github.com/reinhapa/eventeditor)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
