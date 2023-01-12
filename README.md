@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#101](https://github.com/reinhapa/virtual-printer/pull/101) in [reinhapa/virtual-printer](https://github.com/reinhapa/virtual-printer)
-2. 🎉 Merged PR [#103](https://github.com/reinhapa/virtual-printer/pull/103) in [reinhapa/virtual-printer](https://github.com/reinhapa/virtual-printer)
-3. 🎉 Merged PR [#104](https://github.com/reinhapa/virtual-printer/pull/104) in [reinhapa/virtual-printer](https://github.com/reinhapa/virtual-printer)
-4. 🎉 Merged PR [#214](https://github.com/reinhapa/eventeditor/pull/214) in [reinhapa/eventeditor](https://github.com/reinhapa/eventeditor)
-5. 🎉 Merged PR [#215](https://github.com/reinhapa/eventeditor/pull/215) in [reinhapa/eventeditor](https://github.com/reinhapa/eventeditor)
+1. 🎉 Merged PR [#107](https://github.com/reinhapa/virtual-printer/pull/107) in [reinhapa/virtual-printer](https://github.com/reinhapa/virtual-printer)
+2. 🎉 Merged PR [#72](https://github.com/xmldb-org/xmldb-api/pull/72) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
+3. 🎉 Merged PR [#368](https://github.com/reinhapa/rabbitmq-cdi/pull/368) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
+4. 🎉 Merged PR [#367](https://github.com/reinhapa/rabbitmq-cdi/pull/367) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
+5. 🎉 Merged PR [#216](https://github.com/reinhapa/eventeditor/pull/216) in [reinhapa/eventeditor](https://github.com/reinhapa/eventeditor)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
