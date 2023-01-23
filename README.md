@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#192](https://github.com/ebruck/radiotray-ng/issues/192) in [ebruck/radiotray-ng](https://github.com/ebruck/radiotray-ng)
-2. 🗣 Commented on [#192](https://github.com/ebruck/radiotray-ng/issues/192) in [ebruck/radiotray-ng](https://github.com/ebruck/radiotray-ng)
-3. 🎉 Merged PR [#224](https://github.com/reinhapa/eventeditor/pull/224) in [reinhapa/eventeditor](https://github.com/reinhapa/eventeditor)
-4. ❗️ Opened issue [#192](https://github.com/ebruck/radiotray-ng/issues/192) in [ebruck/radiotray-ng](https://github.com/ebruck/radiotray-ng)
-5. 🎉 Merged PR [#59](https://github.com/reinhapa/SwissFxKnife/pull/59) in [reinhapa/SwissFxKnife](https://github.com/reinhapa/SwissFxKnife)
+1. 💪 Opened PR [#4696](https://github.com/eXist-db/exist/pull/4696) in [eXist-db/exist](https://github.com/eXist-db/exist)
+2. ❗️ Closed issue [#192](https://github.com/ebruck/radiotray-ng/issues/192) in [ebruck/radiotray-ng](https://github.com/ebruck/radiotray-ng)
+3. 🗣 Commented on [#192](https://github.com/ebruck/radiotray-ng/issues/192) in [ebruck/radiotray-ng](https://github.com/ebruck/radiotray-ng)
+4. 🎉 Merged PR [#224](https://github.com/reinhapa/eventeditor/pull/224) in [reinhapa/eventeditor](https://github.com/reinhapa/eventeditor)
+5. ❗️ Opened issue [#192](https://github.com/ebruck/radiotray-ng/issues/192) in [ebruck/radiotray-ng](https://github.com/ebruck/radiotray-ng)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
