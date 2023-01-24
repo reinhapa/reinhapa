@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4696](https://github.com/eXist-db/exist/pull/4696) in [eXist-db/exist](https://github.com/eXist-db/exist)
-2. ❗️ Closed issue [#192](https://github.com/ebruck/radiotray-ng/issues/192) in [ebruck/radiotray-ng](https://github.com/ebruck/radiotray-ng)
-3. 🗣 Commented on [#192](https://github.com/ebruck/radiotray-ng/issues/192) in [ebruck/radiotray-ng](https://github.com/ebruck/radiotray-ng)
-4. 🎉 Merged PR [#224](https://github.com/reinhapa/eventeditor/pull/224) in [reinhapa/eventeditor](https://github.com/reinhapa/eventeditor)
-5. ❗️ Opened issue [#192](https://github.com/ebruck/radiotray-ng/issues/192) in [ebruck/radiotray-ng](https://github.com/ebruck/radiotray-ng)
+1. ❗️ Closed issue [#4694](https://github.com/eXist-db/exist/issues/4694) in [eXist-db/exist](https://github.com/eXist-db/exist)
+2. 🎉 Merged PR [#4697](https://github.com/eXist-db/exist/pull/4697) in [eXist-db/exist](https://github.com/eXist-db/exist)
+3. 🎉 Merged PR [#61](https://github.com/reinhapa/SwissFxKnife/pull/61) in [reinhapa/SwissFxKnife](https://github.com/reinhapa/SwissFxKnife)
+4. 🎉 Merged PR [#62](https://github.com/reinhapa/SwissFxKnife/pull/62) in [reinhapa/SwissFxKnife](https://github.com/reinhapa/SwissFxKnife)
+5. 💪 Opened PR [#4696](https://github.com/eXist-db/exist/pull/4696) in [eXist-db/exist](https://github.com/eXist-db/exist)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
