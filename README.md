@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4694](https://github.com/eXist-db/exist/issues/4694) in [eXist-db/exist](https://github.com/eXist-db/exist)
-2. 🎉 Merged PR [#4697](https://github.com/eXist-db/exist/pull/4697) in [eXist-db/exist](https://github.com/eXist-db/exist)
-3. 🎉 Merged PR [#61](https://github.com/reinhapa/SwissFxKnife/pull/61) in [reinhapa/SwissFxKnife](https://github.com/reinhapa/SwissFxKnife)
-4. 🎉 Merged PR [#62](https://github.com/reinhapa/SwissFxKnife/pull/62) in [reinhapa/SwissFxKnife](https://github.com/reinhapa/SwissFxKnife)
-5. 💪 Opened PR [#4696](https://github.com/eXist-db/exist/pull/4696) in [eXist-db/exist](https://github.com/eXist-db/exist)
+1. 🗣 Commented on [#4695](https://github.com/eXist-db/exist/issues/4695) in [eXist-db/exist](https://github.com/eXist-db/exist)
+2. 🗣 Commented on [#4695](https://github.com/eXist-db/exist/issues/4695) in [eXist-db/exist](https://github.com/eXist-db/exist)
+3. 🗣 Commented on [#4695](https://github.com/eXist-db/exist/issues/4695) in [eXist-db/exist](https://github.com/eXist-db/exist)
+4. ❗️ Closed issue [#4694](https://github.com/eXist-db/exist/issues/4694) in [eXist-db/exist](https://github.com/eXist-db/exist)
+5. 🎉 Merged PR [#4697](https://github.com/eXist-db/exist/pull/4697) in [eXist-db/exist](https://github.com/eXist-db/exist)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
