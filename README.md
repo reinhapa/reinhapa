@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4698](https://github.com/eXist-db/exist/issues/4698) in [eXist-db/exist](https://github.com/eXist-db/exist)
-2. 🗣 Commented on [#4695](https://github.com/eXist-db/exist/issues/4695) in [eXist-db/exist](https://github.com/eXist-db/exist)
+1. 💪 Opened PR [#12220](https://github.com/openjdk/jdk/pull/12220) in [openjdk/jdk](https://github.com/openjdk/jdk)
+2. 🗣 Commented on [#4698](https://github.com/eXist-db/exist/issues/4698) in [eXist-db/exist](https://github.com/eXist-db/exist)
 3. 🗣 Commented on [#4695](https://github.com/eXist-db/exist/issues/4695) in [eXist-db/exist](https://github.com/eXist-db/exist)
 4. 🗣 Commented on [#4695](https://github.com/eXist-db/exist/issues/4695) in [eXist-db/exist](https://github.com/eXist-db/exist)
-5. ❗️ Closed issue [#4694](https://github.com/eXist-db/exist/issues/4694) in [eXist-db/exist](https://github.com/eXist-db/exist)
+5. 🗣 Commented on [#4695](https://github.com/eXist-db/exist/issues/4695) in [eXist-db/exist](https://github.com/eXist-db/exist)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
