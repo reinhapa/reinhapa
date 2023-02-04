@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#788](https://github.com/izpack/izpack/pull/788) in [izpack/izpack](https://github.com/izpack/izpack)
-2. 💪 Opened PR [#787](https://github.com/izpack/izpack/pull/787) in [izpack/izpack](https://github.com/izpack/izpack)
-3. 🎉 Merged PR [#1](https://github.com/reinhapa/Sandbox/pull/1) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
-4. 💪 Opened PR [#1](https://github.com/reinhapa/Sandbox/pull/1) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
-5. 🎉 Merged PR [#4715](https://github.com/eXist-db/exist/pull/4715) in [eXist-db/exist](https://github.com/eXist-db/exist)
+1. 🎉 Merged PR [#787](https://github.com/izpack/izpack/pull/787) in [izpack/izpack](https://github.com/izpack/izpack)
+2. 🎉 Merged PR [#788](https://github.com/izpack/izpack/pull/788) in [izpack/izpack](https://github.com/izpack/izpack)
+3. 🎉 Merged PR [#3](https://github.com/reinhapa/Sandbox/pull/3) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
+4. 💪 Opened PR [#788](https://github.com/izpack/izpack/pull/788) in [izpack/izpack](https://github.com/izpack/izpack)
+5. 💪 Opened PR [#787](https://github.com/izpack/izpack/pull/787) in [izpack/izpack](https://github.com/izpack/izpack)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
