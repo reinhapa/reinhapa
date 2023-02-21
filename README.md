@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1491](https://github.com/TweetWallFX/TweetwallFX/pull/1491) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-2. 💪 Opened PR [#1491](https://github.com/TweetWallFX/TweetwallFX/pull/1491) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-3. 🎉 Merged PR [#236](https://github.com/reinhapa/eventeditor/pull/236) in [reinhapa/eventeditor](https://github.com/reinhapa/eventeditor)
-4. 🎉 Merged PR [#382](https://github.com/reinhapa/rabbitmq-cdi/pull/382) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
-5. 🎉 Merged PR [#120](https://github.com/reinhapa/virtual-printer/pull/120) in [reinhapa/virtual-printer](https://github.com/reinhapa/virtual-printer)
+1. 🎉 Merged PR [#79](https://github.com/eXist-db/xst/pull/79) in [eXist-db/xst](https://github.com/eXist-db/xst)
+2. 🎉 Merged PR [#8](https://github.com/reinhapa/Sandbox/pull/8) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
+3. 🎉 Merged PR [#9](https://github.com/reinhapa/Sandbox/pull/9) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
+4. 🎉 Merged PR [#10](https://github.com/reinhapa/Sandbox/pull/10) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
+5. 🎉 Merged PR [#1491](https://github.com/TweetWallFX/TweetwallFX/pull/1491) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
