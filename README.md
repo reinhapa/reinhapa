@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#79](https://github.com/eXist-db/xst/pull/79) in [eXist-db/xst](https://github.com/eXist-db/xst)
-2. 🎉 Merged PR [#8](https://github.com/reinhapa/Sandbox/pull/8) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
-3. 🎉 Merged PR [#9](https://github.com/reinhapa/Sandbox/pull/9) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
-4. 🎉 Merged PR [#10](https://github.com/reinhapa/Sandbox/pull/10) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
-5. 🎉 Merged PR [#1491](https://github.com/TweetWallFX/TweetwallFX/pull/1491) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+1. 🗣 Commented on [#4622](https://github.com/eXist-db/exist/issues/4622) in [eXist-db/exist](https://github.com/eXist-db/exist)
+2. 🗣 Commented on [#4761](https://github.com/eXist-db/exist/issues/4761) in [eXist-db/exist](https://github.com/eXist-db/exist)
+3. 💪 Opened PR [#4761](https://github.com/eXist-db/exist/pull/4761) in [eXist-db/exist](https://github.com/eXist-db/exist)
+4. 🎉 Merged PR [#74](https://github.com/reinhapa/slf4j-cdi/pull/74) in [reinhapa/slf4j-cdi](https://github.com/reinhapa/slf4j-cdi)
+5. 🎉 Merged PR [#88](https://github.com/xmldb-org/xmldb-api/pull/88) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
