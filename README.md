@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4622](https://github.com/eXist-db/exist/issues/4622) in [eXist-db/exist](https://github.com/eXist-db/exist)
-2. 🗣 Commented on [#4761](https://github.com/eXist-db/exist/issues/4761) in [eXist-db/exist](https://github.com/eXist-db/exist)
-3. 💪 Opened PR [#4761](https://github.com/eXist-db/exist/pull/4761) in [eXist-db/exist](https://github.com/eXist-db/exist)
-4. 🎉 Merged PR [#74](https://github.com/reinhapa/slf4j-cdi/pull/74) in [reinhapa/slf4j-cdi](https://github.com/reinhapa/slf4j-cdi)
-5. 🎉 Merged PR [#88](https://github.com/xmldb-org/xmldb-api/pull/88) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
+1. 🗣 Commented on [#3133](https://github.com/ehcache/ehcache3/issues/3133) in [ehcache/ehcache3](https://github.com/ehcache/ehcache3)
+2. 💪 Opened PR [#200](https://github.com/vdurmont/emoji-java/pull/200) in [vdurmont/emoji-java](https://github.com/vdurmont/emoji-java)
+3. 💪 Opened PR [#3133](https://github.com/ehcache/ehcache3/pull/3133) in [ehcache/ehcache3](https://github.com/ehcache/ehcache3)
+4. 🗣 Commented on [#2158](https://github.com/ehcache/ehcache3/issues/2158) in [ehcache/ehcache3](https://github.com/ehcache/ehcache3)
+5. ❗️ Opened issue [#199](https://github.com/vdurmont/emoji-java/issues/199) in [vdurmont/emoji-java](https://github.com/vdurmont/emoji-java)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
