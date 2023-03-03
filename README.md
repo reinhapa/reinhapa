@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3133](https://github.com/ehcache/ehcache3/issues/3133) in [ehcache/ehcache3](https://github.com/ehcache/ehcache3)
-2. 🎉 Merged PR [#232](https://github.com/eXist-db/monex/pull/232) in [eXist-db/monex](https://github.com/eXist-db/monex)
-3. 🗣 Commented on [#4773](https://github.com/eXist-db/exist/issues/4773) in [eXist-db/exist](https://github.com/eXist-db/exist)
-4. 🗣 Commented on [#4772](https://github.com/eXist-db/exist/issues/4772) in [eXist-db/exist](https://github.com/eXist-db/exist)
-5. 🎉 Merged PR [#239](https://github.com/reinhapa/eventeditor/pull/239) in [reinhapa/eventeditor](https://github.com/reinhapa/eventeditor)
+1. 🎉 Merged PR [#1](https://github.com/Mastodon4J/Mastodon4J/pull/1) in [Mastodon4J/Mastodon4J](https://github.com/Mastodon4J/Mastodon4J)
+2. 💪 Opened PR [#1](https://github.com/Mastodon4J/Mastodon4J/pull/1) in [Mastodon4J/Mastodon4J](https://github.com/Mastodon4J/Mastodon4J)
+3. 🗣 Commented on [#3133](https://github.com/ehcache/ehcache3/issues/3133) in [ehcache/ehcache3](https://github.com/ehcache/ehcache3)
+4. 🎉 Merged PR [#232](https://github.com/eXist-db/monex/pull/232) in [eXist-db/monex](https://github.com/eXist-db/monex)
+5. 🗣 Commented on [#4773](https://github.com/eXist-db/exist/issues/4773) in [eXist-db/exist](https://github.com/eXist-db/exist)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
