@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1503](https://github.com/TweetWallFX/TweetwallFX/pull/1503) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-2. 💪 Opened PR [#1503](https://github.com/TweetWallFX/TweetwallFX/pull/1503) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-3. 🎉 Merged PR [#4](https://github.com/Mastodon4J/Mastodon4J/pull/4) in [Mastodon4J/Mastodon4J](https://github.com/Mastodon4J/Mastodon4J)
-4. 💪 Opened PR [#4](https://github.com/Mastodon4J/Mastodon4J/pull/4) in [Mastodon4J/Mastodon4J](https://github.com/Mastodon4J/Mastodon4J)
-5. 🗣 Commented on [#1357](https://github.com/TweetWallFX/TweetwallFX/issues/1357) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+1. ❗️ Closed issue [#4785](https://github.com/eXist-db/exist/issues/4785) in [eXist-db/exist](https://github.com/eXist-db/exist)
+2. 🎉 Merged PR [#1504](https://github.com/TweetWallFX/TweetwallFX/pull/1504) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+3. 🗣 Commented on [#4785](https://github.com/eXist-db/exist/issues/4785) in [eXist-db/exist](https://github.com/eXist-db/exist)
+4. 🗣 Commented on [#4785](https://github.com/eXist-db/exist/issues/4785) in [eXist-db/exist](https://github.com/eXist-db/exist)
+5. 🗣 Commented on [#4785](https://github.com/eXist-db/exist/issues/4785) in [eXist-db/exist](https://github.com/eXist-db/exist)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
