@@ -47,9 +47,9 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4785](https://github.com/eXist-db/exist/issues/4785) in [eXist-db/exist](https://github.com/eXist-db/exist)
-2. 🎉 Merged PR [#1504](https://github.com/TweetWallFX/TweetwallFX/pull/1504) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-3. 🗣 Commented on [#4785](https://github.com/eXist-db/exist/issues/4785) in [eXist-db/exist](https://github.com/eXist-db/exist)
+1. 🎉 Merged PR [#17](https://github.com/reinhapa/Sandbox/pull/17) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
+2. ❗️ Closed issue [#4785](https://github.com/eXist-db/exist/issues/4785) in [eXist-db/exist](https://github.com/eXist-db/exist)
+3. 🎉 Merged PR [#1504](https://github.com/TweetWallFX/TweetwallFX/pull/1504) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
 4. 🗣 Commented on [#4785](https://github.com/eXist-db/exist/issues/4785) in [eXist-db/exist](https://github.com/eXist-db/exist)
 5. 🗣 Commented on [#4785](https://github.com/eXist-db/exist/issues/4785) in [eXist-db/exist](https://github.com/eXist-db/exist)
 <!--END_SECTION:activity-->
