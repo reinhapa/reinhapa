@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1505](https://github.com/TweetWallFX/TweetwallFX/pull/1505) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-2. 🎉 Merged PR [#4695](https://github.com/eXist-db/exist/pull/4695) in [eXist-db/exist](https://github.com/eXist-db/exist)
-3. 🎉 Merged PR [#4793](https://github.com/eXist-db/exist/pull/4793) in [eXist-db/exist](https://github.com/eXist-db/exist)
-4. 🎉 Merged PR [#4792](https://github.com/eXist-db/exist/pull/4792) in [eXist-db/exist](https://github.com/eXist-db/exist)
-5. 🎉 Merged PR [#5](https://github.com/Mastodon4J/Mastodon4J/pull/5) in [Mastodon4J/Mastodon4J](https://github.com/Mastodon4J/Mastodon4J)
+1. 🎉 Merged PR [#125](https://github.com/reinhapa/virtual-printer/pull/125) in [reinhapa/virtual-printer](https://github.com/reinhapa/virtual-printer)
+2. 🎉 Merged PR [#93](https://github.com/xmldb-org/xmldb-api/pull/93) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
+3. 💪 Opened PR [#1505](https://github.com/TweetWallFX/TweetwallFX/pull/1505) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+4. 🎉 Merged PR [#4695](https://github.com/eXist-db/exist/pull/4695) in [eXist-db/exist](https://github.com/eXist-db/exist)
+5. 🎉 Merged PR [#4793](https://github.com/eXist-db/exist/pull/4793) in [eXist-db/exist](https://github.com/eXist-db/exist)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
