@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#791](https://github.com/izpack/izpack/pull/791) in [izpack/izpack](https://github.com/izpack/izpack)
-2. 🎉 Merged PR [#789](https://github.com/izpack/izpack/pull/789) in [izpack/izpack](https://github.com/izpack/izpack)
-3. 🗣 Commented on [#779](https://github.com/izpack/izpack/issues/779) in [izpack/izpack](https://github.com/izpack/izpack)
-4. 🗣 Commented on [#4819](https://github.com/eXist-db/exist/issues/4819) in [eXist-db/exist](https://github.com/eXist-db/exist)
-5. 🎉 Merged PR [#2](https://github.com/reinhapa/Sandbox/pull/2) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
+1. 🎉 Merged PR [#242](https://github.com/reinhapa/eventeditor/pull/242) in [reinhapa/eventeditor](https://github.com/reinhapa/eventeditor)
+2. 🎉 Merged PR [#391](https://github.com/reinhapa/rabbitmq-cdi/pull/391) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
+3. 🎉 Merged PR [#126](https://github.com/reinhapa/virtual-printer/pull/126) in [reinhapa/virtual-printer](https://github.com/reinhapa/virtual-printer)
+4. 🎉 Merged PR [#24](https://github.com/reinhapa/Sandbox/pull/24) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
+5. 🎉 Merged PR [#791](https://github.com/izpack/izpack/pull/791) in [izpack/izpack](https://github.com/izpack/izpack)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
