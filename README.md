@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1505](https://github.com/TweetWallFX/TweetwallFX/pull/1505) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-2. 🗣 Commented on [#4841](https://github.com/eXist-db/exist/issues/4841) in [eXist-db/exist](https://github.com/eXist-db/exist)
-3. 🎉 Merged PR [#2](https://github.com/reinhapa/izPackDemoInstaller/pull/2) in [reinhapa/izPackDemoInstaller](https://github.com/reinhapa/izPackDemoInstaller)
-4. 🎉 Merged PR [#393](https://github.com/reinhapa/rabbitmq-cdi/pull/393) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
-5. 🎉 Merged PR [#94](https://github.com/xmldb-org/xmldb-api/pull/94) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
+1. 💪 Opened PR [#4852](https://github.com/eXist-db/exist/pull/4852) in [eXist-db/exist](https://github.com/eXist-db/exist)
+2. 🎉 Merged PR [#794](https://github.com/izpack/izpack/pull/794) in [izpack/izpack](https://github.com/izpack/izpack)
+3. 🎉 Merged PR [#1505](https://github.com/TweetWallFX/TweetwallFX/pull/1505) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+4. 🗣 Commented on [#4841](https://github.com/eXist-db/exist/issues/4841) in [eXist-db/exist](https://github.com/eXist-db/exist)
+5. 🎉 Merged PR [#2](https://github.com/reinhapa/izPackDemoInstaller/pull/2) in [reinhapa/izPackDemoInstaller](https://github.com/reinhapa/izPackDemoInstaller)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
