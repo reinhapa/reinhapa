@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/reinhapa/tcow/pull/4) in [reinhapa/tcow](https://github.com/reinhapa/tcow)
-2. 🎉 Merged PR [#799](https://github.com/izpack/izpack/pull/799) in [izpack/izpack](https://github.com/izpack/izpack)
-3. 🗣 Commented on [#799](https://github.com/izpack/izpack/issues/799) in [izpack/izpack](https://github.com/izpack/izpack)
-4. 🎉 Merged PR [#1526](https://github.com/TweetWallFX/TweetwallFX/pull/1526) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-5. 🎉 Merged PR [#1521](https://github.com/TweetWallFX/TweetwallFX/pull/1521) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+1. 🎉 Merged PR [#398](https://github.com/reinhapa/rabbitmq-cdi/pull/398) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
+2. 🎉 Merged PR [#396](https://github.com/reinhapa/rabbitmq-cdi/pull/396) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
+3. 🎉 Merged PR [#397](https://github.com/reinhapa/rabbitmq-cdi/pull/397) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
+4. 🎉 Merged PR [#33](https://github.com/reinhapa/Sandbox/pull/33) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
+5. 🎉 Merged PR [#31](https://github.com/reinhapa/Sandbox/pull/31) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
