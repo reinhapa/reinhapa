@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#398](https://github.com/reinhapa/rabbitmq-cdi/pull/398) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
-2. 🎉 Merged PR [#396](https://github.com/reinhapa/rabbitmq-cdi/pull/396) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
-3. 🎉 Merged PR [#397](https://github.com/reinhapa/rabbitmq-cdi/pull/397) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
-4. 🎉 Merged PR [#33](https://github.com/reinhapa/Sandbox/pull/33) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
-5. 🎉 Merged PR [#31](https://github.com/reinhapa/Sandbox/pull/31) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
+1. 🎉 Merged PR [#110](https://github.com/eXist-db/xst/pull/110) in [eXist-db/xst](https://github.com/eXist-db/xst)
+2. 🎉 Merged PR [#111](https://github.com/eXist-db/xst/pull/111) in [eXist-db/xst](https://github.com/eXist-db/xst)
+3. 🎉 Merged PR [#803](https://github.com/izpack/izpack/pull/803) in [izpack/izpack](https://github.com/izpack/izpack)
+4. 🎉 Merged PR [#398](https://github.com/reinhapa/rabbitmq-cdi/pull/398) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
+5. 🎉 Merged PR [#396](https://github.com/reinhapa/rabbitmq-cdi/pull/396) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
