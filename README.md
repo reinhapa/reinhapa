@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#98](https://github.com/xmldb-org/xmldb-api/pull/98) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
-2. 🎉 Merged PR [#7](https://github.com/Mastodon4J/Mastodon4J/pull/7) in [Mastodon4J/Mastodon4J](https://github.com/Mastodon4J/Mastodon4J)
-3. 🗣 Commented on [#1529](https://github.com/TweetWallFX/TweetwallFX/issues/1529) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+1. 🎉 Merged PR [#804](https://github.com/izpack/izpack/pull/804) in [izpack/izpack](https://github.com/izpack/izpack)
+2. 🎉 Merged PR [#98](https://github.com/xmldb-org/xmldb-api/pull/98) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
+3. 🎉 Merged PR [#7](https://github.com/Mastodon4J/Mastodon4J/pull/7) in [Mastodon4J/Mastodon4J](https://github.com/Mastodon4J/Mastodon4J)
 4. 🗣 Commented on [#1529](https://github.com/TweetWallFX/TweetwallFX/issues/1529) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-5. 🎉 Merged PR [#34](https://github.com/reinhapa/Sandbox/pull/34) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
+5. 🗣 Commented on [#1529](https://github.com/TweetWallFX/TweetwallFX/issues/1529) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
