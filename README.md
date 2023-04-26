@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#401](https://github.com/reinhapa/rabbitmq-cdi/pull/401) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
-2. 🎉 Merged PR [#402](https://github.com/reinhapa/rabbitmq-cdi/pull/402) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
-3. 🎉 Merged PR [#8](https://github.com/Mastodon4J/Mastodon4J/pull/8) in [Mastodon4J/Mastodon4J](https://github.com/Mastodon4J/Mastodon4J)
-4. 🎉 Merged PR [#6](https://github.com/reinhapa/tcow/pull/6) in [reinhapa/tcow](https://github.com/reinhapa/tcow)
-5. 🎉 Merged PR [#400](https://github.com/reinhapa/rabbitmq-cdi/pull/400) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
+1. 🎉 Merged PR [#5](https://github.com/reinhapa/tcow/pull/5) in [reinhapa/tcow](https://github.com/reinhapa/tcow)
+2. 🎉 Merged PR [#401](https://github.com/reinhapa/rabbitmq-cdi/pull/401) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
+3. 🎉 Merged PR [#402](https://github.com/reinhapa/rabbitmq-cdi/pull/402) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
+4. 🎉 Merged PR [#8](https://github.com/Mastodon4J/Mastodon4J/pull/8) in [Mastodon4J/Mastodon4J](https://github.com/Mastodon4J/Mastodon4J)
+5. 🎉 Merged PR [#6](https://github.com/reinhapa/tcow/pull/6) in [reinhapa/tcow](https://github.com/reinhapa/tcow)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
