@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com/reinhapa/Sandbox/pull/38) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
-2. 🎉 Merged PR [#4](https://github.com/reinhapa/izPackDemoInstaller/pull/4) in [reinhapa/izPackDemoInstaller](https://github.com/reinhapa/izPackDemoInstaller)
-3. 🎉 Merged PR [#135](https://github.com/reinhapa/virtual-printer/pull/135) in [reinhapa/virtual-printer](https://github.com/reinhapa/virtual-printer)
-4. 🎉 Merged PR [#40](https://github.com/reinhapa/Sandbox/pull/40) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
-5. 🎉 Merged PR [#5](https://github.com/reinhapa/izPackDemoInstaller/pull/5) in [reinhapa/izPackDemoInstaller](https://github.com/reinhapa/izPackDemoInstaller)
+1. 🎉 Merged PR [#405](https://github.com/reinhapa/rabbitmq-cdi/pull/405) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
+2. 🎉 Merged PR [#404](https://github.com/reinhapa/rabbitmq-cdi/pull/404) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
+3. 🎉 Merged PR [#406](https://github.com/reinhapa/rabbitmq-cdi/pull/406) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
+4. 🎉 Merged PR [#38](https://github.com/reinhapa/Sandbox/pull/38) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
+5. 🎉 Merged PR [#4](https://github.com/reinhapa/izPackDemoInstaller/pull/4) in [reinhapa/izPackDemoInstaller](https://github.com/reinhapa/izPackDemoInstaller)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
