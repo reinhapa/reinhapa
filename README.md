@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#405](https://github.com/reinhapa/rabbitmq-cdi/pull/405) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
-2. 🎉 Merged PR [#404](https://github.com/reinhapa/rabbitmq-cdi/pull/404) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
-3. 🎉 Merged PR [#406](https://github.com/reinhapa/rabbitmq-cdi/pull/406) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
-4. 🎉 Merged PR [#38](https://github.com/reinhapa/Sandbox/pull/38) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
-5. 🎉 Merged PR [#4](https://github.com/reinhapa/izPackDemoInstaller/pull/4) in [reinhapa/izPackDemoInstaller](https://github.com/reinhapa/izPackDemoInstaller)
+1. ❗️ Closed issue [#4894](https://github.com/eXist-db/exist/issues/4894) in [eXist-db/exist](https://github.com/eXist-db/exist)
+2. 🎉 Merged PR [#4895](https://github.com/eXist-db/exist/pull/4895) in [eXist-db/exist](https://github.com/eXist-db/exist)
+3. ❗️ Closed issue [#4729](https://github.com/eXist-db/exist/issues/4729) in [eXist-db/exist](https://github.com/eXist-db/exist)
+4. 🎉 Merged PR [#4899](https://github.com/eXist-db/exist/pull/4899) in [eXist-db/exist](https://github.com/eXist-db/exist)
+5. 🎉 Merged PR [#405](https://github.com/reinhapa/rabbitmq-cdi/pull/405) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
