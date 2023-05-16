@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1550](https://github.com/TweetWallFX/TweetwallFX/pull/1550) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-2. 🎉 Merged PR [#315](https://github.com/reinhapa/TweetWallFX/pull/315) in [reinhapa/TweetWallFX](https://github.com/reinhapa/TweetWallFX)
-3. 🎉 Merged PR [#4917](https://github.com/eXist-db/exist/pull/4917) in [eXist-db/exist](https://github.com/eXist-db/exist)
-4. ❗️ Closed issue [#4901](https://github.com/eXist-db/exist/issues/4901) in [eXist-db/exist](https://github.com/eXist-db/exist)
-5. 🎉 Merged PR [#4902](https://github.com/eXist-db/exist/pull/4902) in [eXist-db/exist](https://github.com/eXist-db/exist)
+1. 🎉 Merged PR [#15](https://github.com/reinhapa/tcow/pull/15) in [reinhapa/tcow](https://github.com/reinhapa/tcow)
+2. 🎉 Merged PR [#14](https://github.com/reinhapa/tcow/pull/14) in [reinhapa/tcow](https://github.com/reinhapa/tcow)
+3. 🎉 Merged PR [#17](https://github.com/reinhapa/tcow/pull/17) in [reinhapa/tcow](https://github.com/reinhapa/tcow)
+4. 🎉 Merged PR [#16](https://github.com/reinhapa/tcow/pull/16) in [reinhapa/tcow](https://github.com/reinhapa/tcow)
+5. 🎉 Merged PR [#45](https://github.com/reinhapa/Sandbox/pull/45) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
