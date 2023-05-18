@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/reinhapa/tcow/pull/15) in [reinhapa/tcow](https://github.com/reinhapa/tcow)
-2. 🎉 Merged PR [#14](https://github.com/reinhapa/tcow/pull/14) in [reinhapa/tcow](https://github.com/reinhapa/tcow)
-3. 🎉 Merged PR [#17](https://github.com/reinhapa/tcow/pull/17) in [reinhapa/tcow](https://github.com/reinhapa/tcow)
-4. 🎉 Merged PR [#16](https://github.com/reinhapa/tcow/pull/16) in [reinhapa/tcow](https://github.com/reinhapa/tcow)
-5. 🎉 Merged PR [#45](https://github.com/reinhapa/Sandbox/pull/45) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
+1. 🎉 Merged PR [#4924](https://github.com/eXist-db/exist/pull/4924) in [eXist-db/exist](https://github.com/eXist-db/exist)
+2. ❗️ Closed issue [#4518](https://github.com/eXist-db/exist/issues/4518) in [eXist-db/exist](https://github.com/eXist-db/exist)
+3. 🎉 Merged PR [#4900](https://github.com/eXist-db/exist/pull/4900) in [eXist-db/exist](https://github.com/eXist-db/exist)
+4. 🎉 Merged PR [#251](https://github.com/reinhapa/eventeditor/pull/251) in [reinhapa/eventeditor](https://github.com/reinhapa/eventeditor)
+5. 🎉 Merged PR [#252](https://github.com/reinhapa/eventeditor/pull/252) in [reinhapa/eventeditor](https://github.com/reinhapa/eventeditor)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
