@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#254](https://github.com/reinhapa/eventeditor/pull/254) in [reinhapa/eventeditor](https://github.com/reinhapa/eventeditor)
-2. 🎉 Merged PR [#4924](https://github.com/eXist-db/exist/pull/4924) in [eXist-db/exist](https://github.com/eXist-db/exist)
-3. ❗️ Closed issue [#4518](https://github.com/eXist-db/exist/issues/4518) in [eXist-db/exist](https://github.com/eXist-db/exist)
-4. 🎉 Merged PR [#4900](https://github.com/eXist-db/exist/pull/4900) in [eXist-db/exist](https://github.com/eXist-db/exist)
-5. 🎉 Merged PR [#251](https://github.com/reinhapa/eventeditor/pull/251) in [reinhapa/eventeditor](https://github.com/reinhapa/eventeditor)
+1. 🎉 Merged PR [#47](https://github.com/reinhapa/Sandbox/pull/47) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
+2. 🎉 Merged PR [#48](https://github.com/reinhapa/Sandbox/pull/48) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
+3. 🎉 Merged PR [#1573](https://github.com/TweetWallFX/TweetwallFX/pull/1573) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+4. 🎉 Merged PR [#253](https://github.com/reinhapa/eventeditor/pull/253) in [reinhapa/eventeditor](https://github.com/reinhapa/eventeditor)
+5. 🎉 Merged PR [#408](https://github.com/reinhapa/rabbitmq-cdi/pull/408) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
