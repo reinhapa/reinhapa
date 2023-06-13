@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#409](https://github.com/reinhapa/rabbitmq-cdi/pull/409) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
-2. 🎉 Merged PR [#51](https://github.com/reinhapa/Sandbox/pull/51) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
-3. 💪 Opened PR [#537](https://github.com/gpx-animator/gpx-animator/pull/537) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-4. 🎉 Merged PR [#255](https://github.com/reinhapa/eventeditor/pull/255) in [reinhapa/eventeditor](https://github.com/reinhapa/eventeditor)
-5. 🎉 Merged PR [#256](https://github.com/reinhapa/eventeditor/pull/256) in [reinhapa/eventeditor](https://github.com/reinhapa/eventeditor)
+1. 🎉 Merged PR [#20](https://github.com/reinhapa/tcow/pull/20) in [reinhapa/tcow](https://github.com/reinhapa/tcow)
+2. 🎉 Merged PR [#76](https://github.com/reinhapa/slf4j-cdi/pull/76) in [reinhapa/slf4j-cdi](https://github.com/reinhapa/slf4j-cdi)
+3. 🎉 Merged PR [#52](https://github.com/reinhapa/Sandbox/pull/52) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
+4. 🎉 Merged PR [#53](https://github.com/reinhapa/Sandbox/pull/53) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
+5. 🎉 Merged PR [#107](https://github.com/xmldb-org/xmldb-api/pull/107) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
