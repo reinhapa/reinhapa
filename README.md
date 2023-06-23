@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4866](https://github.com/eXist-db/exist/issues/4866) in [eXist-db/exist](https://github.com/eXist-db/exist)
-2. 🗣 Commented on [#4922](https://github.com/eXist-db/exist/issues/4922) in [eXist-db/exist](https://github.com/eXist-db/exist)
-3. 🎉 Merged PR [#412](https://github.com/reinhapa/rabbitmq-cdi/pull/412) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
-4. 🎉 Merged PR [#21](https://github.com/reinhapa/tcow/pull/21) in [reinhapa/tcow](https://github.com/reinhapa/tcow)
-5. 🎉 Merged PR [#411](https://github.com/reinhapa/rabbitmq-cdi/pull/411) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
+1. 🎉 Merged PR [#4893](https://github.com/eXist-db/exist/pull/4893) in [eXist-db/exist](https://github.com/eXist-db/exist)
+2. 🗣 Commented on [#4910](https://github.com/eXist-db/exist/issues/4910) in [eXist-db/exist](https://github.com/eXist-db/exist)
+3. 🗣 Commented on [#4866](https://github.com/eXist-db/exist/issues/4866) in [eXist-db/exist](https://github.com/eXist-db/exist)
+4. 🗣 Commented on [#4922](https://github.com/eXist-db/exist/issues/4922) in [eXist-db/exist](https://github.com/eXist-db/exist)
+5. 🎉 Merged PR [#412](https://github.com/reinhapa/rabbitmq-cdi/pull/412) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
