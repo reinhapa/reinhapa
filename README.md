@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#259](https://github.com/reinhapa/eventeditor/pull/259) in [reinhapa/eventeditor](https://github.com/reinhapa/eventeditor)
-2. 🎉 Merged PR [#4893](https://github.com/eXist-db/exist/pull/4893) in [eXist-db/exist](https://github.com/eXist-db/exist)
-3. 🗣 Commented on [#4910](https://github.com/eXist-db/exist/issues/4910) in [eXist-db/exist](https://github.com/eXist-db/exist)
-4. 🗣 Commented on [#4866](https://github.com/eXist-db/exist/issues/4866) in [eXist-db/exist](https://github.com/eXist-db/exist)
-5. 🗣 Commented on [#4922](https://github.com/eXist-db/exist/issues/4922) in [eXist-db/exist](https://github.com/eXist-db/exist)
+1. 🗣 Commented on [#4890](https://github.com/eXist-db/exist/issues/4890) in [eXist-db/exist](https://github.com/eXist-db/exist)
+2. 🎉 Merged PR [#259](https://github.com/reinhapa/eventeditor/pull/259) in [reinhapa/eventeditor](https://github.com/reinhapa/eventeditor)
+3. 🎉 Merged PR [#4893](https://github.com/eXist-db/exist/pull/4893) in [eXist-db/exist](https://github.com/eXist-db/exist)
+4. 🗣 Commented on [#4910](https://github.com/eXist-db/exist/issues/4910) in [eXist-db/exist](https://github.com/eXist-db/exist)
+5. 🗣 Commented on [#4866](https://github.com/eXist-db/exist/issues/4866) in [eXist-db/exist](https://github.com/eXist-db/exist)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
