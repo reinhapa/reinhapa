@@ -48,10 +48,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4890](https://github.com/eXist-db/exist/issues/4890) in [eXist-db/exist](https://github.com/eXist-db/exist)
-2. 🎉 Merged PR [#62](https://github.com/reinhapa/Sandbox/pull/62) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
-3. 🎉 Merged PR [#1593](https://github.com/TweetWallFX/TweetwallFX/pull/1593) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-4. 🎉 Merged PR [#1591](https://github.com/TweetWallFX/TweetwallFX/pull/1591) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-5. 🎉 Merged PR [#807](https://github.com/izpack/izpack/pull/807) in [izpack/izpack](https://github.com/izpack/izpack)
+2. 🎉 Merged PR [#141](https://github.com/reinhapa/virtual-printer/pull/141) in [reinhapa/virtual-printer](https://github.com/reinhapa/virtual-printer)
+3. 💪 Opened PR [#141](https://github.com/reinhapa/virtual-printer/pull/141) in [reinhapa/virtual-printer](https://github.com/reinhapa/virtual-printer)
+4. 🔒 Closed issue [#139](https://github.com/reinhapa/virtual-printer/issues/139) in [reinhapa/virtual-printer](https://github.com/reinhapa/virtual-printer)
+5. 🎉 Merged PR [#140](https://github.com/reinhapa/virtual-printer/pull/140) in [reinhapa/virtual-printer](https://github.com/reinhapa/virtual-printer)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
