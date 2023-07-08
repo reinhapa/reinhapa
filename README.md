@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4890](https://github.com/eXist-db/exist/issues/4890) in [eXist-db/exist](https://github.com/eXist-db/exist)
-2. 🎉 Merged PR [#141](https://github.com/reinhapa/virtual-printer/pull/141) in [reinhapa/virtual-printer](https://github.com/reinhapa/virtual-printer)
-3. 💪 Opened PR [#141](https://github.com/reinhapa/virtual-printer/pull/141) in [reinhapa/virtual-printer](https://github.com/reinhapa/virtual-printer)
-4. 🔒 Closed issue [#139](https://github.com/reinhapa/virtual-printer/issues/139) in [reinhapa/virtual-printer](https://github.com/reinhapa/virtual-printer)
-5. 🎉 Merged PR [#140](https://github.com/reinhapa/virtual-printer/pull/140) in [reinhapa/virtual-printer](https://github.com/reinhapa/virtual-printer)
+1. 🎉 Merged PR [#143](https://github.com/reinhapa/virtual-printer/pull/143) in [reinhapa/virtual-printer](https://github.com/reinhapa/virtual-printer)
+2. 💪 Opened PR [#143](https://github.com/reinhapa/virtual-printer/pull/143) in [reinhapa/virtual-printer](https://github.com/reinhapa/virtual-printer)
+3. 🎉 Merged PR [#142](https://github.com/reinhapa/virtual-printer/pull/142) in [reinhapa/virtual-printer](https://github.com/reinhapa/virtual-printer)
+4. 💪 Opened PR [#142](https://github.com/reinhapa/virtual-printer/pull/142) in [reinhapa/virtual-printer](https://github.com/reinhapa/virtual-printer)
+5. 🗣 Commented on [#4890](https://github.com/eXist-db/exist/issues/4890) in [eXist-db/exist](https://github.com/eXist-db/exist)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
