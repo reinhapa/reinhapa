@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#47](https://github.com/adoptium/jmc-build/issues/47#issuecomment-1637371988) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
-2. 🔒 Closed issue [#47](https://github.com/adoptium/jmc-build/issues/47) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
-3. 🗣 Commented on [#808](https://github.com/izpack/izpack/pull/808#issuecomment-1637371417) in [izpack/izpack](https://github.com/izpack/izpack)
-4. 🚀 Published release [First release to support Jakarta EE package names](https://github.com/reinhapa/slf4j-cdi/releases/tag/release/2.0.0) in [reinhapa/slf4j-cdi](https://github.com/reinhapa/slf4j-cdi)
-5. 💪 Opened PR [#1998](https://github.com/adoptium/adoptium.net/pull/1998) in [adoptium/adoptium.net](https://github.com/adoptium/adoptium.net)
+1. 🎉 Merged PR [#4979](https://github.com/eXist-db/exist/pull/4979) in [eXist-db/exist](https://github.com/eXist-db/exist)
+2. 🎉 Merged PR [#4777](https://github.com/eXist-db/exist/pull/4777) in [eXist-db/exist](https://github.com/eXist-db/exist)
+3. 🎉 Merged PR [#4838](https://github.com/eXist-db/exist/pull/4838) in [eXist-db/exist](https://github.com/eXist-db/exist)
+4. 🗣 Commented on [#47](https://github.com/adoptium/jmc-build/issues/47#issuecomment-1637371988) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
+5. 🔒 Closed issue [#47](https://github.com/adoptium/jmc-build/issues/47) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
