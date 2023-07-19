@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4979](https://github.com/eXist-db/exist/pull/4979) in [eXist-db/exist](https://github.com/eXist-db/exist)
-2. 🎉 Merged PR [#4777](https://github.com/eXist-db/exist/pull/4777) in [eXist-db/exist](https://github.com/eXist-db/exist)
-3. 🎉 Merged PR [#4838](https://github.com/eXist-db/exist/pull/4838) in [eXist-db/exist](https://github.com/eXist-db/exist)
-4. 🗣 Commented on [#47](https://github.com/adoptium/jmc-build/issues/47#issuecomment-1637371988) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
-5. 🔒 Closed issue [#47](https://github.com/adoptium/jmc-build/issues/47) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
+1. 🎉 Merged PR [#4865](https://github.com/eXist-db/exist/pull/4865) in [eXist-db/exist](https://github.com/eXist-db/exist)
+2. 🗣 Commented on [#1595](https://github.com/TweetWallFX/TweetwallFX/pull/1595#issuecomment-1639874484) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+3. 🎉 Merged PR [#1597](https://github.com/TweetWallFX/TweetwallFX/pull/1597) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+4. 🗣 Commented on [#1597](https://github.com/TweetWallFX/TweetwallFX/pull/1597#issuecomment-1639860756) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+5. 🎉 Merged PR [#1596](https://github.com/TweetWallFX/TweetwallFX/pull/1596) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
