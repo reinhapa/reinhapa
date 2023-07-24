@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#40](https://github.com/adoptium/jmc-build/issues/40#issuecomment-1645257767) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
-2. 🗣 Commented on [#40](https://github.com/adoptium/jmc-build/issues/40#issuecomment-1645249794) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
-3. 🗣 Commented on [#40](https://github.com/adoptium/jmc-build/issues/40#issuecomment-1644951281) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
-4. 🎉 Merged PR [#1601](https://github.com/TweetWallFX/TweetwallFX/pull/1601) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-5. 🎉 Merged PR [#1600](https://github.com/TweetWallFX/TweetwallFX/pull/1600) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+1. 🎉 Merged PR [#111](https://github.com/xmldb-org/xmldb-api/pull/111) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
+2. 🎉 Merged PR [#112](https://github.com/xmldb-org/xmldb-api/pull/112) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
+3. 🎉 Merged PR [#113](https://github.com/xmldb-org/xmldb-api/pull/113) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
+4. 🗣 Commented on [#4866](https://github.com/eXist-db/exist/pull/4866#issuecomment-1647209230) in [eXist-db/exist](https://github.com/eXist-db/exist)
+5. 🎉 Merged PR [#71](https://github.com/reinhapa/SwissFxKnife/pull/71) in [reinhapa/SwissFxKnife](https://github.com/reinhapa/SwissFxKnife)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
