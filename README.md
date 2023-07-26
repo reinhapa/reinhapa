@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#111](https://github.com/xmldb-org/xmldb-api/pull/111) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
-2. 🎉 Merged PR [#112](https://github.com/xmldb-org/xmldb-api/pull/112) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
-3. 🎉 Merged PR [#113](https://github.com/xmldb-org/xmldb-api/pull/113) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
-4. 🗣 Commented on [#4866](https://github.com/eXist-db/exist/pull/4866#issuecomment-1647209230) in [eXist-db/exist](https://github.com/eXist-db/exist)
-5. 🎉 Merged PR [#71](https://github.com/reinhapa/SwissFxKnife/pull/71) in [reinhapa/SwissFxKnife](https://github.com/reinhapa/SwissFxKnife)
+1. 🎉 Merged PR [#147](https://github.com/reinhapa/virtual-printer/pull/147) in [reinhapa/virtual-printer](https://github.com/reinhapa/virtual-printer)
+2. 🎉 Merged PR [#68](https://github.com/reinhapa/Sandbox/pull/68) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
+3. 🎉 Merged PR [#15](https://github.com/Mastodon4J/Mastodon4J/pull/15) in [Mastodon4J/Mastodon4J](https://github.com/Mastodon4J/Mastodon4J)
+4. 🎉 Merged PR [#14](https://github.com/Mastodon4J/Mastodon4J/pull/14) in [Mastodon4J/Mastodon4J](https://github.com/Mastodon4J/Mastodon4J)
+5. 🎉 Merged PR [#419](https://github.com/reinhapa/rabbitmq-cdi/pull/419) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
