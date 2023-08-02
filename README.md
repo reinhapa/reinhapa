@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#70](https://github.com/reinhapa/Sandbox/pull/70) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
-2. 🎉 Merged PR [#4988](https://github.com/eXist-db/exist/pull/4988) in [eXist-db/exist](https://github.com/eXist-db/exist)
-3. 🎉 Merged PR [#72](https://github.com/reinhapa/Sandbox/pull/72) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
-4. 🎉 Merged PR [#71](https://github.com/reinhapa/Sandbox/pull/71) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
-5. 🎉 Merged PR [#69](https://github.com/reinhapa/Sandbox/pull/69) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
+1. 🎉 Merged PR [#1608](https://github.com/TweetWallFX/TweetwallFX/pull/1608) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+2. 🗣 Commented on [#510](https://github.com/openjdk/jmc/pull/510#issuecomment-1660089324) in [openjdk/jmc](https://github.com/openjdk/jmc)
+3. 💪 Opened PR [#510](https://github.com/openjdk/jmc/pull/510) in [openjdk/jmc](https://github.com/openjdk/jmc)
+4. 🎉 Merged PR [#70](https://github.com/reinhapa/Sandbox/pull/70) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
+5. 🎉 Merged PR [#4988](https://github.com/eXist-db/exist/pull/4988) in [eXist-db/exist](https://github.com/eXist-db/exist)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
