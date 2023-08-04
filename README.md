@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1608](https://github.com/TweetWallFX/TweetwallFX/pull/1608) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-2. 🗣 Commented on [#510](https://github.com/openjdk/jmc/pull/510#issuecomment-1660089324) in [openjdk/jmc](https://github.com/openjdk/jmc)
-3. 💪 Opened PR [#510](https://github.com/openjdk/jmc/pull/510) in [openjdk/jmc](https://github.com/openjdk/jmc)
-4. 🎉 Merged PR [#70](https://github.com/reinhapa/Sandbox/pull/70) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
-5. 🎉 Merged PR [#4988](https://github.com/eXist-db/exist/pull/4988) in [eXist-db/exist](https://github.com/eXist-db/exist)
+1. 🎉 Merged PR [#115](https://github.com/xmldb-org/xmldb-api/pull/115) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
+2. 🎉 Merged PR [#1608](https://github.com/TweetWallFX/TweetwallFX/pull/1608) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+3. 🗣 Commented on [#510](https://github.com/openjdk/jmc/pull/510#issuecomment-1660089324) in [openjdk/jmc](https://github.com/openjdk/jmc)
+4. 💪 Opened PR [#510](https://github.com/openjdk/jmc/pull/510) in [openjdk/jmc](https://github.com/openjdk/jmc)
+5. 🎉 Merged PR [#70](https://github.com/reinhapa/Sandbox/pull/70) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
