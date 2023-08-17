@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/reinhapa/tcow/pull/30) in [reinhapa/tcow](https://github.com/reinhapa/tcow)
-2. 🎉 Merged PR [#1615](https://github.com/TweetWallFX/TweetwallFX/pull/1615) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-3. 🗣 Commented on [#1615](https://github.com/TweetWallFX/TweetwallFX/pull/1615#issuecomment-1679111743) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-4. 🎉 Merged PR [#29](https://github.com/reinhapa/tcow/pull/29) in [reinhapa/tcow](https://github.com/reinhapa/tcow)
-5. 🎉 Merged PR [#81](https://github.com/reinhapa/Sandbox/pull/81) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
+1. 🎉 Merged PR [#76](https://github.com/rtcTo/rtc2gitcli/pull/76) in [rtcTo/rtc2gitcli](https://github.com/rtcTo/rtc2gitcli)
+2. 🔒 Closed issue [#5810](https://github.com/Templarian/MaterialDesign/issues/5810) in [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign)
+3. 🎉 Merged PR [#421](https://github.com/reinhapa/rabbitmq-cdi/pull/421) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
+4. 🎉 Merged PR [#30](https://github.com/reinhapa/tcow/pull/30) in [reinhapa/tcow](https://github.com/reinhapa/tcow)
+5. 🎉 Merged PR [#1615](https://github.com/TweetWallFX/TweetwallFX/pull/1615) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
