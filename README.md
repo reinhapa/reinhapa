@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#322](https://github.com/smallrye/jandex/issues/322#issuecomment-1692270052) in [smallrye/jandex](https://github.com/smallrye/jandex)
-2. 🗣 Commented on [#323](https://github.com/smallrye/jandex/pull/323#issuecomment-1691305637) in [smallrye/jandex](https://github.com/smallrye/jandex)
-3. 🗣 Commented on [#322](https://github.com/smallrye/jandex/issues/322#issuecomment-1691303987) in [smallrye/jandex](https://github.com/smallrye/jandex)
-4. 🗣 Commented on [#322](https://github.com/smallrye/jandex/issues/322#issuecomment-1691172578) in [smallrye/jandex](https://github.com/smallrye/jandex)
-5. 💪 Opened PR [#323](https://github.com/smallrye/jandex/pull/323) in [smallrye/jandex](https://github.com/smallrye/jandex)
+1. 🗣 Commented on [#322](https://github.com/smallrye/jandex/issues/322#issuecomment-1693309521) in [smallrye/jandex](https://github.com/smallrye/jandex)
+2. 🗣 Commented on [#322](https://github.com/smallrye/jandex/issues/322#issuecomment-1692973924) in [smallrye/jandex](https://github.com/smallrye/jandex)
+3. 🗣 Commented on [#322](https://github.com/smallrye/jandex/issues/322#issuecomment-1692849330) in [smallrye/jandex](https://github.com/smallrye/jandex)
+4. 🗣 Commented on [#322](https://github.com/smallrye/jandex/issues/322#issuecomment-1692270052) in [smallrye/jandex](https://github.com/smallrye/jandex)
+5. 🗣 Commented on [#323](https://github.com/smallrye/jandex/pull/323#issuecomment-1691305637) in [smallrye/jandex](https://github.com/smallrye/jandex)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
