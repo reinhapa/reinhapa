@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#322](https://github.com/smallrye/jandex/issues/322#issuecomment-1693309521) in [smallrye/jandex](https://github.com/smallrye/jandex)
-2. 🗣 Commented on [#322](https://github.com/smallrye/jandex/issues/322#issuecomment-1692973924) in [smallrye/jandex](https://github.com/smallrye/jandex)
-3. 🗣 Commented on [#322](https://github.com/smallrye/jandex/issues/322#issuecomment-1692849330) in [smallrye/jandex](https://github.com/smallrye/jandex)
-4. 🗣 Commented on [#322](https://github.com/smallrye/jandex/issues/322#issuecomment-1692270052) in [smallrye/jandex](https://github.com/smallrye/jandex)
-5. 🗣 Commented on [#323](https://github.com/smallrye/jandex/pull/323#issuecomment-1691305637) in [smallrye/jandex](https://github.com/smallrye/jandex)
+1. 💪 Opened PR [#256](https://github.com/melix/jmh-gradle-plugin/pull/256) in [melix/jmh-gradle-plugin](https://github.com/melix/jmh-gradle-plugin)
+2. 🎉 Merged PR [#5021](https://github.com/eXist-db/exist/pull/5021) in [eXist-db/exist](https://github.com/eXist-db/exist)
+3. 🎉 Merged PR [#118](https://github.com/xmldb-org/xmldb-api/pull/118) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
+4. 🗣 Commented on [#5021](https://github.com/eXist-db/exist/pull/5021#issuecomment-1694407019) in [eXist-db/exist](https://github.com/eXist-db/exist)
+5. 🗣 Commented on [#322](https://github.com/smallrye/jandex/issues/322#issuecomment-1693309521) in [smallrye/jandex](https://github.com/smallrye/jandex)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
