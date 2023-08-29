@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#256](https://github.com/melix/jmh-gradle-plugin/pull/256) in [melix/jmh-gradle-plugin](https://github.com/melix/jmh-gradle-plugin)
-2. 🎉 Merged PR [#5021](https://github.com/eXist-db/exist/pull/5021) in [eXist-db/exist](https://github.com/eXist-db/exist)
-3. 🎉 Merged PR [#118](https://github.com/xmldb-org/xmldb-api/pull/118) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
-4. 🗣 Commented on [#5021](https://github.com/eXist-db/exist/pull/5021#issuecomment-1694407019) in [eXist-db/exist](https://github.com/eXist-db/exist)
-5. 🗣 Commented on [#322](https://github.com/smallrye/jandex/issues/322#issuecomment-1693309521) in [smallrye/jandex](https://github.com/smallrye/jandex)
+1. 🎉 Merged PR [#423](https://github.com/reinhapa/rabbitmq-cdi/pull/423) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
+2. 🎉 Merged PR [#5024](https://github.com/eXist-db/exist/pull/5024) in [eXist-db/exist](https://github.com/eXist-db/exist)
+3. 🎉 Merged PR [#150](https://github.com/reinhapa/virtual-printer/pull/150) in [reinhapa/virtual-printer](https://github.com/reinhapa/virtual-printer)
+4. 🎉 Merged PR [#16](https://github.com/Mastodon4J/Mastodon4J/pull/16) in [Mastodon4J/Mastodon4J](https://github.com/Mastodon4J/Mastodon4J)
+5. 🎉 Merged PR [#424](https://github.com/reinhapa/rabbitmq-cdi/pull/424) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
