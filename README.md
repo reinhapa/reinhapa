@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4839](https://github.com/eXist-db/exist/pull/4839#issuecomment-1705589021) in [eXist-db/exist](https://github.com/eXist-db/exist)
-2. 🎉 Merged PR [#818](https://github.com/izpack/izpack/pull/818) in [izpack/izpack](https://github.com/izpack/izpack)
-3. 🎉 Merged PR [#820](https://github.com/izpack/izpack/pull/820) in [izpack/izpack](https://github.com/izpack/izpack)
-4. 🎉 Merged PR [#819](https://github.com/izpack/izpack/pull/819) in [izpack/izpack](https://github.com/izpack/izpack)
-5. 🎉 Merged PR [#86](https://github.com/reinhapa/Sandbox/pull/86) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
+1. 🎉 Merged PR [#1624](https://github.com/TweetWallFX/TweetwallFX/pull/1624) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+2. 🎉 Merged PR [#151](https://github.com/reinhapa/virtual-printer/pull/151) in [reinhapa/virtual-printer](https://github.com/reinhapa/virtual-printer)
+3. 🎉 Merged PR [#80](https://github.com/reinhapa/slf4j-cdi/pull/80) in [reinhapa/slf4j-cdi](https://github.com/reinhapa/slf4j-cdi)
+4. 🎉 Merged PR [#81](https://github.com/reinhapa/slf4j-cdi/pull/81) in [reinhapa/slf4j-cdi](https://github.com/reinhapa/slf4j-cdi)
+5. 🎉 Merged PR [#82](https://github.com/reinhapa/slf4j-cdi/pull/82) in [reinhapa/slf4j-cdi](https://github.com/reinhapa/slf4j-cdi)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
