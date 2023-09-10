@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#425](https://github.com/reinhapa/rabbitmq-cdi/pull/425) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
-2. 🎉 Merged PR [#1624](https://github.com/TweetWallFX/TweetwallFX/pull/1624) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-3. 🎉 Merged PR [#151](https://github.com/reinhapa/virtual-printer/pull/151) in [reinhapa/virtual-printer](https://github.com/reinhapa/virtual-printer)
-4. 🎉 Merged PR [#80](https://github.com/reinhapa/slf4j-cdi/pull/80) in [reinhapa/slf4j-cdi](https://github.com/reinhapa/slf4j-cdi)
-5. 🎉 Merged PR [#81](https://github.com/reinhapa/slf4j-cdi/pull/81) in [reinhapa/slf4j-cdi](https://github.com/reinhapa/slf4j-cdi)
+1. 🎉 Merged PR [#267](https://github.com/reinhapa/eventeditor/pull/267) in [reinhapa/eventeditor](https://github.com/reinhapa/eventeditor)
+2. 🎉 Merged PR [#425](https://github.com/reinhapa/rabbitmq-cdi/pull/425) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
+3. 🎉 Merged PR [#1624](https://github.com/TweetWallFX/TweetwallFX/pull/1624) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+4. 🎉 Merged PR [#151](https://github.com/reinhapa/virtual-printer/pull/151) in [reinhapa/virtual-printer](https://github.com/reinhapa/virtual-printer)
+5. 🎉 Merged PR [#80](https://github.com/reinhapa/slf4j-cdi/pull/80) in [reinhapa/slf4j-cdi](https://github.com/reinhapa/slf4j-cdi)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
