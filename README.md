@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#267](https://github.com/reinhapa/eventeditor/pull/267) in [reinhapa/eventeditor](https://github.com/reinhapa/eventeditor)
-2. 🎉 Merged PR [#425](https://github.com/reinhapa/rabbitmq-cdi/pull/425) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
-3. 🎉 Merged PR [#1624](https://github.com/TweetWallFX/TweetwallFX/pull/1624) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-4. 🎉 Merged PR [#151](https://github.com/reinhapa/virtual-printer/pull/151) in [reinhapa/virtual-printer](https://github.com/reinhapa/virtual-printer)
-5. 🎉 Merged PR [#80](https://github.com/reinhapa/slf4j-cdi/pull/80) in [reinhapa/slf4j-cdi](https://github.com/reinhapa/slf4j-cdi)
+1. 🔒 Closed issue [#3207](https://github.com/eXist-db/exist/issues/3207) in [eXist-db/exist](https://github.com/eXist-db/exist)
+2. 🎉 Merged PR [#4989](https://github.com/eXist-db/exist/pull/4989) in [eXist-db/exist](https://github.com/eXist-db/exist)
+3. 🗣 Commented on [#4996](https://github.com/eXist-db/exist/pull/4996#issuecomment-1714996275) in [eXist-db/exist](https://github.com/eXist-db/exist)
+4. 🎉 Merged PR [#5046](https://github.com/eXist-db/exist/pull/5046) in [eXist-db/exist](https://github.com/eXist-db/exist)
+5. 🎉 Merged PR [#5048](https://github.com/eXist-db/exist/pull/5048) in [eXist-db/exist](https://github.com/eXist-db/exist)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
