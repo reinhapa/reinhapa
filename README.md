@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3207](https://github.com/eXist-db/exist/issues/3207) in [eXist-db/exist](https://github.com/eXist-db/exist)
-2. 🎉 Merged PR [#4989](https://github.com/eXist-db/exist/pull/4989) in [eXist-db/exist](https://github.com/eXist-db/exist)
-3. 🗣 Commented on [#4996](https://github.com/eXist-db/exist/pull/4996#issuecomment-1714996275) in [eXist-db/exist](https://github.com/eXist-db/exist)
-4. 🎉 Merged PR [#5046](https://github.com/eXist-db/exist/pull/5046) in [eXist-db/exist](https://github.com/eXist-db/exist)
-5. 🎉 Merged PR [#5048](https://github.com/eXist-db/exist/pull/5048) in [eXist-db/exist](https://github.com/eXist-db/exist)
+1. 🎉 Merged PR [#4839](https://github.com/eXist-db/exist/pull/4839) in [eXist-db/exist](https://github.com/eXist-db/exist)
+2. 🗣 Commented on [#2632](https://github.com/micrometer-metrics/micrometer/issues/2632#issuecomment-1715591895) in [micrometer-metrics/micrometer](https://github.com/micrometer-metrics/micrometer)
+3. 🗣 Commented on [#2632](https://github.com/micrometer-metrics/micrometer/issues/2632#issuecomment-1715405991) in [micrometer-metrics/micrometer](https://github.com/micrometer-metrics/micrometer)
+4. 💪 Opened PR [#5057](https://github.com/eXist-db/exist/pull/5057) in [eXist-db/exist](https://github.com/eXist-db/exist)
+5. 🗣 Commented on [#5054](https://github.com/eXist-db/exist/pull/5054#issuecomment-1715000764) in [eXist-db/exist](https://github.com/eXist-db/exist)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
