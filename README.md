@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4671](https://github.com/eXist-db/exist/pull/4671#issuecomment-1722259546) in [eXist-db/exist](https://github.com/eXist-db/exist)
-2. 🎉 Merged PR [#5060](https://github.com/eXist-db/exist/pull/5060) in [eXist-db/exist](https://github.com/eXist-db/exist)
-3. 🎉 Merged PR [#241](https://github.com/eXist-db/monex/pull/241) in [eXist-db/monex](https://github.com/eXist-db/monex)
-4. 🗣 Commented on [#9](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2023-BE/pull/9#issuecomment-1719089852) in [TweetWallFX/TweetwallFX-Devoxx-2023-BE](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2023-BE)
-5. 🗣 Commented on [#4671](https://github.com/eXist-db/exist/pull/4671#issuecomment-1717064049) in [eXist-db/exist](https://github.com/eXist-db/exist)
+1. 🎉 Merged PR [#54](https://github.com/eXist-db/exist-apps-parent/pull/54) in [eXist-db/exist-apps-parent](https://github.com/eXist-db/exist-apps-parent)
+2. 🎉 Merged PR [#95](https://github.com/reinhapa/Sandbox/pull/95) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
+3. 🎉 Merged PR [#5063](https://github.com/eXist-db/exist/pull/5063) in [eXist-db/exist](https://github.com/eXist-db/exist)
+4. 🗣 Commented on [#4671](https://github.com/eXist-db/exist/pull/4671#issuecomment-1722259546) in [eXist-db/exist](https://github.com/eXist-db/exist)
+5. 🎉 Merged PR [#5060](https://github.com/eXist-db/exist/pull/5060) in [eXist-db/exist](https://github.com/eXist-db/exist)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
