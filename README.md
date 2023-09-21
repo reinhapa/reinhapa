@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#825](https://github.com/izpack/izpack/pull/825) in [izpack/izpack](https://github.com/izpack/izpack)
-2. 🎉 Merged PR [#821](https://github.com/izpack/izpack/pull/821) in [izpack/izpack](https://github.com/izpack/izpack)
-3. 🎉 Merged PR [#822](https://github.com/izpack/izpack/pull/822) in [izpack/izpack](https://github.com/izpack/izpack)
-4. 🎉 Merged PR [#824](https://github.com/izpack/izpack/pull/824) in [izpack/izpack](https://github.com/izpack/izpack)
-5. 🎉 Merged PR [#5064](https://github.com/eXist-db/exist/pull/5064) in [eXist-db/exist](https://github.com/eXist-db/exist)
+1. 🔓 Reopened issue [#46](https://github.com/adoptium/jmc-build/issues/46) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
+2. 🗣 Commented on [#46](https://github.com/adoptium/jmc-build/issues/46#issuecomment-1728332005) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
+3. 🎉 Merged PR [#813](https://github.com/izpack/izpack/pull/813) in [izpack/izpack](https://github.com/izpack/izpack)
+4. 🎉 Merged PR [#825](https://github.com/izpack/izpack/pull/825) in [izpack/izpack](https://github.com/izpack/izpack)
+5. 🎉 Merged PR [#1647](https://github.com/TweetWallFX/TweetwallFX/pull/1647) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
