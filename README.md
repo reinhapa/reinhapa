@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5067](https://github.com/eXist-db/exist/issues/5067#issuecomment-1731702172) in [eXist-db/exist](https://github.com/eXist-db/exist)
-2. 🎉 Merged PR [#5033](https://github.com/eXist-db/exist/pull/5033) in [eXist-db/exist](https://github.com/eXist-db/exist)
-3. 🗣 Commented on [#5033](https://github.com/eXist-db/exist/pull/5033#issuecomment-1731033906) in [eXist-db/exist](https://github.com/eXist-db/exist)
-4. 🔓 Reopened issue [#46](https://github.com/adoptium/jmc-build/issues/46) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
-5. 🗣 Commented on [#46](https://github.com/adoptium/jmc-build/issues/46#issuecomment-1728332005) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
+1. 🗣 Commented on [#5068](https://github.com/eXist-db/exist/pull/5068#issuecomment-1732259386) in [eXist-db/exist](https://github.com/eXist-db/exist)
+2. 🗣 Commented on [#5067](https://github.com/eXist-db/exist/issues/5067#issuecomment-1731702172) in [eXist-db/exist](https://github.com/eXist-db/exist)
+3. 🎉 Merged PR [#5033](https://github.com/eXist-db/exist/pull/5033) in [eXist-db/exist](https://github.com/eXist-db/exist)
+4. 🗣 Commented on [#5033](https://github.com/eXist-db/exist/pull/5033#issuecomment-1731033906) in [eXist-db/exist](https://github.com/eXist-db/exist)
+5. 🔓 Reopened issue [#46](https://github.com/adoptium/jmc-build/issues/46) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
