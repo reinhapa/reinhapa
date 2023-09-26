@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5068](https://github.com/eXist-db/exist/pull/5068#issuecomment-1732259386) in [eXist-db/exist](https://github.com/eXist-db/exist)
-2. 🗣 Commented on [#5067](https://github.com/eXist-db/exist/issues/5067#issuecomment-1731702172) in [eXist-db/exist](https://github.com/eXist-db/exist)
-3. 🎉 Merged PR [#5033](https://github.com/eXist-db/exist/pull/5033) in [eXist-db/exist](https://github.com/eXist-db/exist)
-4. 🗣 Commented on [#5033](https://github.com/eXist-db/exist/pull/5033#issuecomment-1731033906) in [eXist-db/exist](https://github.com/eXist-db/exist)
-5. 🔓 Reopened issue [#46](https://github.com/adoptium/jmc-build/issues/46) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
+1. 🎉 Merged PR [#827](https://github.com/izpack/izpack/pull/827) in [izpack/izpack](https://github.com/izpack/izpack)
+2. 🎉 Merged PR [#826](https://github.com/izpack/izpack/pull/826) in [izpack/izpack](https://github.com/izpack/izpack)
+3. 🎉 Merged PR [#828](https://github.com/izpack/izpack/pull/828) in [izpack/izpack](https://github.com/izpack/izpack)
+4. 🎉 Merged PR [#97](https://github.com/reinhapa/Sandbox/pull/97) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
+5. 🎉 Merged PR [#96](https://github.com/reinhapa/Sandbox/pull/96) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
