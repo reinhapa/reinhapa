@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5072](https://github.com/eXist-db/exist/pull/5072) in [eXist-db/exist](https://github.com/eXist-db/exist)
-2. 🎉 Merged PR [#827](https://github.com/izpack/izpack/pull/827) in [izpack/izpack](https://github.com/izpack/izpack)
-3. 🎉 Merged PR [#826](https://github.com/izpack/izpack/pull/826) in [izpack/izpack](https://github.com/izpack/izpack)
-4. 🎉 Merged PR [#828](https://github.com/izpack/izpack/pull/828) in [izpack/izpack](https://github.com/izpack/izpack)
-5. 🎉 Merged PR [#97](https://github.com/reinhapa/Sandbox/pull/97) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
+1. 🎉 Merged PR [#50](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2023-BE/pull/50) in [TweetWallFX/TweetwallFX-Devoxx-2023-BE](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2023-BE)
+2. 🎉 Merged PR [#1671](https://github.com/TweetWallFX/TweetwallFX/pull/1671) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+3. 🎉 Merged PR [#141](https://github.com/eXist-db/xst/pull/141) in [eXist-db/xst](https://github.com/eXist-db/xst)
+4. 🎉 Merged PR [#5072](https://github.com/eXist-db/exist/pull/5072) in [eXist-db/exist](https://github.com/eXist-db/exist)
+5. 🎉 Merged PR [#827](https://github.com/izpack/izpack/pull/827) in [izpack/izpack](https://github.com/izpack/izpack)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
