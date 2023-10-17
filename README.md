@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4699](https://github.com/eXist-db/exist/pull/4699) in [eXist-db/exist](https://github.com/eXist-db/exist)
-2. 🔒 Closed issue [#1010](https://github.com/eXist-db/exist/issues/1010) in [eXist-db/exist](https://github.com/eXist-db/exist)
-3. 🔒 Closed issue [#3448](https://github.com/eXist-db/exist/issues/3448) in [eXist-db/exist](https://github.com/eXist-db/exist)
-4. 🎉 Merged PR [#4996](https://github.com/eXist-db/exist/pull/4996) in [eXist-db/exist](https://github.com/eXist-db/exist)
-5. 🎉 Merged PR [#50](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2023-BE/pull/50) in [TweetWallFX/TweetwallFX-Devoxx-2023-BE](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2023-BE)
+1. 💪 Opened PR [#5091](https://github.com/eXist-db/exist/pull/5091) in [eXist-db/exist](https://github.com/eXist-db/exist)
+2. 🗣 Commented on [#4529](https://github.com/eXist-db/exist/pull/4529#issuecomment-1764975005) in [eXist-db/exist](https://github.com/eXist-db/exist)
+3. ❌ Closed PR [#526](https://github.com/openjdk/jmc/pull/526) in [openjdk/jmc](https://github.com/openjdk/jmc)
+4. 💪 Opened PR [#526](https://github.com/openjdk/jmc/pull/526) in [openjdk/jmc](https://github.com/openjdk/jmc)
+5. 🗣 Commented on [#3409](https://github.com/eXist-db/exist/pull/3409#issuecomment-1764265404) in [eXist-db/exist](https://github.com/eXist-db/exist)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
