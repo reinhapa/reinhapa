@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5108](https://github.com/eXist-db/exist/pull/5108) in [eXist-db/exist](https://github.com/eXist-db/exist)
-2. 🗣 Commented on [#4530](https://github.com/eXist-db/exist/pull/4530#issuecomment-1786495004) in [eXist-db/exist](https://github.com/eXist-db/exist)
-3. 🗣 Commented on [#5109](https://github.com/eXist-db/exist/pull/5109#issuecomment-1786492058) in [eXist-db/exist](https://github.com/eXist-db/exist)
-4. 🗣 Commented on [#5108](https://github.com/eXist-db/exist/pull/5108#issuecomment-1786491693) in [eXist-db/exist](https://github.com/eXist-db/exist)
-5. 💪 Opened PR [#5107](https://github.com/eXist-db/exist/pull/5107) in [eXist-db/exist](https://github.com/eXist-db/exist)
+1. 🗣 Commented on [#2372](https://github.com/adoptium/adoptium.net/pull/2372#issuecomment-1792907249) in [adoptium/adoptium.net](https://github.com/adoptium/adoptium.net)
+2. 🗣 Commented on [#5091](https://github.com/eXist-db/exist/pull/5091#issuecomment-1792850958) in [eXist-db/exist](https://github.com/eXist-db/exist)
+3. 🗣 Commented on [#1695](https://github.com/TweetWallFX/TweetwallFX/pull/1695#issuecomment-1792079380) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+4. 🎉 Merged PR [#5108](https://github.com/eXist-db/exist/pull/5108) in [eXist-db/exist](https://github.com/eXist-db/exist)
+5. 🗣 Commented on [#4530](https://github.com/eXist-db/exist/pull/4530#issuecomment-1786495004) in [eXist-db/exist](https://github.com/eXist-db/exist)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
