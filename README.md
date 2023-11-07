@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2372](https://github.com/adoptium/adoptium.net/pull/2372#issuecomment-1792907249) in [adoptium/adoptium.net](https://github.com/adoptium/adoptium.net)
-2. 🗣 Commented on [#5091](https://github.com/eXist-db/exist/pull/5091#issuecomment-1792850958) in [eXist-db/exist](https://github.com/eXist-db/exist)
-3. 🗣 Commented on [#1695](https://github.com/TweetWallFX/TweetwallFX/pull/1695#issuecomment-1792079380) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-4. 🎉 Merged PR [#5108](https://github.com/eXist-db/exist/pull/5108) in [eXist-db/exist](https://github.com/eXist-db/exist)
-5. 🗣 Commented on [#4530](https://github.com/eXist-db/exist/pull/4530#issuecomment-1786495004) in [eXist-db/exist](https://github.com/eXist-db/exist)
+1. 💪 Opened PR [#52](https://github.com/adoptium/jmc-build/pull/52) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
+2. 🗣 Commented on [#40](https://github.com/adoptium/jmc-build/issues/40#issuecomment-1795313087) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
+3. 🗣 Commented on [#41](https://github.com/adoptium/jmc-build/issues/41#issuecomment-1794494934) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
+4. 🎉 Merged PR [#5113](https://github.com/eXist-db/exist/pull/5113) in [eXist-db/exist](https://github.com/eXist-db/exist)
+5. 🎉 Merged PR [#5114](https://github.com/eXist-db/exist/pull/5114) in [eXist-db/exist](https://github.com/eXist-db/exist)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
