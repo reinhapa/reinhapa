@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5124](https://github.com/eXist-db/exist/pull/5124#issuecomment-1802431571) in [eXist-db/exist](https://github.com/eXist-db/exist)
-2. 🗣 Commented on [#4530](https://github.com/eXist-db/exist/pull/4530#issuecomment-1798057560) in [eXist-db/exist](https://github.com/eXist-db/exist)
-3. 🗣 Commented on [#40](https://github.com/adoptium/jmc-build/issues/40#issuecomment-1798042340) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
-4. 💪 Opened PR [#5124](https://github.com/eXist-db/exist/pull/5124) in [eXist-db/exist](https://github.com/eXist-db/exist)
-5. 💪 Opened PR [#52](https://github.com/adoptium/jmc-build/pull/52) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
+1. 🎉 Merged PR [#161](https://github.com/reinhapa/virtual-printer/pull/161) in [reinhapa/virtual-printer](https://github.com/reinhapa/virtual-printer)
+2. 💪 Opened PR [#127](https://github.com/reinhapa/Sandbox/pull/127) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
+3. 🎉 Merged PR [#126](https://github.com/reinhapa/Sandbox/pull/126) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
+4. 💪 Opened PR [#126](https://github.com/reinhapa/Sandbox/pull/126) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
+5. 🗣 Commented on [#5124](https://github.com/eXist-db/exist/pull/5124#issuecomment-1802431571) in [eXist-db/exist](https://github.com/eXist-db/exist)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
