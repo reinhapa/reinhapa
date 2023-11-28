@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#697](https://github.com/jacobalberty/unifi-docker/pull/697#issuecomment-1826269660) in [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker)
-2. 🗣 Commented on [#55](https://github.com/adoptium/jmc-build/issues/55#issuecomment-1824454885) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
-3. 🔒 Closed issue [#55](https://github.com/adoptium/jmc-build/issues/55) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
-4. 🗣 Commented on [#4529](https://github.com/eXist-db/exist/pull/4529#issuecomment-1819704048) in [eXist-db/exist](https://github.com/eXist-db/exist)
-5. 🗣 Commented on [#134](https://github.com/xmldb-org/xmldb-api/pull/134#issuecomment-1819688958) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
+1. ❌ Closed PR [#36](https://github.com/reinhapa/slf4j-cdi/pull/36) in [reinhapa/slf4j-cdi](https://github.com/reinhapa/slf4j-cdi)
+2. 🗣 Commented on [#697](https://github.com/jacobalberty/unifi-docker/pull/697#issuecomment-1826269660) in [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker)
+3. 🗣 Commented on [#55](https://github.com/adoptium/jmc-build/issues/55#issuecomment-1824454885) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
+4. 🔒 Closed issue [#55](https://github.com/adoptium/jmc-build/issues/55) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
+5. 🗣 Commented on [#4529](https://github.com/eXist-db/exist/pull/4529#issuecomment-1819704048) in [eXist-db/exist](https://github.com/eXist-db/exist)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
