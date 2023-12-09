@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5154](https://github.com/eXist-db/exist/pull/5154) in [eXist-db/exist](https://github.com/eXist-db/exist)
-2. 🎉 Merged PR [#5153](https://github.com/eXist-db/exist/pull/5153) in [eXist-db/exist](https://github.com/eXist-db/exist)
-3. 🗣 Commented on [#23](https://github.com/Mastodon4J/Mastodon4J/issues/23#issuecomment-1839371425) in [Mastodon4J/Mastodon4J](https://github.com/Mastodon4J/Mastodon4J)
-4. 🎉 Merged PR [#26](https://github.com/Mastodon4J/Mastodon4J/pull/26) in [Mastodon4J/Mastodon4J](https://github.com/Mastodon4J/Mastodon4J)
-5. 💪 Opened PR [#26](https://github.com/Mastodon4J/Mastodon4J/pull/26) in [Mastodon4J/Mastodon4J](https://github.com/Mastodon4J/Mastodon4J)
+1. 💪 Opened PR [#144](https://github.com/xmldb-org/xmldb-api/pull/144) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
+2. 🎉 Merged PR [#142](https://github.com/xmldb-org/xmldb-api/pull/142) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
+3. 🎉 Merged PR [#141](https://github.com/xmldb-org/xmldb-api/pull/141) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
+4. 🎉 Merged PR [#143](https://github.com/xmldb-org/xmldb-api/pull/143) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
+5. 💪 Opened PR [#143](https://github.com/xmldb-org/xmldb-api/pull/143) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
