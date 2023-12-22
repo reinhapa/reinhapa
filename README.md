@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#55](https://github.com/eXist-db/exist-apps-parent/pull/55) in [eXist-db/exist-apps-parent](https://github.com/eXist-db/exist-apps-parent)
-2. 🎉 Merged PR [#59](https://github.com/eXist-db/exist-apps-parent/pull/59) in [eXist-db/exist-apps-parent](https://github.com/eXist-db/exist-apps-parent)
-3. 🎉 Merged PR [#5162](https://github.com/eXist-db/exist/pull/5162) in [eXist-db/exist](https://github.com/eXist-db/exist)
-4. 🎉 Merged PR [#5165](https://github.com/eXist-db/exist/pull/5165) in [eXist-db/exist](https://github.com/eXist-db/exist)
-5. 🎉 Merged PR [#5166](https://github.com/eXist-db/exist/pull/5166) in [eXist-db/exist](https://github.com/eXist-db/exist)
+1. 🎉 Merged PR [#5170](https://github.com/eXist-db/exist/pull/5170) in [eXist-db/exist](https://github.com/eXist-db/exist)
+2. 🎉 Merged PR [#5169](https://github.com/eXist-db/exist/pull/5169) in [eXist-db/exist](https://github.com/eXist-db/exist)
+3. 🎉 Merged PR [#55](https://github.com/eXist-db/exist-apps-parent/pull/55) in [eXist-db/exist-apps-parent](https://github.com/eXist-db/exist-apps-parent)
+4. 🎉 Merged PR [#59](https://github.com/eXist-db/exist-apps-parent/pull/59) in [eXist-db/exist-apps-parent](https://github.com/eXist-db/exist-apps-parent)
+5. 🎉 Merged PR [#5162](https://github.com/eXist-db/exist/pull/5162) in [eXist-db/exist](https://github.com/eXist-db/exist)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
