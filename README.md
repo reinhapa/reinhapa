@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1732](https://github.com/TweetWallFX/TweetwallFX/pull/1732#issuecomment-1871962143) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-2. 🎉 Merged PR [#5175](https://github.com/eXist-db/exist/pull/5175) in [eXist-db/exist](https://github.com/eXist-db/exist)
-3. 🎉 Merged PR [#5170](https://github.com/eXist-db/exist/pull/5170) in [eXist-db/exist](https://github.com/eXist-db/exist)
-4. 🎉 Merged PR [#5169](https://github.com/eXist-db/exist/pull/5169) in [eXist-db/exist](https://github.com/eXist-db/exist)
-5. 🎉 Merged PR [#55](https://github.com/eXist-db/exist-apps-parent/pull/55) in [eXist-db/exist-apps-parent](https://github.com/eXist-db/exist-apps-parent)
+1. 🗣 Commented on [#146](https://github.com/xmldb-org/xmldb-api/pull/146#issuecomment-1874086446) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
+2. 🗣 Commented on [#28](https://github.com/Mastodon4J/Mastodon4J/pull/28#issuecomment-1874060461) in [Mastodon4J/Mastodon4J](https://github.com/Mastodon4J/Mastodon4J)
+3. 🗣 Commented on [#28](https://github.com/Mastodon4J/Mastodon4J/pull/28#issuecomment-1874053627) in [Mastodon4J/Mastodon4J](https://github.com/Mastodon4J/Mastodon4J)
+4. 🗣 Commented on [#145](https://github.com/xmldb-org/xmldb-api/pull/145#issuecomment-1874043851) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
+5. 🗣 Commented on [#147](https://github.com/xmldb-org/xmldb-api/pull/147#issuecomment-1874042951) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
