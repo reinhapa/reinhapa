@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#842](https://github.com/izpack/izpack/pull/842#issuecomment-1878364600) in [izpack/izpack](https://github.com/izpack/izpack)
-2. 🗣 Commented on [#1735](https://github.com/TweetWallFX/TweetwallFX/pull/1735#issuecomment-1876851122) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-3. 🎉 Merged PR [#5179](https://github.com/eXist-db/exist/pull/5179) in [eXist-db/exist](https://github.com/eXist-db/exist)
-4. 🗣 Commented on [#146](https://github.com/xmldb-org/xmldb-api/pull/146#issuecomment-1874086446) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
-5. 🗣 Commented on [#28](https://github.com/Mastodon4J/Mastodon4J/pull/28#issuecomment-1874060461) in [Mastodon4J/Mastodon4J](https://github.com/Mastodon4J/Mastodon4J)
+1. 🗣 Commented on [#58](https://github.com/adoptium/jmc-build/issues/58#issuecomment-1880028169) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
+2. 🎉 Merged PR [#842](https://github.com/izpack/izpack/pull/842) in [izpack/izpack](https://github.com/izpack/izpack)
+3. 🗣 Commented on [#842](https://github.com/izpack/izpack/pull/842#issuecomment-1878364600) in [izpack/izpack](https://github.com/izpack/izpack)
+4. 🗣 Commented on [#1735](https://github.com/TweetWallFX/TweetwallFX/pull/1735#issuecomment-1876851122) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+5. 🎉 Merged PR [#5179](https://github.com/eXist-db/exist/pull/5179) in [eXist-db/exist](https://github.com/eXist-db/exist)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
