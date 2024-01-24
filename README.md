@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#850](https://github.com/izpack/izpack/pull/850#issuecomment-1904840788) in [izpack/izpack](https://github.com/izpack/izpack)
-2. 🗣 Commented on [#5194](https://github.com/eXist-db/exist/pull/5194#issuecomment-1904833956) in [eXist-db/exist](https://github.com/eXist-db/exist)
-3. 🎉 Merged PR [#848](https://github.com/izpack/izpack/pull/848) in [izpack/izpack](https://github.com/izpack/izpack)
-4. 🎉 Merged PR [#847](https://github.com/izpack/izpack/pull/847) in [izpack/izpack](https://github.com/izpack/izpack)
-5. 🗣 Commented on [#5188](https://github.com/eXist-db/exist/pull/5188#issuecomment-1902240912) in [eXist-db/exist](https://github.com/eXist-db/exist)
+1. 🗣 Commented on [#5188](https://github.com/eXist-db/exist/pull/5188#issuecomment-1906740394) in [eXist-db/exist](https://github.com/eXist-db/exist)
+2. 💪 Opened PR [#5195](https://github.com/eXist-db/exist/pull/5195) in [eXist-db/exist](https://github.com/eXist-db/exist)
+3. 🗣 Commented on [#800](https://github.com/izpack/izpack/pull/800#issuecomment-1905515378) in [izpack/izpack](https://github.com/izpack/izpack)
+4. 🗣 Commented on [#850](https://github.com/izpack/izpack/pull/850#issuecomment-1904840788) in [izpack/izpack](https://github.com/izpack/izpack)
+5. 🗣 Commented on [#5194](https://github.com/eXist-db/exist/pull/5194#issuecomment-1904833956) in [eXist-db/exist](https://github.com/eXist-db/exist)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
