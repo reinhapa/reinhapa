@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5216](https://github.com/eXist-db/exist/pull/5216) in [eXist-db/exist](https://github.com/eXist-db/exist)
-2. 💪 Opened PR [#5215](https://github.com/eXist-db/exist/pull/5215) in [eXist-db/exist](https://github.com/eXist-db/exist)
-3. 🗣 Commented on [#5213](https://github.com/eXist-db/exist/pull/5213#issuecomment-1930178069) in [eXist-db/exist](https://github.com/eXist-db/exist)
-4. 🗣 Commented on [#5214](https://github.com/eXist-db/exist/pull/5214#issuecomment-1929035403) in [eXist-db/exist](https://github.com/eXist-db/exist)
-5. 💪 Opened PR [#5214](https://github.com/eXist-db/exist/pull/5214) in [eXist-db/exist](https://github.com/eXist-db/exist)
+1. 💪 Opened PR [#5219](https://github.com/eXist-db/exist/pull/5219) in [eXist-db/exist](https://github.com/eXist-db/exist)
+2. 🎉 Merged PR [#5215](https://github.com/eXist-db/exist/pull/5215) in [eXist-db/exist](https://github.com/eXist-db/exist)
+3. 🗣 Commented on [#5218](https://github.com/eXist-db/exist/pull/5218#issuecomment-1932506723) in [eXist-db/exist](https://github.com/eXist-db/exist)
+4. 💪 Opened PR [#5218](https://github.com/eXist-db/exist/pull/5218) in [eXist-db/exist](https://github.com/eXist-db/exist)
+5. 🗣 Commented on [#5213](https://github.com/eXist-db/exist/pull/5213#issuecomment-1931612696) in [eXist-db/exist](https://github.com/eXist-db/exist)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
