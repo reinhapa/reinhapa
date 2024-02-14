@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#859](https://github.com/izpack/izpack/pull/859#issuecomment-1939523418) in [izpack/izpack](https://github.com/izpack/izpack)
-2. 🎉 Merged PR [#857](https://github.com/izpack/izpack/pull/857) in [izpack/izpack](https://github.com/izpack/izpack)
-3. 🗣 Commented on [#1750](https://github.com/TweetWallFX/TweetwallFX/pull/1750#issuecomment-1938572039) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-4. 🗣 Commented on [#1750](https://github.com/TweetWallFX/TweetwallFX/pull/1750#issuecomment-1938156346) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-5. 🗣 Commented on [#1731](https://github.com/TweetWallFX/TweetwallFX/pull/1731#issuecomment-1938142686) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+1. 🗣 Commented on [#835](https://github.com/izpack/izpack/pull/835#issuecomment-1941980153) in [izpack/izpack](https://github.com/izpack/izpack)
+2. 🗣 Commented on [#2038](https://github.com/diffplug/spotless/pull/2038#issuecomment-1941976526) in [diffplug/spotless](https://github.com/diffplug/spotless)
+3. 🗣 Commented on [#860](https://github.com/izpack/izpack/pull/860#issuecomment-1941968788) in [izpack/izpack](https://github.com/izpack/izpack)
+4. 🎉 Merged PR [#845](https://github.com/izpack/izpack/pull/845) in [izpack/izpack](https://github.com/izpack/izpack)
+5. 💪 Opened PR [#2038](https://github.com/diffplug/spotless/pull/2038) in [diffplug/spotless](https://github.com/diffplug/spotless)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
