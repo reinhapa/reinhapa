@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#835](https://github.com/izpack/izpack/pull/835#issuecomment-1941980153) in [izpack/izpack](https://github.com/izpack/izpack)
-2. 🗣 Commented on [#2038](https://github.com/diffplug/spotless/pull/2038#issuecomment-1941976526) in [diffplug/spotless](https://github.com/diffplug/spotless)
-3. 🗣 Commented on [#860](https://github.com/izpack/izpack/pull/860#issuecomment-1941968788) in [izpack/izpack](https://github.com/izpack/izpack)
-4. 🎉 Merged PR [#845](https://github.com/izpack/izpack/pull/845) in [izpack/izpack](https://github.com/izpack/izpack)
-5. 💪 Opened PR [#2038](https://github.com/diffplug/spotless/pull/2038) in [diffplug/spotless](https://github.com/diffplug/spotless)
+1. 🎉 Merged PR [#835](https://github.com/izpack/izpack/pull/835) in [izpack/izpack](https://github.com/izpack/izpack)
+2. ❗ Opened issue [#2040](https://github.com/diffplug/spotless/issues/2040) in [diffplug/spotless](https://github.com/diffplug/spotless)
+3. 🗣 Commented on [#835](https://github.com/izpack/izpack/pull/835#issuecomment-1941980153) in [izpack/izpack](https://github.com/izpack/izpack)
+4. 🗣 Commented on [#2038](https://github.com/diffplug/spotless/pull/2038#issuecomment-1941976526) in [diffplug/spotless](https://github.com/diffplug/spotless)
+5. 🗣 Commented on [#860](https://github.com/izpack/izpack/pull/860#issuecomment-1941968788) in [izpack/izpack](https://github.com/izpack/izpack)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
