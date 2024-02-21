@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5188](https://github.com/eXist-db/exist/pull/5188#issuecomment-1952949960) in [eXist-db/exist](https://github.com/eXist-db/exist)
-2. 🗣 Commented on [#862](https://github.com/izpack/izpack/pull/862#issuecomment-1952713675) in [izpack/izpack](https://github.com/izpack/izpack)
-3. 🎉 Merged PR [#1777](https://github.com/TweetWallFX/TweetwallFX/pull/1777) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-4. 💪 Opened PR [#1777](https://github.com/TweetWallFX/TweetwallFX/pull/1777) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-5. 🗣 Commented on [#861](https://github.com/izpack/izpack/pull/861#issuecomment-1947811460) in [izpack/izpack](https://github.com/izpack/izpack)
+1. ❌ Closed PR [#655](https://github.com/eXist-db/eXide/pull/655) in [eXist-db/eXide](https://github.com/eXist-db/eXide)
+2. 💪 Opened PR [#655](https://github.com/eXist-db/eXide/pull/655) in [eXist-db/eXide](https://github.com/eXist-db/eXide)
+3. 🎉 Merged PR [#646](https://github.com/eXist-db/eXide/pull/646) in [eXist-db/eXide](https://github.com/eXist-db/eXide)
+4. 🎉 Merged PR [#208](https://github.com/eXist-db/xst/pull/208) in [eXist-db/xst](https://github.com/eXist-db/xst)
+5. 🗣 Commented on [#5188](https://github.com/eXist-db/exist/pull/5188#issuecomment-1952949960) in [eXist-db/exist](https://github.com/eXist-db/exist)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
