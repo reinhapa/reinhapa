@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#59](https://github.com/adoptium/jmc-build/pull/59) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
-2. 🎉 Merged PR [#6](https://github.com/reinhapa/izpack/pull/6) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
-3. 🗣 Commented on [#6](https://github.com/reinhapa/izpack/pull/6#issuecomment-1957801135) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
-4. 🗣 Commented on [#2](https://github.com/reinhapa/izpack/pull/2#issuecomment-1957773334) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
-5. 🗣 Commented on [#6](https://github.com/reinhapa/izpack/pull/6#issuecomment-1957772948) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+1. 🎉 Merged PR [#1782](https://github.com/TweetWallFX/TweetwallFX/pull/1782) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+2. 💪 Opened PR [#1782](https://github.com/TweetWallFX/TweetwallFX/pull/1782) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+3. 🎉 Merged PR [#59](https://github.com/adoptium/jmc-build/pull/59) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
+4. 🎉 Merged PR [#6](https://github.com/reinhapa/izpack/pull/6) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+5. 🗣 Commented on [#6](https://github.com/reinhapa/izpack/pull/6#issuecomment-1957801135) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
