@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5241](https://github.com/eXist-db/exist/pull/5241) in [eXist-db/exist](https://github.com/eXist-db/exist)
-2. 🎉 Merged PR [#14](https://github.com/reinhapa/izpack/pull/14) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
-3. 🎉 Merged PR [#12](https://github.com/reinhapa/izpack/pull/12) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
-4. 🎉 Merged PR [#13](https://github.com/reinhapa/izpack/pull/13) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
-5. 🎉 Merged PR [#15](https://github.com/reinhapa/izpack/pull/15) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+1. 🎉 Merged PR [#877](https://github.com/izpack/izpack/pull/877) in [izpack/izpack](https://github.com/izpack/izpack)
+2. 🎉 Merged PR [#18](https://github.com/reinhapa/izpack/pull/18) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+3. 🎉 Merged PR [#17](https://github.com/reinhapa/izpack/pull/17) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+4. 🎉 Merged PR [#19](https://github.com/reinhapa/izpack/pull/19) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+5. 🎉 Merged PR [#20](https://github.com/reinhapa/izpack/pull/20) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
