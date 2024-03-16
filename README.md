@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5191](https://github.com/eXist-db/exist/pull/5191#issuecomment-1997657878) in [eXist-db/exist](https://github.com/eXist-db/exist)
-2. 💪 Opened PR [#963](https://github.com/eXist-db/documentation/pull/963) in [eXist-db/documentation](https://github.com/eXist-db/documentation)
-3. 🎉 Merged PR [#61](https://github.com/eXist-db/exist-apps-parent/pull/61) in [eXist-db/exist-apps-parent](https://github.com/eXist-db/exist-apps-parent)
-4. 🎉 Merged PR [#60](https://github.com/eXist-db/exist-apps-parent/pull/60) in [eXist-db/exist-apps-parent](https://github.com/eXist-db/exist-apps-parent)
-5. 🎉 Merged PR [#65](https://github.com/adoptium/jmc-build/pull/65) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
+1. 🎉 Merged PR [#66](https://github.com/adoptium/jmc-build/pull/66) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
+2. 🗣 Commented on [#5191](https://github.com/eXist-db/exist/pull/5191#issuecomment-1997657878) in [eXist-db/exist](https://github.com/eXist-db/exist)
+3. 💪 Opened PR [#963](https://github.com/eXist-db/documentation/pull/963) in [eXist-db/documentation](https://github.com/eXist-db/documentation)
+4. 🎉 Merged PR [#61](https://github.com/eXist-db/exist-apps-parent/pull/61) in [eXist-db/exist-apps-parent](https://github.com/eXist-db/exist-apps-parent)
+5. 🎉 Merged PR [#60](https://github.com/eXist-db/exist-apps-parent/pull/60) in [eXist-db/exist-apps-parent](https://github.com/eXist-db/exist-apps-parent)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
