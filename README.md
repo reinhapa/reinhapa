@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#166](https://github.com/xmldb-org/xmldb-api/issues/166#issuecomment-2002397299) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
-2. 🗣 Commented on [#963](https://github.com/eXist-db/documentation/pull/963#issuecomment-2002152528) in [eXist-db/documentation](https://github.com/eXist-db/documentation)
-3. 🗣 Commented on [#963](https://github.com/eXist-db/documentation/pull/963#issuecomment-2002148967) in [eXist-db/documentation](https://github.com/eXist-db/documentation)
-4. 🗣 Commented on [#166](https://github.com/xmldb-org/xmldb-api/issues/166#issuecomment-2002146206) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
-5. 🔒 Closed issue [#166](https://github.com/xmldb-org/xmldb-api/issues/166) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
+1. 💪 Opened PR [#5252](https://github.com/eXist-db/exist/pull/5252) in [eXist-db/exist](https://github.com/eXist-db/exist)
+2. 🗣 Commented on [#23](https://github.com/reinhapa/izpack/pull/23#issuecomment-2003899425) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+3. 🎉 Merged PR [#22](https://github.com/reinhapa/izpack/pull/22) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+4. 🗣 Commented on [#166](https://github.com/xmldb-org/xmldb-api/issues/166#issuecomment-2002397299) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
+5. 🗣 Commented on [#963](https://github.com/eXist-db/documentation/pull/963#issuecomment-2002152528) in [eXist-db/documentation](https://github.com/eXist-db/documentation)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
