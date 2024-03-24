@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#890](https://github.com/izpack/izpack/pull/890) in [izpack/izpack](https://github.com/izpack/izpack)
-2. 🎉 Merged PR [#889](https://github.com/izpack/izpack/pull/889) in [izpack/izpack](https://github.com/izpack/izpack)
-3. 🎉 Merged PR [#888](https://github.com/izpack/izpack/pull/888) in [izpack/izpack](https://github.com/izpack/izpack)
-4. 🎉 Merged PR [#887](https://github.com/izpack/izpack/pull/887) in [izpack/izpack](https://github.com/izpack/izpack)
-5. ❌ Closed PR [#1787](https://github.com/TweetWallFX/TweetwallFX/pull/1787) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+1. 🎉 Merged PR [#867](https://github.com/izpack/izpack/pull/867) in [izpack/izpack](https://github.com/izpack/izpack)
+2. 🗣 Commented on [#23](https://github.com/reinhapa/izpack/pull/23#issuecomment-2016377215) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+3. 🎉 Merged PR [#890](https://github.com/izpack/izpack/pull/890) in [izpack/izpack](https://github.com/izpack/izpack)
+4. 💪 Opened PR [#890](https://github.com/izpack/izpack/pull/890) in [izpack/izpack](https://github.com/izpack/izpack)
+5. 🎉 Merged PR [#889](https://github.com/izpack/izpack/pull/889) in [izpack/izpack](https://github.com/izpack/izpack)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
