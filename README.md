@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#867](https://github.com/izpack/izpack/pull/867) in [izpack/izpack](https://github.com/izpack/izpack)
-2. 🗣 Commented on [#23](https://github.com/reinhapa/izpack/pull/23#issuecomment-2016377215) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
-3. 🎉 Merged PR [#890](https://github.com/izpack/izpack/pull/890) in [izpack/izpack](https://github.com/izpack/izpack)
-4. 💪 Opened PR [#890](https://github.com/izpack/izpack/pull/890) in [izpack/izpack](https://github.com/izpack/izpack)
-5. 🎉 Merged PR [#889](https://github.com/izpack/izpack/pull/889) in [izpack/izpack](https://github.com/izpack/izpack)
+1. 🎉 Merged PR [#892](https://github.com/izpack/izpack/pull/892) in [izpack/izpack](https://github.com/izpack/izpack)
+2. 🔒 Closed issue [#44](https://github.com/Mastodon4J/Mastodon4J/issues/44) in [Mastodon4J/Mastodon4J](https://github.com/Mastodon4J/Mastodon4J)
+3. 🎉 Merged PR [#45](https://github.com/Mastodon4J/Mastodon4J/pull/45) in [Mastodon4J/Mastodon4J](https://github.com/Mastodon4J/Mastodon4J)
+4. 🎉 Merged PR [#25](https://github.com/reinhapa/izpack/pull/25) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+5. 💪 Opened PR [#45](https://github.com/Mastodon4J/Mastodon4J/pull/45) in [Mastodon4J/Mastodon4J](https://github.com/Mastodon4J/Mastodon4J)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
