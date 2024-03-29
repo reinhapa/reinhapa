@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#898](https://github.com/izpack/izpack/pull/898) in [izpack/izpack](https://github.com/izpack/izpack)
-2. 🎉 Merged PR [#891](https://github.com/izpack/izpack/pull/891) in [izpack/izpack](https://github.com/izpack/izpack)
-3. 🎉 Merged PR [#893](https://github.com/izpack/izpack/pull/893) in [izpack/izpack](https://github.com/izpack/izpack)
-4. 🎉 Merged PR [#892](https://github.com/izpack/izpack/pull/892) in [izpack/izpack](https://github.com/izpack/izpack)
-5. 🔒 Closed issue [#44](https://github.com/Mastodon4J/Mastodon4J/issues/44) in [Mastodon4J/Mastodon4J](https://github.com/Mastodon4J/Mastodon4J)
+1. 🎉 Merged PR [#64](https://github.com/eXist-db/exist-apps-parent/pull/64) in [eXist-db/exist-apps-parent](https://github.com/eXist-db/exist-apps-parent)
+2. 🎉 Merged PR [#898](https://github.com/izpack/izpack/pull/898) in [izpack/izpack](https://github.com/izpack/izpack)
+3. 🎉 Merged PR [#891](https://github.com/izpack/izpack/pull/891) in [izpack/izpack](https://github.com/izpack/izpack)
+4. 🎉 Merged PR [#893](https://github.com/izpack/izpack/pull/893) in [izpack/izpack](https://github.com/izpack/izpack)
+5. 🎉 Merged PR [#892](https://github.com/izpack/izpack/pull/892) in [izpack/izpack](https://github.com/izpack/izpack)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
