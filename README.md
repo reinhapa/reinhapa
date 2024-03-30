@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#64](https://github.com/eXist-db/exist-apps-parent/pull/64) in [eXist-db/exist-apps-parent](https://github.com/eXist-db/exist-apps-parent)
-2. 🎉 Merged PR [#898](https://github.com/izpack/izpack/pull/898) in [izpack/izpack](https://github.com/izpack/izpack)
-3. 🎉 Merged PR [#891](https://github.com/izpack/izpack/pull/891) in [izpack/izpack](https://github.com/izpack/izpack)
-4. 🎉 Merged PR [#893](https://github.com/izpack/izpack/pull/893) in [izpack/izpack](https://github.com/izpack/izpack)
-5. 🎉 Merged PR [#892](https://github.com/izpack/izpack/pull/892) in [izpack/izpack](https://github.com/izpack/izpack)
+1. 🗣 Commented on [#67](https://github.com/adoptium/jmc-build/issues/67#issuecomment-2027598299) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
+2. 🎉 Merged PR [#64](https://github.com/eXist-db/exist-apps-parent/pull/64) in [eXist-db/exist-apps-parent](https://github.com/eXist-db/exist-apps-parent)
+3. 🎉 Merged PR [#898](https://github.com/izpack/izpack/pull/898) in [izpack/izpack](https://github.com/izpack/izpack)
+4. 🎉 Merged PR [#891](https://github.com/izpack/izpack/pull/891) in [izpack/izpack](https://github.com/izpack/izpack)
+5. 🎉 Merged PR [#893](https://github.com/izpack/izpack/pull/893) in [izpack/izpack](https://github.com/izpack/izpack)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
