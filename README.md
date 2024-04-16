@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/reinhapa/izpack/pull/26) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
-2. 🎉 Merged PR [#27](https://github.com/reinhapa/izpack/pull/27) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
-3. 🎉 Merged PR [#28](https://github.com/reinhapa/izpack/pull/28) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
-4. 🎉 Merged PR [#29](https://github.com/reinhapa/izpack/pull/29) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
-5. 🎉 Merged PR [#30](https://github.com/reinhapa/izpack/pull/30) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+1. 🎉 Merged PR [#479](https://github.com/reinhapa/rabbitmq-cdi/pull/479) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
+2. 🗣 Commented on [#85](https://github.com/reinhapa/tcow/pull/85#issuecomment-2056653064) in [reinhapa/tcow](https://github.com/reinhapa/tcow)
+3. 💪 Opened PR [#479](https://github.com/reinhapa/rabbitmq-cdi/pull/479) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
+4. 🗣 Commented on [#190](https://github.com/reinhapa/virtual-printer/pull/190#issuecomment-2056628647) in [reinhapa/virtual-printer](https://github.com/reinhapa/virtual-printer)
+5. 🎉 Merged PR [#191](https://github.com/reinhapa/virtual-printer/pull/191) in [reinhapa/virtual-printer](https://github.com/reinhapa/virtual-printer)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
