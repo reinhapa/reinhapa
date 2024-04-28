@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5285](https://github.com/eXist-db/exist/pull/5285) in [eXist-db/exist](https://github.com/eXist-db/exist)
-2. 🗣 Commented on [#216](https://github.com/reinhapa/Sandbox/pull/216#issuecomment-2070698925) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
-3. 🗣 Commented on [#217](https://github.com/reinhapa/Sandbox/pull/217#issuecomment-2070698436) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
-4. 🗣 Commented on [#218](https://github.com/reinhapa/Sandbox/pull/218#issuecomment-2070697596) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
-5. 🎉 Merged PR [#38](https://github.com/reinhapa/izpack/pull/38) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+1. 🗣 Commented on [#1839](https://github.com/TweetWallFX/TweetwallFX/pull/1839#issuecomment-2080511373) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+2. 🗣 Commented on [#110](https://github.com/reinhapa/slf4j-cdi/pull/110#issuecomment-2080434816) in [reinhapa/slf4j-cdi](https://github.com/reinhapa/slf4j-cdi)
+3. 🗣 Commented on [#1839](https://github.com/TweetWallFX/TweetwallFX/pull/1839#issuecomment-2080411260) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+4. 🎉 Merged PR [#5285](https://github.com/eXist-db/exist/pull/5285) in [eXist-db/exist](https://github.com/eXist-db/exist)
+5. 🗣 Commented on [#216](https://github.com/reinhapa/Sandbox/pull/216#issuecomment-2070698925) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
