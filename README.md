@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#111](https://github.com/McPringle/apus/pull/111) in [McPringle/apus](https://github.com/McPringle/apus)
-2. 🗣 Commented on [#5295](https://github.com/eXist-db/exist/pull/5295#issuecomment-2090768937) in [eXist-db/exist](https://github.com/eXist-db/exist)
-3. 🗣 Commented on [#5295](https://github.com/eXist-db/exist/pull/5295#issuecomment-2086995317) in [eXist-db/exist](https://github.com/eXist-db/exist)
-4. 🗣 Commented on [#5295](https://github.com/eXist-db/exist/pull/5295#issuecomment-2086897275) in [eXist-db/exist](https://github.com/eXist-db/exist)
-5. 💪 Opened PR [#5295](https://github.com/eXist-db/exist/pull/5295) in [eXist-db/exist](https://github.com/eXist-db/exist)
+1. 🗣 Commented on [#5304](https://github.com/eXist-db/exist/pull/5304#issuecomment-2108725503) in [eXist-db/exist](https://github.com/eXist-db/exist)
+2. 🗣 Commented on [#960](https://github.com/eXist-db/documentation/pull/960#issuecomment-2108523546) in [eXist-db/documentation](https://github.com/eXist-db/documentation)
+3. 🗣 Commented on [#956](https://github.com/eXist-db/documentation/pull/956#issuecomment-2108522045) in [eXist-db/documentation](https://github.com/eXist-db/documentation)
+4. 🎉 Merged PR [#966](https://github.com/eXist-db/documentation/pull/966) in [eXist-db/documentation](https://github.com/eXist-db/documentation)
+5. 🎉 Merged PR [#976](https://github.com/eXist-db/documentation/pull/976) in [eXist-db/documentation](https://github.com/eXist-db/documentation)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
