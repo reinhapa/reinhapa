@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5304](https://github.com/eXist-db/exist/pull/5304#issuecomment-2110957090) in [eXist-db/exist](https://github.com/eXist-db/exist)
-2. 🗣 Commented on [#484](https://github.com/reinhapa/rabbitmq-cdi/pull/484#issuecomment-2110928330) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
-3. 🗣 Commented on [#484](https://github.com/reinhapa/rabbitmq-cdi/pull/484#issuecomment-2110913387) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
-4. 🎉 Merged PR [#485](https://github.com/reinhapa/rabbitmq-cdi/pull/485) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
-5. 🎉 Merged PR [#192](https://github.com/reinhapa/virtual-printer/pull/192) in [reinhapa/virtual-printer](https://github.com/reinhapa/virtual-printer)
+1. 🎉 Merged PR [#979](https://github.com/eXist-db/documentation/pull/979) in [eXist-db/documentation](https://github.com/eXist-db/documentation)
+2. 🗣 Commented on [#5304](https://github.com/eXist-db/exist/pull/5304#issuecomment-2110957090) in [eXist-db/exist](https://github.com/eXist-db/exist)
+3. 🗣 Commented on [#484](https://github.com/reinhapa/rabbitmq-cdi/pull/484#issuecomment-2110928330) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
+4. 🗣 Commented on [#484](https://github.com/reinhapa/rabbitmq-cdi/pull/484#issuecomment-2110913387) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
+5. 🎉 Merged PR [#485](https://github.com/reinhapa/rabbitmq-cdi/pull/485) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
