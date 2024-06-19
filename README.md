@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4890](https://github.com/eXist-db/exist/issues/4890#issuecomment-2174117121) in [eXist-db/exist](https://github.com/eXist-db/exist)
-2. 🗣 Commented on [#61](https://github.com/reinhapa/izpack/pull/61#issuecomment-2173858381) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
-3. 🗣 Commented on [#344](https://github.com/eclipse/buildship/issues/344#issuecomment-2167916049) in [eclipse/buildship](https://github.com/eclipse/buildship)
-4. 🗣 Commented on [#1865](https://github.com/TweetWallFX/TweetwallFX/pull/1865#issuecomment-2166428634) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-5. 🗣 Commented on [#1865](https://github.com/TweetWallFX/TweetwallFX/pull/1865#issuecomment-2165585636) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+1. 🗣 Commented on [#2071](https://github.com/esphome/feature-requests/issues/2071#issuecomment-2175409491) in [esphome/feature-requests](https://github.com/esphome/feature-requests)
+2. 🗣 Commented on [#2071](https://github.com/esphome/feature-requests/issues/2071#issuecomment-2175193885) in [esphome/feature-requests](https://github.com/esphome/feature-requests)
+3. 🗣 Commented on [#4890](https://github.com/eXist-db/exist/issues/4890#issuecomment-2174117121) in [eXist-db/exist](https://github.com/eXist-db/exist)
+4. 🗣 Commented on [#61](https://github.com/reinhapa/izpack/pull/61#issuecomment-2173858381) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+5. 🗣 Commented on [#344](https://github.com/eclipse/buildship/issues/344#issuecomment-2167916049) in [eclipse/buildship](https://github.com/eclipse/buildship)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
