@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#327](https://github.com/reinhapa/eventeditor/pull/327) in [reinhapa/eventeditor](https://github.com/reinhapa/eventeditor)
-2. 🗣 Commented on [#2071](https://github.com/esphome/feature-requests/issues/2071#issuecomment-2186032331) in [esphome/feature-requests](https://github.com/esphome/feature-requests)
-3. 🎉 Merged PR [#1877](https://github.com/TweetWallFX/TweetwallFX/pull/1877) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-4. 💪 Opened PR [#1877](https://github.com/TweetWallFX/TweetwallFX/pull/1877) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-5. 🗣 Commented on [#2071](https://github.com/esphome/feature-requests/issues/2071#issuecomment-2184166739) in [esphome/feature-requests](https://github.com/esphome/feature-requests)
+1. 🗣 Commented on [#1839](https://github.com/TweetWallFX/TweetwallFX/pull/1839#issuecomment-2200572951) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+2. 🗣 Commented on [#934](https://github.com/izpack/izpack/pull/934#issuecomment-2200014763) in [izpack/izpack](https://github.com/izpack/izpack)
+3. 🎉 Merged PR [#5332](https://github.com/eXist-db/exist/pull/5332) in [eXist-db/exist](https://github.com/eXist-db/exist)
+4. 🎉 Merged PR [#327](https://github.com/reinhapa/eventeditor/pull/327) in [reinhapa/eventeditor](https://github.com/reinhapa/eventeditor)
+5. 🗣 Commented on [#2071](https://github.com/esphome/feature-requests/issues/2071#issuecomment-2186032331) in [esphome/feature-requests](https://github.com/esphome/feature-requests)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
