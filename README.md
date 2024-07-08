@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/izpack/izpack.github.com/issues/24#issuecomment-2209085059) in [izpack/izpack.github.com](https://github.com/izpack/izpack.github.com)
-2. 🗣 Commented on [#1839](https://github.com/TweetWallFX/TweetwallFX/pull/1839#issuecomment-2200572951) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-3. 🗣 Commented on [#934](https://github.com/izpack/izpack/pull/934#issuecomment-2200014763) in [izpack/izpack](https://github.com/izpack/izpack)
-4. 🎉 Merged PR [#5332](https://github.com/eXist-db/exist/pull/5332) in [eXist-db/exist](https://github.com/eXist-db/exist)
-5. 🎉 Merged PR [#327](https://github.com/reinhapa/eventeditor/pull/327) in [reinhapa/eventeditor](https://github.com/reinhapa/eventeditor)
+1. 🔒 Closed issue [#24](https://github.com/izpack/izpack.github.io/issues/24) in [izpack/izpack.github.io](https://github.com/izpack/izpack.github.io)
+2. 🎉 Merged PR [#26](https://github.com/izpack/izpack.github.io/pull/26) in [izpack/izpack.github.io](https://github.com/izpack/izpack.github.io)
+3. 💪 Opened PR [#26](https://github.com/izpack/izpack.github.io/pull/26) in [izpack/izpack.github.io](https://github.com/izpack/izpack.github.io)
+4. 🎉 Merged PR [#25](https://github.com/izpack/izpack.github.io/pull/25) in [izpack/izpack.github.io](https://github.com/izpack/izpack.github.io)
+5. 💪 Opened PR [#25](https://github.com/izpack/izpack.github.io/pull/25) in [izpack/izpack.github.io](https://github.com/izpack/izpack.github.io)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
