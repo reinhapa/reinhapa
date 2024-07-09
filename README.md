@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#24](https://github.com/izpack/izpack.github.io/issues/24) in [izpack/izpack.github.io](https://github.com/izpack/izpack.github.io)
-2. 🎉 Merged PR [#26](https://github.com/izpack/izpack.github.io/pull/26) in [izpack/izpack.github.io](https://github.com/izpack/izpack.github.io)
-3. 💪 Opened PR [#26](https://github.com/izpack/izpack.github.io/pull/26) in [izpack/izpack.github.io](https://github.com/izpack/izpack.github.io)
-4. 🎉 Merged PR [#25](https://github.com/izpack/izpack.github.io/pull/25) in [izpack/izpack.github.io](https://github.com/izpack/izpack.github.io)
-5. 💪 Opened PR [#25](https://github.com/izpack/izpack.github.io/pull/25) in [izpack/izpack.github.io](https://github.com/izpack/izpack.github.io)
+1. 🔒 Closed issue [#23](https://github.com/izpack/izpack.github.io/issues/23) in [izpack/izpack.github.io](https://github.com/izpack/izpack.github.io)
+2. 🔒 Closed issue [#24](https://github.com/izpack/izpack.github.io/issues/24) in [izpack/izpack.github.io](https://github.com/izpack/izpack.github.io)
+3. 🎉 Merged PR [#26](https://github.com/izpack/izpack.github.io/pull/26) in [izpack/izpack.github.io](https://github.com/izpack/izpack.github.io)
+4. 💪 Opened PR [#26](https://github.com/izpack/izpack.github.io/pull/26) in [izpack/izpack.github.io](https://github.com/izpack/izpack.github.io)
+5. 🎉 Merged PR [#25](https://github.com/izpack/izpack.github.io/pull/25) in [izpack/izpack.github.io](https://github.com/izpack/izpack.github.io)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
