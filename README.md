@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3015](https://github.com/adoptium/adoptium.net/pull/3015#issuecomment-2282824099) in [adoptium/adoptium.net](https://github.com/adoptium/adoptium.net)
-2. 💪 Opened PR [#3015](https://github.com/adoptium/adoptium.net/pull/3015) in [adoptium/adoptium.net](https://github.com/adoptium/adoptium.net)
-3. 🗣 Commented on [#5395](https://github.com/eXist-db/exist/pull/5395#issuecomment-2277289643) in [eXist-db/exist](https://github.com/eXist-db/exist)
-4. 🔒 Closed issue [#5249](https://github.com/eXist-db/exist/issues/5249) in [eXist-db/exist](https://github.com/eXist-db/exist)
-5. 🎉 Merged PR [#5376](https://github.com/eXist-db/exist/pull/5376) in [eXist-db/exist](https://github.com/eXist-db/exist)
+1. 🗣 Commented on [#72](https://github.com/reinhapa/izpack/pull/72#issuecomment-2284123647) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+2. 🗣 Commented on [#74](https://github.com/reinhapa/izpack/pull/74#issuecomment-2284121596) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+3. 🗣 Commented on [#83](https://github.com/adoptium/jmc-build/issues/83#issuecomment-2283999820) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
+4. 🔒 Closed issue [#83](https://github.com/adoptium/jmc-build/issues/83) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
+5. 🗣 Commented on [#3015](https://github.com/adoptium/adoptium.net/pull/3015#issuecomment-2282824099) in [adoptium/adoptium.net](https://github.com/adoptium/adoptium.net)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
