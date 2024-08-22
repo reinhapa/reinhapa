@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#80](https://github.com/reinhapa/izpack/pull/80#issuecomment-2297165302) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
-2. ❌ Closed PR [#896](https://github.com/izpack/izpack/pull/896) in [izpack/izpack](https://github.com/izpack/izpack)
-3. 🗣 Commented on [#72](https://github.com/reinhapa/izpack/pull/72#issuecomment-2284123647) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
-4. 🗣 Commented on [#74](https://github.com/reinhapa/izpack/pull/74#issuecomment-2284121596) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
-5. 🗣 Commented on [#83](https://github.com/adoptium/jmc-build/issues/83#issuecomment-2283999820) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
+1. 💪 Opened PR [#5422](https://github.com/eXist-db/exist/pull/5422) in [eXist-db/exist](https://github.com/eXist-db/exist)
+2. 🗣 Commented on [#5408](https://github.com/eXist-db/exist/pull/5408#issuecomment-2302859599) in [eXist-db/exist](https://github.com/eXist-db/exist)
+3. 🗣 Commented on [#5409](https://github.com/eXist-db/exist/pull/5409#issuecomment-2302858865) in [eXist-db/exist](https://github.com/eXist-db/exist)
+4. 🗣 Commented on [#3446](https://github.com/home-assistant/addons/issues/3446#issuecomment-2302715653) in [home-assistant/addons](https://github.com/home-assistant/addons)
+5. 🗣 Commented on [#80](https://github.com/reinhapa/izpack/pull/80#issuecomment-2297165302) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
