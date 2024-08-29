@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#81](https://github.com/reinhapa/izpack/pull/81#issuecomment-2310903588) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
-2. 🗣 Commented on [#82](https://github.com/reinhapa/izpack/pull/82#issuecomment-2310902366) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
-3. 🗣 Commented on [#83](https://github.com/reinhapa/izpack/pull/83#issuecomment-2310901242) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
-4. 🗣 Commented on [#84](https://github.com/reinhapa/izpack/pull/84#issuecomment-2310897650) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
-5. 🗣 Commented on [#949](https://github.com/izpack/izpack/pull/949#issuecomment-2310880091) in [izpack/izpack](https://github.com/izpack/izpack)
+1. 🗣 Commented on [#79](https://github.com/reinhapa/izpack/pull/79#issuecomment-2314753160) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+2. 🗣 Commented on [#81](https://github.com/reinhapa/izpack/pull/81#issuecomment-2310903588) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+3. 🗣 Commented on [#82](https://github.com/reinhapa/izpack/pull/82#issuecomment-2310902366) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+4. 🗣 Commented on [#83](https://github.com/reinhapa/izpack/pull/83#issuecomment-2310901242) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+5. 🗣 Commented on [#84](https://github.com/reinhapa/izpack/pull/84#issuecomment-2310897650) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
