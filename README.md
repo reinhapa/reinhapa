@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#89](https://github.com/reinhapa/izpack/pull/89#issuecomment-2324978764) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
-2. 🔒 Closed issue [#3624](https://github.com/eXist-db/exist/issues/3624) in [eXist-db/exist](https://github.com/eXist-db/exist)
+1. 🗣 Commented on [#330](https://github.com/reinhapa/rabbitmq-cdi/pull/330#issuecomment-2332410644) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
+2. 🗣 Commented on [#89](https://github.com/reinhapa/izpack/pull/89#issuecomment-2324978764) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
 3. 🔒 Closed issue [#3624](https://github.com/eXist-db/exist/issues/3624) in [eXist-db/exist](https://github.com/eXist-db/exist)
-4. 🎉 Merged PR [#4882](https://github.com/eXist-db/exist/pull/4882) in [eXist-db/exist](https://github.com/eXist-db/exist)
-5. 🗣 Commented on [#5346](https://github.com/eXist-db/exist/pull/5346#issuecomment-2323906817) in [eXist-db/exist](https://github.com/eXist-db/exist)
+4. 🔒 Closed issue [#3624](https://github.com/eXist-db/exist/issues/3624) in [eXist-db/exist](https://github.com/eXist-db/exist)
+5. 🎉 Merged PR [#4882](https://github.com/eXist-db/exist/pull/4882) in [eXist-db/exist](https://github.com/eXist-db/exist)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
