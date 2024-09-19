@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1940](https://github.com/TweetWallFX/TweetwallFX/pull/1940) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-2. 🗣 Commented on [#92](https://github.com/reinhapa/izpack/pull/92#issuecomment-2354478533) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
-3. 🗣 Commented on [#82](https://github.com/eXist-db/exist-apps-parent/pull/82#issuecomment-2352003003) in [eXist-db/exist-apps-parent](https://github.com/eXist-db/exist-apps-parent)
-4. 🗣 Commented on [#5386](https://github.com/eXist-db/exist/pull/5386#issuecomment-2345273439) in [eXist-db/exist](https://github.com/eXist-db/exist)
-5. 🎉 Merged PR [#964](https://github.com/izpack/izpack/pull/964) in [izpack/izpack](https://github.com/izpack/izpack)
+1. 🗣 Commented on [#505](https://github.com/reinhapa/rabbitmq-cdi/issues/505#issuecomment-2358860733) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
+2. 🎉 Merged PR [#1940](https://github.com/TweetWallFX/TweetwallFX/pull/1940) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+3. 🗣 Commented on [#92](https://github.com/reinhapa/izpack/pull/92#issuecomment-2354478533) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+4. 🗣 Commented on [#82](https://github.com/eXist-db/exist-apps-parent/pull/82#issuecomment-2352003003) in [eXist-db/exist-apps-parent](https://github.com/eXist-db/exist-apps-parent)
+5. 🗣 Commented on [#5386](https://github.com/eXist-db/exist/pull/5386#issuecomment-2345273439) in [eXist-db/exist](https://github.com/eXist-db/exist)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
