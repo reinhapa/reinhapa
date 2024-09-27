@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#93](https://github.com/reinhapa/izpack/pull/93#issuecomment-2371571401) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
-2. 🗣 Commented on [#505](https://github.com/reinhapa/rabbitmq-cdi/issues/505#issuecomment-2358860733) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
-3. 🎉 Merged PR [#1940](https://github.com/TweetWallFX/TweetwallFX/pull/1940) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-4. 🗣 Commented on [#92](https://github.com/reinhapa/izpack/pull/92#issuecomment-2354478533) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
-5. 🗣 Commented on [#82](https://github.com/eXist-db/exist-apps-parent/pull/82#issuecomment-2352003003) in [eXist-db/exist-apps-parent](https://github.com/eXist-db/exist-apps-parent)
+1. 🗣 Commented on [#16](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2024-BE/pull/16#issuecomment-2377044770) in [TweetWallFX/TweetwallFX-Devoxx-2024-BE](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2024-BE)
+2. 🗣 Commented on [#16](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2024-BE/pull/16#issuecomment-2377039384) in [TweetWallFX/TweetwallFX-Devoxx-2024-BE](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2024-BE)
+3. 🗣 Commented on [#16](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2024-BE/pull/16#issuecomment-2377031650) in [TweetWallFX/TweetwallFX-Devoxx-2024-BE](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2024-BE)
+4. 🗣 Commented on [#258](https://github.com/adoptium/adoptium/issues/258#issuecomment-2376393594) in [adoptium/adoptium](https://github.com/adoptium/adoptium)
+5. 🗣 Commented on [#93](https://github.com/reinhapa/izpack/pull/93#issuecomment-2371571401) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
