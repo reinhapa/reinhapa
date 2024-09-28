@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2024-BE/pull/16#issuecomment-2377044770) in [TweetWallFX/TweetwallFX-Devoxx-2024-BE](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2024-BE)
-2. 🗣 Commented on [#16](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2024-BE/pull/16#issuecomment-2377039384) in [TweetWallFX/TweetwallFX-Devoxx-2024-BE](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2024-BE)
-3. 🗣 Commented on [#16](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2024-BE/pull/16#issuecomment-2377031650) in [TweetWallFX/TweetwallFX-Devoxx-2024-BE](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2024-BE)
-4. 🗣 Commented on [#258](https://github.com/adoptium/adoptium/issues/258#issuecomment-2376393594) in [adoptium/adoptium](https://github.com/adoptium/adoptium)
-5. 🗣 Commented on [#93](https://github.com/reinhapa/izpack/pull/93#issuecomment-2371571401) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+1. 💪 Opened PR [#967](https://github.com/izpack/izpack/pull/967) in [izpack/izpack](https://github.com/izpack/izpack)
+2. 💪 Opened PR [#188](https://github.com/dom4j/dom4j/pull/188) in [dom4j/dom4j](https://github.com/dom4j/dom4j)
+3. 🗣 Commented on [#16](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2024-BE/pull/16#issuecomment-2377044770) in [TweetWallFX/TweetwallFX-Devoxx-2024-BE](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2024-BE)
+4. 🗣 Commented on [#16](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2024-BE/pull/16#issuecomment-2377039384) in [TweetWallFX/TweetwallFX-Devoxx-2024-BE](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2024-BE)
+5. 🗣 Commented on [#16](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2024-BE/pull/16#issuecomment-2377031650) in [TweetWallFX/TweetwallFX-Devoxx-2024-BE](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2024-BE)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
