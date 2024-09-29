@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#967](https://github.com/izpack/izpack/pull/967) in [izpack/izpack](https://github.com/izpack/izpack)
-2. 💪 Opened PR [#188](https://github.com/dom4j/dom4j/pull/188) in [dom4j/dom4j](https://github.com/dom4j/dom4j)
-3. 🗣 Commented on [#16](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2024-BE/pull/16#issuecomment-2377044770) in [TweetWallFX/TweetwallFX-Devoxx-2024-BE](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2024-BE)
-4. 🗣 Commented on [#16](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2024-BE/pull/16#issuecomment-2377039384) in [TweetWallFX/TweetwallFX-Devoxx-2024-BE](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2024-BE)
-5. 🗣 Commented on [#16](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2024-BE/pull/16#issuecomment-2377031650) in [TweetWallFX/TweetwallFX-Devoxx-2024-BE](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2024-BE)
+1. 🎉 Merged PR [#968](https://github.com/izpack/izpack/pull/968) in [izpack/izpack](https://github.com/izpack/izpack)
+2. 🎉 Merged PR [#969](https://github.com/izpack/izpack/pull/969) in [izpack/izpack](https://github.com/izpack/izpack)
+3. 💪 Opened PR [#969](https://github.com/izpack/izpack/pull/969) in [izpack/izpack](https://github.com/izpack/izpack)
+4. 💪 Opened PR [#968](https://github.com/izpack/izpack/pull/968) in [izpack/izpack](https://github.com/izpack/izpack)
+5. 💪 Opened PR [#967](https://github.com/izpack/izpack/pull/967) in [izpack/izpack](https://github.com/izpack/izpack)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
