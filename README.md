@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#970](https://github.com/izpack/izpack/pull/970) in [izpack/izpack](https://github.com/izpack/izpack)
-2. 💪 Opened PR [#971](https://github.com/izpack/izpack/pull/971) in [izpack/izpack](https://github.com/izpack/izpack)
-3. 💪 Opened PR [#970](https://github.com/izpack/izpack/pull/970) in [izpack/izpack](https://github.com/izpack/izpack)
-4. 🗣 Commented on [#5454](https://github.com/eXist-db/exist/issues/5454#issuecomment-2381406548) in [eXist-db/exist](https://github.com/eXist-db/exist)
-5. 🎉 Merged PR [#968](https://github.com/izpack/izpack/pull/968) in [izpack/izpack](https://github.com/izpack/izpack)
+1. 🎉 Merged PR [#973](https://github.com/izpack/izpack/pull/973) in [izpack/izpack](https://github.com/izpack/izpack)
+2. 🗣 Commented on [#94](https://github.com/reinhapa/izpack/pull/94#issuecomment-2383946465) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+3. 🗣 Commented on [#95](https://github.com/reinhapa/izpack/pull/95#issuecomment-2383946147) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+4. 💪 Opened PR [#973](https://github.com/izpack/izpack/pull/973) in [izpack/izpack](https://github.com/izpack/izpack)
+5. 🎉 Merged PR [#187](https://github.com/xmldb-org/xmldb-api/pull/187) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
