@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1955](https://github.com/TweetWallFX/TweetwallFX/pull/1955#issuecomment-2385309758) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-2. 🗣 Commented on [#510](https://github.com/reinhapa/rabbitmq-cdi/pull/510#issuecomment-2385088872) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
-3. 🎉 Merged PR [#973](https://github.com/izpack/izpack/pull/973) in [izpack/izpack](https://github.com/izpack/izpack)
-4. 🗣 Commented on [#94](https://github.com/reinhapa/izpack/pull/94#issuecomment-2383946465) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
-5. 🗣 Commented on [#95](https://github.com/reinhapa/izpack/pull/95#issuecomment-2383946147) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+1. 💪 Opened PR [#975](https://github.com/izpack/izpack/pull/975) in [izpack/izpack](https://github.com/izpack/izpack)
+2. 💪 Opened PR [#974](https://github.com/izpack/izpack/pull/974) in [izpack/izpack](https://github.com/izpack/izpack)
+3. 🗣 Commented on [#1955](https://github.com/TweetWallFX/TweetwallFX/pull/1955#issuecomment-2385309758) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+4. 🗣 Commented on [#510](https://github.com/reinhapa/rabbitmq-cdi/pull/510#issuecomment-2385088872) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
+5. 🎉 Merged PR [#973](https://github.com/izpack/izpack/pull/973) in [izpack/izpack](https://github.com/izpack/izpack)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
