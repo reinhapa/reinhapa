@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [izpack-5.2.3](https://github.com/izpack/izpack/releases/tag/izpack-5.2.3) in [izpack/izpack](https://github.com/izpack/izpack)
-2. 🗣 Commented on [#1955](https://github.com/TweetWallFX/TweetwallFX/pull/1955#issuecomment-2393755754) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-3. 🎉 Merged PR [#977](https://github.com/izpack/izpack/pull/977) in [izpack/izpack](https://github.com/izpack/izpack)
-4. 💪 Opened PR [#977](https://github.com/izpack/izpack/pull/977) in [izpack/izpack](https://github.com/izpack/izpack)
-5. 🗣 Commented on [#5469](https://github.com/eXist-db/exist/pull/5469#issuecomment-2393154847) in [eXist-db/exist](https://github.com/eXist-db/exist)
+1. 🗣 Commented on [#5469](https://github.com/eXist-db/exist/pull/5469#issuecomment-2395339874) in [eXist-db/exist](https://github.com/eXist-db/exist)
+2. 🚀 Published release [izpack-5.2.3](https://github.com/izpack/izpack/releases/tag/izpack-5.2.3) in [izpack/izpack](https://github.com/izpack/izpack)
+3. 🗣 Commented on [#1955](https://github.com/TweetWallFX/TweetwallFX/pull/1955#issuecomment-2393755754) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+4. 🎉 Merged PR [#977](https://github.com/izpack/izpack/pull/977) in [izpack/izpack](https://github.com/izpack/izpack)
+5. 💪 Opened PR [#977](https://github.com/izpack/izpack/pull/977) in [izpack/izpack](https://github.com/izpack/izpack)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
