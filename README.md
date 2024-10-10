@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#515](https://github.com/reinhapa/rabbitmq-cdi/pull/515) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
-2. 🗣 Commented on [#515](https://github.com/reinhapa/rabbitmq-cdi/pull/515#issuecomment-2400405152) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
-3. 🎉 Merged PR [#47](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2024-BE/pull/47) in [TweetWallFX/TweetwallFX-Devoxx-2024-BE](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2024-BE)
-4. 🎉 Merged PR [#517](https://github.com/reinhapa/rabbitmq-cdi/pull/517) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
-5. 💪 Opened PR [#517](https://github.com/reinhapa/rabbitmq-cdi/pull/517) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
+1. 🎉 Merged PR [#1981](https://github.com/TweetWallFX/TweetwallFX/pull/1981) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+2. 🎉 Merged PR [#1975](https://github.com/TweetWallFX/TweetwallFX/pull/1975) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+3. 🗣 Commented on [#5468](https://github.com/eXist-db/exist/pull/5468#issuecomment-2401966145) in [eXist-db/exist](https://github.com/eXist-db/exist)
+4. 🗣 Commented on [#5466](https://github.com/eXist-db/exist/pull/5466#issuecomment-2401918034) in [eXist-db/exist](https://github.com/eXist-db/exist)
+5. 🗣 Commented on [#5466](https://github.com/eXist-db/exist/pull/5466#issuecomment-2401890660) in [eXist-db/exist](https://github.com/eXist-db/exist)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
