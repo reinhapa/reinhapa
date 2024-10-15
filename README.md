@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#5496](https://github.com/eXist-db/exist/issues/5496) in [eXist-db/exist](https://github.com/eXist-db/exist)
-2. 🔒 Closed issue [#5496](https://github.com/eXist-db/exist/issues/5496) in [eXist-db/exist](https://github.com/eXist-db/exist)
-3. 🎉 Merged PR [#5497](https://github.com/eXist-db/exist/pull/5497) in [eXist-db/exist](https://github.com/eXist-db/exist)
-4. 🎉 Merged PR [#5485](https://github.com/eXist-db/exist/pull/5485) in [eXist-db/exist](https://github.com/eXist-db/exist)
-5. 🗣 Commented on [#3409](https://github.com/eXist-db/exist/pull/3409#issuecomment-2405633738) in [eXist-db/exist](https://github.com/eXist-db/exist)
+1. 🎉 Merged PR [#518](https://github.com/reinhapa/rabbitmq-cdi/pull/518) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
+2. 🗣 Commented on [#188](https://github.com/dom4j/dom4j/pull/188#issuecomment-2410888359) in [dom4j/dom4j](https://github.com/dom4j/dom4j)
+3. 🔒 Closed issue [#5496](https://github.com/eXist-db/exist/issues/5496) in [eXist-db/exist](https://github.com/eXist-db/exist)
+4. 🔒 Closed issue [#5496](https://github.com/eXist-db/exist/issues/5496) in [eXist-db/exist](https://github.com/eXist-db/exist)
+5. 🎉 Merged PR [#5497](https://github.com/eXist-db/exist/pull/5497) in [eXist-db/exist](https://github.com/eXist-db/exist)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
