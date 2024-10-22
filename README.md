@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#982](https://github.com/izpack/izpack/pull/982) in [izpack/izpack](https://github.com/izpack/izpack)
-2. 🎉 Merged PR [#27](https://github.com/izpack/izpack.github.io/pull/27) in [izpack/izpack.github.io](https://github.com/izpack/izpack.github.io)
-3. 💪 Opened PR [#27](https://github.com/izpack/izpack.github.io/pull/27) in [izpack/izpack.github.io](https://github.com/izpack/izpack.github.io)
-4. 🎉 Merged PR [#518](https://github.com/reinhapa/rabbitmq-cdi/pull/518) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
-5. 🗣 Commented on [#188](https://github.com/dom4j/dom4j/pull/188#issuecomment-2410888359) in [dom4j/dom4j](https://github.com/dom4j/dom4j)
+1. 🗣 Commented on [#98](https://github.com/reinhapa/izpack/pull/98#issuecomment-2427480003) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+2. ❌ Closed PR [#983](https://github.com/izpack/izpack/pull/983) in [izpack/izpack](https://github.com/izpack/izpack)
+3. 🎉 Merged PR [#982](https://github.com/izpack/izpack/pull/982) in [izpack/izpack](https://github.com/izpack/izpack)
+4. 🎉 Merged PR [#27](https://github.com/izpack/izpack.github.io/pull/27) in [izpack/izpack.github.io](https://github.com/izpack/izpack.github.io)
+5. 💪 Opened PR [#27](https://github.com/izpack/izpack.github.io/pull/27) in [izpack/izpack.github.io](https://github.com/izpack/izpack.github.io)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
