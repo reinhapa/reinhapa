@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5514](https://github.com/eXist-db/exist/pull/5514#issuecomment-2436888995) in [eXist-db/exist](https://github.com/eXist-db/exist)
-2. 🗣 Commented on [#5514](https://github.com/eXist-db/exist/pull/5514#issuecomment-2435209727) in [eXist-db/exist](https://github.com/eXist-db/exist)
-3. 🗣 Commented on [#5513](https://github.com/eXist-db/exist/pull/5513#issuecomment-2430188056) in [eXist-db/exist](https://github.com/eXist-db/exist)
-4. 🎉 Merged PR [#356](https://github.com/reinhapa/eventeditor/pull/356) in [reinhapa/eventeditor](https://github.com/reinhapa/eventeditor)
-5. 🗣 Commented on [#98](https://github.com/reinhapa/izpack/pull/98#issuecomment-2427480003) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+1. 🗣 Commented on [#5510](https://github.com/eXist-db/exist/pull/5510#issuecomment-2439659813) in [eXist-db/exist](https://github.com/eXist-db/exist)
+2. 💪 Opened PR [#1062](https://github.com/eclipse/paho.mqtt.java/pull/1062) in [eclipse/paho.mqtt.java](https://github.com/eclipse/paho.mqtt.java)
+3. 🗣 Commented on [#585](https://github.com/eclipse/paho.mqtt.java/issues/585#issuecomment-2439474221) in [eclipse/paho.mqtt.java](https://github.com/eclipse/paho.mqtt.java)
+4. 💪 Opened PR [#2000](https://github.com/TweetWallFX/TweetwallFX/pull/2000) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+5. 🗣 Commented on [#5514](https://github.com/eXist-db/exist/pull/5514#issuecomment-2436888995) in [eXist-db/exist](https://github.com/eXist-db/exist)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
