@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#100](https://github.com/reinhapa/izpack/pull/100#issuecomment-2442255169) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
-2. 🗣 Commented on [#101](https://github.com/reinhapa/izpack/pull/101#issuecomment-2442254582) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
-3. 🗣 Commented on [#102](https://github.com/reinhapa/izpack/pull/102#issuecomment-2442253646) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
-4. 🗣 Commented on [#103](https://github.com/reinhapa/izpack/pull/103#issuecomment-2442252951) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
-5. 🗣 Commented on [#5510](https://github.com/eXist-db/exist/pull/5510#issuecomment-2439659813) in [eXist-db/exist](https://github.com/eXist-db/exist)
+1. 🗣 Commented on [#251](https://github.com/eXist-db/monex/pull/251#issuecomment-2444212427) in [eXist-db/monex](https://github.com/eXist-db/monex)
+2. 🗣 Commented on [#86](https://github.com/eXist-db/exist-apps-parent/pull/86#issuecomment-2443455721) in [eXist-db/exist-apps-parent](https://github.com/eXist-db/exist-apps-parent)
+3. 🗣 Commented on [#100](https://github.com/reinhapa/izpack/pull/100#issuecomment-2442255169) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+4. 🗣 Commented on [#101](https://github.com/reinhapa/izpack/pull/101#issuecomment-2442254582) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+5. 🗣 Commented on [#102](https://github.com/reinhapa/izpack/pull/102#issuecomment-2442253646) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
