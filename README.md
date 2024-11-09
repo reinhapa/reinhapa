@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#93](https://github.com/adoptium/jmc-build/pull/93) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
-2. 🎉 Merged PR [#92](https://github.com/adoptium/jmc-build/pull/92) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
-3. 🗣 Commented on [#105](https://github.com/reinhapa/izpack/pull/105#issuecomment-2455588630) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
-4. 🗣 Commented on [#218](https://github.com/reinhapa/virtual-printer/pull/218#issuecomment-2455587559) in [reinhapa/virtual-printer](https://github.com/reinhapa/virtual-printer)
-5. 🗣 Commented on [#106](https://github.com/reinhapa/izpack/pull/106#issuecomment-2455585847) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+1. 🗣 Commented on [#93](https://github.com/adoptium/jmc-build/pull/93#issuecomment-2463244105) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
+2. 💪 Opened PR [#93](https://github.com/adoptium/jmc-build/pull/93) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
+3. 🎉 Merged PR [#92](https://github.com/adoptium/jmc-build/pull/92) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
+4. 🗣 Commented on [#105](https://github.com/reinhapa/izpack/pull/105#issuecomment-2455588630) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+5. 🗣 Commented on [#218](https://github.com/reinhapa/virtual-printer/pull/218#issuecomment-2455587559) in [reinhapa/virtual-printer](https://github.com/reinhapa/virtual-printer)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
