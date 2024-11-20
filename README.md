@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#203](https://github.com/xmldb-org/xmldb-api/issues/203) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
-2. 🗣 Commented on [#5552](https://github.com/eXist-db/exist/pull/5552#issuecomment-2476528033) in [eXist-db/exist](https://github.com/eXist-db/exist)
-3. 🔒 Closed issue [#15](https://github.com/izpack/izpack.github.io/issues/15) in [izpack/izpack.github.io](https://github.com/izpack/izpack.github.io)
-4. 🔒 Closed issue [#16](https://github.com/izpack/izpack.github.io/issues/16) in [izpack/izpack.github.io](https://github.com/izpack/izpack.github.io)
-5. 🗣 Commented on [#5544](https://github.com/eXist-db/exist/issues/5544#issuecomment-2472477067) in [eXist-db/exist](https://github.com/eXist-db/exist)
+1. 🗣 Commented on [#994](https://github.com/izpack/izpack/pull/994#issuecomment-2486506465) in [izpack/izpack](https://github.com/izpack/izpack)
+2. 🗣 Commented on [#5549](https://github.com/eXist-db/exist/issues/5549#issuecomment-2486481747) in [eXist-db/exist](https://github.com/eXist-db/exist)
+3. ❗ Opened issue [#203](https://github.com/xmldb-org/xmldb-api/issues/203) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
+4. 🗣 Commented on [#5552](https://github.com/eXist-db/exist/pull/5552#issuecomment-2476528033) in [eXist-db/exist](https://github.com/eXist-db/exist)
+5. 🔒 Closed issue [#15](https://github.com/izpack/izpack.github.io/issues/15) in [izpack/izpack.github.io](https://github.com/izpack/izpack.github.io)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
