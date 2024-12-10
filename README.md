@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#19](https://github.com/adoptium/jmc-build/issues/19) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
-2. 🎉 Merged PR [#95](https://github.com/adoptium/jmc-build/pull/95) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
-3. 🗣 Commented on [#994](https://github.com/izpack/izpack/pull/994#issuecomment-2495556120) in [izpack/izpack](https://github.com/izpack/izpack)
-4. 🗣 Commented on [#994](https://github.com/izpack/izpack/pull/994#issuecomment-2486506465) in [izpack/izpack](https://github.com/izpack/izpack)
-5. 🗣 Commented on [#5549](https://github.com/eXist-db/exist/issues/5549#issuecomment-2486481747) in [eXist-db/exist](https://github.com/eXist-db/exist)
+1. 🗣 Commented on [#88](https://github.com/eXist-db/exist-apps-parent/pull/88#issuecomment-2528058857) in [eXist-db/exist-apps-parent](https://github.com/eXist-db/exist-apps-parent)
+2. 🔒 Closed issue [#19](https://github.com/adoptium/jmc-build/issues/19) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
+3. 🎉 Merged PR [#95](https://github.com/adoptium/jmc-build/pull/95) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
+4. 🗣 Commented on [#994](https://github.com/izpack/izpack/pull/994#issuecomment-2495556120) in [izpack/izpack](https://github.com/izpack/izpack)
+5. 🗣 Commented on [#994](https://github.com/izpack/izpack/pull/994#issuecomment-2486506465) in [izpack/izpack](https://github.com/izpack/izpack)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
