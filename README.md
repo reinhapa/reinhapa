@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1002](https://github.com/izpack/izpack/pull/1002) in [izpack/izpack](https://github.com/izpack/izpack)
-2. 🎉 Merged PR [#1000](https://github.com/izpack/izpack/pull/1000) in [izpack/izpack](https://github.com/izpack/izpack)
-3. 🎉 Merged PR [#999](https://github.com/izpack/izpack/pull/999) in [izpack/izpack](https://github.com/izpack/izpack)
-4. 🎉 Merged PR [#96](https://github.com/adoptium/jmc-build/pull/96) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
-5. 🗣 Commented on [#5587](https://github.com/eXist-db/exist/issues/5587#issuecomment-2561183485) in [eXist-db/exist](https://github.com/eXist-db/exist)
+1. 🗣 Commented on [#86](https://github.com/Mastodon4J/mastodon4j/pull/86#issuecomment-2576158405) in [Mastodon4J/mastodon4j](https://github.com/Mastodon4J/mastodon4j)
+2. 🎉 Merged PR [#1005](https://github.com/izpack/izpack/pull/1005) in [izpack/izpack](https://github.com/izpack/izpack)
+3. 🎉 Merged PR [#213](https://github.com/xmldb-org/xmldb-api/pull/213) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
+4. 🗣 Commented on [#213](https://github.com/xmldb-org/xmldb-api/pull/213#issuecomment-2576135485) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
+5. 🗣 Commented on [#213](https://github.com/xmldb-org/xmldb-api/pull/213#issuecomment-2576130701) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
