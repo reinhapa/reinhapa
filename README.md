@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1001](https://github.com/izpack/izpack/pull/1001) in [izpack/izpack](https://github.com/izpack/izpack)
-2. 🎉 Merged PR [#1003](https://github.com/izpack/izpack/pull/1003) in [izpack/izpack](https://github.com/izpack/izpack)
-3. 🗣 Commented on [#86](https://github.com/Mastodon4J/mastodon4j/pull/86#issuecomment-2576158405) in [Mastodon4J/mastodon4j](https://github.com/Mastodon4J/mastodon4j)
-4. 🎉 Merged PR [#1005](https://github.com/izpack/izpack/pull/1005) in [izpack/izpack](https://github.com/izpack/izpack)
-5. 🎉 Merged PR [#213](https://github.com/xmldb-org/xmldb-api/pull/213) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
+1. 🗣 Commented on [#2039](https://github.com/TweetWallFX/TweetwallFX/pull/2039#issuecomment-2582919848) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+2. 🗣 Commented on [#2040](https://github.com/TweetWallFX/TweetwallFX/pull/2040#issuecomment-2582899821) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+3. 🎉 Merged PR [#1001](https://github.com/izpack/izpack/pull/1001) in [izpack/izpack](https://github.com/izpack/izpack)
+4. 🎉 Merged PR [#1003](https://github.com/izpack/izpack/pull/1003) in [izpack/izpack](https://github.com/izpack/izpack)
+5. 🗣 Commented on [#86](https://github.com/Mastodon4J/mastodon4j/pull/86#issuecomment-2576158405) in [Mastodon4J/mastodon4j](https://github.com/Mastodon4J/mastodon4j)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
