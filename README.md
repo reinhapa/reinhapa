@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2039](https://github.com/TweetWallFX/TweetwallFX/pull/2039#issuecomment-2582919848) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-2. 🗣 Commented on [#2040](https://github.com/TweetWallFX/TweetwallFX/pull/2040#issuecomment-2582899821) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-3. 🎉 Merged PR [#1001](https://github.com/izpack/izpack/pull/1001) in [izpack/izpack](https://github.com/izpack/izpack)
-4. 🎉 Merged PR [#1003](https://github.com/izpack/izpack/pull/1003) in [izpack/izpack](https://github.com/izpack/izpack)
-5. 🗣 Commented on [#86](https://github.com/Mastodon4J/mastodon4j/pull/86#issuecomment-2576158405) in [Mastodon4J/mastodon4j](https://github.com/Mastodon4J/mastodon4j)
+1. 🗣 Commented on [#2038](https://github.com/TweetWallFX/TweetwallFX/pull/2038#issuecomment-2583045800) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+2. 🗣 Commented on [#2039](https://github.com/TweetWallFX/TweetwallFX/pull/2039#issuecomment-2582919848) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+3. 🗣 Commented on [#2040](https://github.com/TweetWallFX/TweetwallFX/pull/2040#issuecomment-2582899821) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+4. 🎉 Merged PR [#1001](https://github.com/izpack/izpack/pull/1001) in [izpack/izpack](https://github.com/izpack/izpack)
+5. 🎉 Merged PR [#1003](https://github.com/izpack/izpack/pull/1003) in [izpack/izpack](https://github.com/izpack/izpack)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
