@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1008](https://github.com/izpack/izpack/pull/1008) in [izpack/izpack](https://github.com/izpack/izpack)
-2. 🎉 Merged PR [#1006](https://github.com/izpack/izpack/pull/1006) in [izpack/izpack](https://github.com/izpack/izpack)
-3. 🎉 Merged PR [#1007](https://github.com/izpack/izpack/pull/1007) in [izpack/izpack](https://github.com/izpack/izpack)
-4. ❗ Opened issue [#28](https://github.com/izpack/izpack.github.io/issues/28) in [izpack/izpack.github.io](https://github.com/izpack/izpack.github.io)
-5. 🗣 Commented on [#130](https://github.com/reinhapa/slf4j-cdi/pull/130#issuecomment-2588054699) in [reinhapa/slf4j-cdi](https://github.com/reinhapa/slf4j-cdi)
+1. 🗣 Commented on [#1009](https://github.com/izpack/izpack/pull/1009#issuecomment-2602940046) in [izpack/izpack](https://github.com/izpack/izpack)
+2. 🗣 Commented on [#120](https://github.com/reinhapa/izpack/pull/120#issuecomment-2602564753) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+3. 🗣 Commented on [#120](https://github.com/reinhapa/izpack/pull/120#issuecomment-2602562332) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+4. 🗣 Commented on [#120](https://github.com/reinhapa/izpack/pull/120#issuecomment-2602534960) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+5. 🎉 Merged PR [#1008](https://github.com/izpack/izpack/pull/1008) in [izpack/izpack](https://github.com/izpack/izpack)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
