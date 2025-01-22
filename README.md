@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1009](https://github.com/izpack/izpack/pull/1009#issuecomment-2602940046) in [izpack/izpack](https://github.com/izpack/izpack)
-2. 🗣 Commented on [#120](https://github.com/reinhapa/izpack/pull/120#issuecomment-2602564753) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
-3. 🗣 Commented on [#120](https://github.com/reinhapa/izpack/pull/120#issuecomment-2602562332) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
-4. 🗣 Commented on [#120](https://github.com/reinhapa/izpack/pull/120#issuecomment-2602534960) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
-5. 🎉 Merged PR [#1008](https://github.com/izpack/izpack/pull/1008) in [izpack/izpack](https://github.com/izpack/izpack)
+1. 🗣 Commented on [#980](https://github.com/izpack/izpack/pull/980#issuecomment-2604223210) in [izpack/izpack](https://github.com/izpack/izpack)
+2. ❌ Closed PR [#980](https://github.com/izpack/izpack/pull/980) in [izpack/izpack](https://github.com/izpack/izpack)
+3. 🗣 Commented on [#89](https://github.com/Mastodon4J/mastodon4j/pull/89#issuecomment-2604216937) in [Mastodon4J/mastodon4j](https://github.com/Mastodon4J/mastodon4j)
+4. 🗣 Commented on [#1009](https://github.com/izpack/izpack/pull/1009#issuecomment-2602940046) in [izpack/izpack](https://github.com/izpack/izpack)
+5. 🗣 Commented on [#120](https://github.com/reinhapa/izpack/pull/120#issuecomment-2602564753) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
