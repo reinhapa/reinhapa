@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1009](https://github.com/izpack/izpack/pull/1009) in [izpack/izpack](https://github.com/izpack/izpack)
-2. 🗣 Commented on [#121](https://github.com/reinhapa/izpack/pull/121#issuecomment-2616274745) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
-3. 🗣 Commented on [#980](https://github.com/izpack/izpack/pull/980#issuecomment-2604223210) in [izpack/izpack](https://github.com/izpack/izpack)
-4. ❌ Closed PR [#980](https://github.com/izpack/izpack/pull/980) in [izpack/izpack](https://github.com/izpack/izpack)
-5. 🗣 Commented on [#89](https://github.com/Mastodon4J/mastodon4j/pull/89#issuecomment-2604216937) in [Mastodon4J/mastodon4j](https://github.com/Mastodon4J/mastodon4j)
+1. 🗣 Commented on [#29](https://github.com/izpack/izpack.github.io/pull/29#issuecomment-2627760088) in [izpack/izpack.github.io](https://github.com/izpack/izpack.github.io)
+2. 🗣 Commented on [#28](https://github.com/izpack/izpack.github.io/issues/28#issuecomment-2627757116) in [izpack/izpack.github.io](https://github.com/izpack/izpack.github.io)
+3. 🔒 Closed issue [#28](https://github.com/izpack/izpack.github.io/issues/28) in [izpack/izpack.github.io](https://github.com/izpack/izpack.github.io)
+4. 🎉 Merged PR [#29](https://github.com/izpack/izpack.github.io/pull/29) in [izpack/izpack.github.io](https://github.com/izpack/izpack.github.io)
+5. 💪 Opened PR [#29](https://github.com/izpack/izpack.github.io/pull/29) in [izpack/izpack.github.io](https://github.com/izpack/izpack.github.io)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
