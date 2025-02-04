@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29](https://github.com/izpack/izpack.github.io/pull/29#issuecomment-2627760088) in [izpack/izpack.github.io](https://github.com/izpack/izpack.github.io)
-2. 🗣 Commented on [#28](https://github.com/izpack/izpack.github.io/issues/28#issuecomment-2627757116) in [izpack/izpack.github.io](https://github.com/izpack/izpack.github.io)
-3. 🔒 Closed issue [#28](https://github.com/izpack/izpack.github.io/issues/28) in [izpack/izpack.github.io](https://github.com/izpack/izpack.github.io)
-4. 🎉 Merged PR [#29](https://github.com/izpack/izpack.github.io/pull/29) in [izpack/izpack.github.io](https://github.com/izpack/izpack.github.io)
-5. 💪 Opened PR [#29](https://github.com/izpack/izpack.github.io/pull/29) in [izpack/izpack.github.io](https://github.com/izpack/izpack.github.io)
+1. 🎉 Merged PR [#93](https://github.com/adoptium/jmc-build/pull/93) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
+2. 🗣 Commented on [#123](https://github.com/reinhapa/izpack/pull/123#issuecomment-2631043636) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+3. 🗣 Commented on [#123](https://github.com/reinhapa/izpack/pull/123#issuecomment-2631043279) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+4. 🗣 Commented on [#123](https://github.com/reinhapa/izpack/pull/123#issuecomment-2631041424) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+5. 🗣 Commented on [#1013](https://github.com/izpack/izpack/pull/1013#issuecomment-2631038795) in [izpack/izpack](https://github.com/izpack/izpack)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
