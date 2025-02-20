@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#546](https://github.com/reinhapa/rabbitmq-cdi/pull/546#issuecomment-2659729134) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
-2. 🗣 Commented on [#546](https://github.com/reinhapa/rabbitmq-cdi/pull/546#issuecomment-2659658338) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
-3. 🗣 Commented on [#547](https://github.com/reinhapa/rabbitmq-cdi/pull/547#issuecomment-2659648953) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
-4. 🗣 Commented on [#547](https://github.com/reinhapa/rabbitmq-cdi/pull/547#issuecomment-2659589095) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
-5. 💪 Opened PR [#3370](https://github.com/adoptium/adoptium.net/pull/3370) in [adoptium/adoptium.net](https://github.com/adoptium/adoptium.net)
+1. 🗣 Commented on [#39](https://github.com/picocontainer/PicoContainer2/issues/39#issuecomment-2669564453) in [picocontainer/PicoContainer2](https://github.com/picocontainer/PicoContainer2)
+2. 🗣 Commented on [#546](https://github.com/reinhapa/rabbitmq-cdi/pull/546#issuecomment-2659729134) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
+3. 🗣 Commented on [#546](https://github.com/reinhapa/rabbitmq-cdi/pull/546#issuecomment-2659658338) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
+4. 🗣 Commented on [#547](https://github.com/reinhapa/rabbitmq-cdi/pull/547#issuecomment-2659648953) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
+5. 🗣 Commented on [#547](https://github.com/reinhapa/rabbitmq-cdi/pull/547#issuecomment-2659589095) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
