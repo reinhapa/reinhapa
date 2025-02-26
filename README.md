@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#221](https://github.com/xmldb-org/xmldb-api/pull/221#issuecomment-2679317645) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
-2. 🗣 Commented on [#128](https://github.com/reinhapa/izpack/pull/128#issuecomment-2679301399) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
-3. 🗣 Commented on [#127](https://github.com/reinhapa/izpack/pull/127#issuecomment-2679300953) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
-4. 🗣 Commented on [#126](https://github.com/reinhapa/izpack/pull/126#issuecomment-2679299730) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
-5. 🗣 Commented on [#2067](https://github.com/TweetWallFX/TweetwallFX/pull/2067#issuecomment-2677834285) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+1. ❌ Closed PR [#144](https://github.com/xmldb-org/xmldb-api/pull/144) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
+2. 🗣 Commented on [#221](https://github.com/xmldb-org/xmldb-api/pull/221#issuecomment-2679317645) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
+3. 🗣 Commented on [#128](https://github.com/reinhapa/izpack/pull/128#issuecomment-2679301399) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+4. 🗣 Commented on [#127](https://github.com/reinhapa/izpack/pull/127#issuecomment-2679300953) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+5. 🗣 Commented on [#126](https://github.com/reinhapa/izpack/pull/126#issuecomment-2679299730) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
