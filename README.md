@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1017](https://github.com/izpack/izpack/pull/1017) in [izpack/izpack](https://github.com/izpack/izpack)
-2. 🗣 Commented on [#1019](https://github.com/izpack/izpack/pull/1019#issuecomment-2701056970) in [izpack/izpack](https://github.com/izpack/izpack)
-3. 🗣 Commented on [#177](https://github.com/dom4j/dom4j/issues/177#issuecomment-2700067429) in [dom4j/dom4j](https://github.com/dom4j/dom4j)
-4. 🗣 Commented on [#2078](https://github.com/TweetWallFX/TweetwallFX/pull/2078#issuecomment-2696639467) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-5. 🎉 Merged PR [#1018](https://github.com/izpack/izpack/pull/1018) in [izpack/izpack](https://github.com/izpack/izpack)
+1. 🎉 Merged PR [#30](https://github.com/izpack/izpack.github.io/pull/30) in [izpack/izpack.github.io](https://github.com/izpack/izpack.github.io)
+2. 💪 Opened PR [#30](https://github.com/izpack/izpack.github.io/pull/30) in [izpack/izpack.github.io](https://github.com/izpack/izpack.github.io)
+3. 🗣 Commented on [#39](https://github.com/picocontainer/PicoContainer2/issues/39#issuecomment-2703691866) in [picocontainer/PicoContainer2](https://github.com/picocontainer/PicoContainer2)
+4. 🗣 Commented on [#810](https://github.com/jolokia/jolokia/issues/810#issuecomment-2703079302) in [jolokia/jolokia](https://github.com/jolokia/jolokia)
+5. ❗ Opened issue [#810](https://github.com/jolokia/jolokia/issues/810) in [jolokia/jolokia](https://github.com/jolokia/jolokia)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
