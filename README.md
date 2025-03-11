@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1020](https://github.com/izpack/izpack/pull/1020) in [izpack/izpack](https://github.com/izpack/izpack)
-2. 🎉 Merged PR [#30](https://github.com/izpack/izpack.github.io/pull/30) in [izpack/izpack.github.io](https://github.com/izpack/izpack.github.io)
-3. 💪 Opened PR [#30](https://github.com/izpack/izpack.github.io/pull/30) in [izpack/izpack.github.io](https://github.com/izpack/izpack.github.io)
-4. 🗣 Commented on [#39](https://github.com/picocontainer/PicoContainer2/issues/39#issuecomment-2703691866) in [picocontainer/PicoContainer2](https://github.com/picocontainer/PicoContainer2)
-5. 🗣 Commented on [#810](https://github.com/jolokia/jolokia/issues/810#issuecomment-2703079302) in [jolokia/jolokia](https://github.com/jolokia/jolokia)
+1. 🗣 Commented on [#5658](https://github.com/eXist-db/exist/pull/5658#issuecomment-2711665349) in [eXist-db/exist](https://github.com/eXist-db/exist)
+2. 🗣 Commented on [#5654](https://github.com/eXist-db/exist/pull/5654#issuecomment-2711641858) in [eXist-db/exist](https://github.com/eXist-db/exist)
+3. ❌ Closed PR [#1041](https://github.com/izpack/izpack/pull/1041) in [izpack/izpack](https://github.com/izpack/izpack)
+4. ❌ Closed PR [#1040](https://github.com/izpack/izpack/pull/1040) in [izpack/izpack](https://github.com/izpack/izpack)
+5. ❌ Closed PR [#1039](https://github.com/izpack/izpack/pull/1039) in [izpack/izpack](https://github.com/izpack/izpack)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
