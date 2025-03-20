@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5678](https://github.com/eXist-db/exist/pull/5678#issuecomment-2733595163) in [eXist-db/exist](https://github.com/eXist-db/exist)
-2. 💪 Opened PR [#5678](https://github.com/eXist-db/exist/pull/5678) in [eXist-db/exist](https://github.com/eXist-db/exist)
-3. 🗣 Commented on [#5661](https://github.com/eXist-db/exist/issues/5661#issuecomment-2732895229) in [eXist-db/exist](https://github.com/eXist-db/exist)
-4. 🗣 Commented on [#156](https://github.com/reinhapa/tcow/pull/156#issuecomment-2731651701) in [reinhapa/tcow](https://github.com/reinhapa/tcow)
-5. 🗣 Commented on [#130](https://github.com/reinhapa/izpack/pull/130#issuecomment-2729911981) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+1. 🔒 Closed issue [#5661](https://github.com/eXist-db/exist/issues/5661) in [eXist-db/exist](https://github.com/eXist-db/exist)
+2. 🗣 Commented on [#5678](https://github.com/eXist-db/exist/pull/5678#issuecomment-2733595163) in [eXist-db/exist](https://github.com/eXist-db/exist)
+3. 💪 Opened PR [#5678](https://github.com/eXist-db/exist/pull/5678) in [eXist-db/exist](https://github.com/eXist-db/exist)
+4. 🗣 Commented on [#5661](https://github.com/eXist-db/exist/issues/5661#issuecomment-2732895229) in [eXist-db/exist](https://github.com/eXist-db/exist)
+5. 🗣 Commented on [#156](https://github.com/reinhapa/tcow/pull/156#issuecomment-2731651701) in [reinhapa/tcow](https://github.com/reinhapa/tcow)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
