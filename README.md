@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#5661](https://github.com/eXist-db/exist/issues/5661) in [eXist-db/exist](https://github.com/eXist-db/exist)
-2. 🗣 Commented on [#5678](https://github.com/eXist-db/exist/pull/5678#issuecomment-2733595163) in [eXist-db/exist](https://github.com/eXist-db/exist)
-3. 💪 Opened PR [#5678](https://github.com/eXist-db/exist/pull/5678) in [eXist-db/exist](https://github.com/eXist-db/exist)
-4. 🗣 Commented on [#5661](https://github.com/eXist-db/exist/issues/5661#issuecomment-2732895229) in [eXist-db/exist](https://github.com/eXist-db/exist)
-5. 🗣 Commented on [#156](https://github.com/reinhapa/tcow/pull/156#issuecomment-2731651701) in [reinhapa/tcow](https://github.com/reinhapa/tcow)
+1. 🚀 Published release [izpack-5.2.4](https://github.com/izpack/izpack/releases/tag/izpack-5.2.4) in [izpack/izpack](https://github.com/izpack/izpack)
+2. 🗣 Commented on [#2088](https://github.com/TweetWallFX/TweetwallFX/pull/2088#issuecomment-2740001883) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+3. 🗣 Commented on [#2089](https://github.com/TweetWallFX/TweetwallFX/pull/2089#issuecomment-2739863374) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+4. 🔒 Closed issue [#5661](https://github.com/eXist-db/exist/issues/5661) in [eXist-db/exist](https://github.com/eXist-db/exist)
+5. 🗣 Commented on [#5678](https://github.com/eXist-db/exist/pull/5678#issuecomment-2733595163) in [eXist-db/exist](https://github.com/eXist-db/exist)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
