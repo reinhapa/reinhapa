@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#406](https://github.com/pcorless/icepdf/issues/406#issuecomment-2800007116) in [pcorless/icepdf](https://github.com/pcorless/icepdf)
-2. 🗣 Commented on [#2101](https://github.com/TweetWallFX/TweetwallFX/pull/2101#issuecomment-2789285273) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-3. 🗣 Commented on [#5698](https://github.com/eXist-db/exist/pull/5698#issuecomment-2788247813) in [eXist-db/exist](https://github.com/eXist-db/exist)
-4. 🗣 Commented on [#2099](https://github.com/TweetWallFX/TweetwallFX/pull/2099#issuecomment-2786216828) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-5. 🗣 Commented on [#138](https://github.com/reinhapa/izpack/pull/138#issuecomment-2784229836) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+1. 🗣 Commented on [#5700](https://github.com/eXist-db/exist/issues/5700#issuecomment-2801571724) in [eXist-db/exist](https://github.com/eXist-db/exist)
+2. 🎉 Merged PR [#227](https://github.com/xmldb-org/xmldb-api/pull/227) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
+3. 🗣 Commented on [#406](https://github.com/pcorless/icepdf/issues/406#issuecomment-2800494187) in [pcorless/icepdf](https://github.com/pcorless/icepdf)
+4. 🗣 Commented on [#406](https://github.com/pcorless/icepdf/issues/406#issuecomment-2800007116) in [pcorless/icepdf](https://github.com/pcorless/icepdf)
+5. 🗣 Commented on [#2101](https://github.com/TweetWallFX/TweetwallFX/pull/2101#issuecomment-2789285273) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
