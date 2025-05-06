@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1051](https://github.com/izpack/izpack/pull/1051) in [izpack/izpack](https://github.com/izpack/izpack)
-2. 🗣 Commented on [#1051](https://github.com/izpack/izpack/pull/1051#issuecomment-2813632684) in [izpack/izpack](https://github.com/izpack/izpack)
-3. 🗣 Commented on [#1051](https://github.com/izpack/izpack/pull/1051#issuecomment-2813536454) in [izpack/izpack](https://github.com/izpack/izpack)
-4. 🗣 Commented on [#141](https://github.com/reinhapa/izpack/pull/141#issuecomment-2808334937) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
-5. 🗣 Commented on [#568](https://github.com/reinhapa/rabbitmq-cdi/pull/568#issuecomment-2807413340) in [reinhapa/rabbitmq-cdi](https://github.com/reinhapa/rabbitmq-cdi)
+1. 🗣 Commented on [#36](https://github.com/eXist-db/exist-apps-archetype/pull/36#issuecomment-2850093969) in [eXist-db/exist-apps-archetype](https://github.com/eXist-db/exist-apps-archetype)
+2. 🎉 Merged PR [#1051](https://github.com/izpack/izpack/pull/1051) in [izpack/izpack](https://github.com/izpack/izpack)
+3. 🗣 Commented on [#1051](https://github.com/izpack/izpack/pull/1051#issuecomment-2813632684) in [izpack/izpack](https://github.com/izpack/izpack)
+4. 🗣 Commented on [#1051](https://github.com/izpack/izpack/pull/1051#issuecomment-2813536454) in [izpack/izpack](https://github.com/izpack/izpack)
+5. 🗣 Commented on [#141](https://github.com/reinhapa/izpack/pull/141#issuecomment-2808334937) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
