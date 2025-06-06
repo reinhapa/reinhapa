@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#111](https://github.com/Mastodon4J/mastodon4j/issues/111#issuecomment-2936641566) in [Mastodon4J/mastodon4j](https://github.com/Mastodon4J/mastodon4j)
-2. 🗣 Commented on [#148](https://github.com/reinhapa/izpack/pull/148#issuecomment-2931302020) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
-3. 🗣 Commented on [#149](https://github.com/reinhapa/izpack/pull/149#issuecomment-2931301292) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
-4. 🗣 Commented on [#150](https://github.com/reinhapa/izpack/pull/150#issuecomment-2931300723) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
-5. 🗣 Commented on [#1061](https://github.com/izpack/izpack/pull/1061#issuecomment-2931222360) in [izpack/izpack](https://github.com/izpack/izpack)
+1. 🗣 Commented on [#151](https://github.com/reinhapa/izpack/pull/151#issuecomment-2940685805) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+2. ❌ Closed PR [#5760](https://github.com/eXist-db/exist/pull/5760) in [eXist-db/exist](https://github.com/eXist-db/exist)
+3. ❌ Closed PR [#5759](https://github.com/eXist-db/exist/pull/5759) in [eXist-db/exist](https://github.com/eXist-db/exist)
+4. 💪 Opened PR [#5761](https://github.com/eXist-db/exist/pull/5761) in [eXist-db/exist](https://github.com/eXist-db/exist)
+5. 🗣 Commented on [#111](https://github.com/Mastodon4J/mastodon4j/issues/111#issuecomment-2936641566) in [Mastodon4J/mastodon4j](https://github.com/Mastodon4J/mastodon4j)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
