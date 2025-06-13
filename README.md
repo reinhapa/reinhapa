@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#154](https://github.com/reinhapa/izpack/pull/154#issuecomment-2957935510) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
-2. 🗣 Commented on [#2136](https://github.com/TweetWallFX/TweetwallFX/pull/2136#issuecomment-2957774117) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-3. 🗣 Commented on [#2137](https://github.com/TweetWallFX/TweetwallFX/pull/2137#issuecomment-2957762550) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-4. 🗣 Commented on [#152](https://github.com/reinhapa/izpack/pull/152#issuecomment-2948328850) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
-5. 🗣 Commented on [#151](https://github.com/reinhapa/izpack/pull/151#issuecomment-2940685805) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+1. ❗ Opened issue [#39506](https://github.com/home-assistant/home-assistant.io/issues/39506) in [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io)
+2. 🗣 Commented on [#154](https://github.com/reinhapa/izpack/pull/154#issuecomment-2957935510) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+3. 🗣 Commented on [#2136](https://github.com/TweetWallFX/TweetwallFX/pull/2136#issuecomment-2957774117) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+4. 🗣 Commented on [#2137](https://github.com/TweetWallFX/TweetwallFX/pull/2137#issuecomment-2957762550) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+5. 🗣 Commented on [#152](https://github.com/reinhapa/izpack/pull/152#issuecomment-2948328850) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
