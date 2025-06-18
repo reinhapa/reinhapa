@@ -47,11 +47,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1057](https://github.com/izpack/izpack/pull/1057#issuecomment-2977949918) in [izpack/izpack](https://github.com/izpack/izpack)
-2. 💪 Opened PR [#1068](https://github.com/izpack/izpack/pull/1068) in [izpack/izpack](https://github.com/izpack/izpack)
-3. 🗣 Commented on [#5724](https://github.com/eXist-db/exist/pull/5724#issuecomment-2977818221) in [eXist-db/exist](https://github.com/eXist-db/exist)
-4. ❗ Opened issue [#39506](https://github.com/home-assistant/home-assistant.io/issues/39506) in [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io)
-5. 🗣 Commented on [#154](https://github.com/reinhapa/izpack/pull/154#issuecomment-2957935510) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+1. 🗣 Commented on [#837](https://github.com/izpack/izpack/pull/837#issuecomment-2981409863) in [izpack/izpack](https://github.com/izpack/izpack)
+2. 🗣 Commented on [#86](https://github.com/eXist-db/expath-crypto-module/pull/86#issuecomment-2981399270) in [eXist-db/expath-crypto-module](https://github.com/eXist-db/expath-crypto-module)
+3. 🗣 Commented on [#1057](https://github.com/izpack/izpack/pull/1057#issuecomment-2980188640) in [izpack/izpack](https://github.com/izpack/izpack)
+4. 💪 Opened PR [#86](https://github.com/eXist-db/expath-crypto-module/pull/86) in [eXist-db/expath-crypto-module](https://github.com/eXist-db/expath-crypto-module)
+5. 🎉 Merged PR [#1068](https://github.com/izpack/izpack/pull/1068) in [izpack/izpack](https://github.com/izpack/izpack)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
