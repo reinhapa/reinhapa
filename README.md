@@ -26,8 +26,9 @@
 
 ### Become a sponsor:
 
-[<img align="left" alt="GitHub Sponsor" title="GitHub Sponsor" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/sponsors/reinhapa)
-[<img align="left" alt="Patreon" title="Patreon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/patreon.svg" />](https://www.patreon.com/reinhapa)
+[<img align="left" alt="GitHub Sponsor" title="GitHub Sponsor" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/github.svg" />](https://github.com/sponsors/reinhapa)
+[<img align="left" alt="Patreon" title="Patreon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/patreon.svg" />](https://www.patreon.com/reinhapa)
+[<img align="left" alt="Liberapay" title="Patreon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/liberapay.svg" />](https://liberapay.com/reinhapa)
 
 <br>
 
