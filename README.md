@@ -1,6 +1,7 @@
+[bluesky]: https://bsky.app/profile/reini.dev
 [facebook]: https://facebook.com/reinhapa
 [github]: https://github.com/reinhapa/
-[linkedin]: https://inkedin.com/in/preinhart/
+[linkedin]: https://linkedin.com/in/preinhart/
 [mastodon]: https://mastodon.social/@reinhapa
 [twitter]: https://twitter.com/reinhapa
 [website]: https://reini.net/
@@ -8,7 +9,7 @@
 
 ### Hi there, I'm Patrick - aka Reini 👋
 
-- 📫 How to reach me: [@reinhapa:mastodon.social](https://mastodon.social/@reinhapa)
+- 📫 How to reach me: [@reinhapa:mastodon.social][mastodon]
 - 🤔 I’m looking for help with [izPack](https://github.com/izpack/izpack)
 
 <!--
@@ -28,20 +29,21 @@
 [<img align="left" alt="GitHub Sponsor" title="GitHub Sponsor" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/sponsors/reinhapa)
 [<img align="left" alt="Patreon" title="Patreon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/patreon.svg" />](https://www.patreon.com/reinhapa)
 
-<br clear="all"/>
+<br>
 
 ### Connect with me:
 
-[<img align="left" alt="my Twitter account" title="my Twitter account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="my Mastodon account" title="my Mastodon account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mastodon.svg" />][mastodon]
-[<img align="left" alt="my LinkedIn profile" title="my LinkedIn profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="my GitHub profile" title="my GitHub profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="my Facebook profile" title="my Facebook profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="my Mastodon account" title="my Mastodon account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/mastodon.svg" />][mastodon]
+[<img align="left" alt="my Bluesky account" title="my Bluesky account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/bluesky.svg" />][bluesky]
+[<img align="left" alt="my Twitter account" title="my Twitter account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/twitter.svg" />][twitter]
+[<img align="left" alt="my LinkedIn profile" title="my LinkedIn profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="my GitHub profile" title="my GitHub profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/github.svg" />][github]
+[<img align="left" alt="my Facebook profile" title="my Facebook profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/facebook.svg" />][facebook]
 
 <!--
-[<img align="left" alt="my Youtube videos" title="my Youtube videos" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="my Youtube videos" title="my Youtube videos" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/youtube.svg" />][youtube]
 -->
-<br clear="all"/>
+<br>
 
 
 ### :zap: GitHub Recent Activity
