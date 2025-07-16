@@ -50,11 +50,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4154](https://github.com/home-assistant/operating-system/issues/4154#issuecomment-3067202109) in [home-assistant/operating-system](https://github.com/home-assistant/operating-system)
-2. 🗣 Commented on [#454](https://github.com/reinhapa/Sandbox/pull/454#issuecomment-3045336073) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
-3. 🗣 Commented on [#453](https://github.com/reinhapa/Sandbox/pull/453#issuecomment-3045205689) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
-4. 🗣 Commented on [#2151](https://github.com/TweetWallFX/TweetwallFX/pull/2151#issuecomment-3044619403) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-5. 🎉 Merged PR [#2150](https://github.com/TweetWallFX/TweetwallFX/pull/2150) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+1. 🗣 Commented on [#103](https://github.com/adoptium/jmc-build/issues/103#issuecomment-3075518148) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
+2. 🔒 Closed issue [#103](https://github.com/adoptium/jmc-build/issues/103) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
+3. 🎉 Merged PR [#93](https://github.com/eXist-db/exist-apps-parent/pull/93) in [eXist-db/exist-apps-parent](https://github.com/eXist-db/exist-apps-parent)
+4. 🗣 Commented on [#4154](https://github.com/home-assistant/operating-system/issues/4154#issuecomment-3067202109) in [home-assistant/operating-system](https://github.com/home-assistant/operating-system)
+5. 🗣 Commented on [#454](https://github.com/reinhapa/Sandbox/pull/454#issuecomment-3045336073) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
