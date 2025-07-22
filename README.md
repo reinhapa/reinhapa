@@ -50,11 +50,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#27](https://github.com/AdoptOpenJDK/jsplitpkgscan-maven-plugin/pull/27) in [AdoptOpenJDK/jsplitpkgscan-maven-plugin](https://github.com/AdoptOpenJDK/jsplitpkgscan-maven-plugin)
-2. 🗣 Commented on [#94](https://github.com/eXist-db/exist-apps-parent/pull/94#issuecomment-3080496089) in [eXist-db/exist-apps-parent](https://github.com/eXist-db/exist-apps-parent)
-3. 🗣 Commented on [#103](https://github.com/adoptium/jmc-build/issues/103#issuecomment-3075518148) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
-4. 🔒 Closed issue [#103](https://github.com/adoptium/jmc-build/issues/103) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
-5. 🎉 Merged PR [#93](https://github.com/eXist-db/exist-apps-parent/pull/93) in [eXist-db/exist-apps-parent](https://github.com/eXist-db/exist-apps-parent)
+1. 🗣 Commented on [#1080](https://github.com/izpack/izpack/pull/1080#issuecomment-3098077405) in [izpack/izpack](https://github.com/izpack/izpack)
+2. 💪 Opened PR [#1080](https://github.com/izpack/izpack/pull/1080) in [izpack/izpack](https://github.com/izpack/izpack)
+3. 💪 Opened PR [#27](https://github.com/AdoptOpenJDK/jsplitpkgscan-maven-plugin/pull/27) in [AdoptOpenJDK/jsplitpkgscan-maven-plugin](https://github.com/AdoptOpenJDK/jsplitpkgscan-maven-plugin)
+4. 🗣 Commented on [#94](https://github.com/eXist-db/exist-apps-parent/pull/94#issuecomment-3080496089) in [eXist-db/exist-apps-parent](https://github.com/eXist-db/exist-apps-parent)
+5. 🗣 Commented on [#103](https://github.com/adoptium/jmc-build/issues/103#issuecomment-3075518148) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
