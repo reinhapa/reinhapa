@@ -50,11 +50,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#167](https://github.com/reinhapa/izpack/pull/167#issuecomment-3172536803) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
-2. 🗣 Commented on [#166](https://github.com/reinhapa/izpack/pull/166#issuecomment-3163718169) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
-3. 🎉 Merged PR [#231](https://github.com/xmldb-org/xmldb-api/pull/231) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
-4. 🗣 Commented on [#1057](https://github.com/izpack/izpack/pull/1057#issuecomment-3135220812) in [izpack/izpack](https://github.com/izpack/izpack)
-5. 🗣 Commented on [#1057](https://github.com/izpack/izpack/pull/1057#issuecomment-3135105543) in [izpack/izpack](https://github.com/izpack/izpack)
+1. 🗣 Commented on [#168](https://github.com/reinhapa/izpack/pull/168#issuecomment-3194391910) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+2. 🗣 Commented on [#168](https://github.com/reinhapa/izpack/pull/168#issuecomment-3194390914) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+3. 🗣 Commented on [#167](https://github.com/reinhapa/izpack/pull/167#issuecomment-3172536803) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+4. 🗣 Commented on [#166](https://github.com/reinhapa/izpack/pull/166#issuecomment-3163718169) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+5. 🎉 Merged PR [#231](https://github.com/xmldb-org/xmldb-api/pull/231) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
