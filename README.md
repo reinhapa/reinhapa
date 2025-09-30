@@ -50,11 +50,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21845](https://github.com/OpenAPITools/openapi-generator/issues/21845#issuecomment-3340210820) in [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)
-2. 🗣 Commented on [#174](https://github.com/reinhapa/izpack/pull/174#issuecomment-3334938428) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
-3. 🗣 Commented on [#181](https://github.com/reinhapa/izpack/pull/181#issuecomment-3334932485) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
-4. 🗣 Commented on [#5887](https://github.com/eXist-db/exist/issues/5887#issuecomment-3334904024) in [eXist-db/exist](https://github.com/eXist-db/exist)
-5. 🗣 Commented on [#175](https://github.com/reinhapa/izpack/pull/175#issuecomment-3332116802) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+1. 🎉 Merged PR [#1101](https://github.com/izpack/izpack/pull/1101) in [izpack/izpack](https://github.com/izpack/izpack)
+2. 💪 Opened PR [#1101](https://github.com/izpack/izpack/pull/1101) in [izpack/izpack](https://github.com/izpack/izpack)
+3. 🎉 Merged PR [#240](https://github.com/xmldb-org/xmldb-api/pull/240) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
+4. 🗣 Commented on [#21845](https://github.com/OpenAPITools/openapi-generator/issues/21845#issuecomment-3340210820) in [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)
+5. 🗣 Commented on [#174](https://github.com/reinhapa/izpack/pull/174#issuecomment-3334938428) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
