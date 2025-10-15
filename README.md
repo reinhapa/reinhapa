@@ -50,11 +50,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#481](https://github.com/reinhapa/Sandbox/pull/481#issuecomment-3348721923) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
-2. 🗣 Commented on [#482](https://github.com/reinhapa/Sandbox/pull/482#issuecomment-3348702052) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
-3. 🗣 Commented on [#483](https://github.com/reinhapa/Sandbox/pull/483#issuecomment-3348681769) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
-4. 🎉 Merged PR [#1101](https://github.com/izpack/izpack/pull/1101) in [izpack/izpack](https://github.com/izpack/izpack)
-5. 💪 Opened PR [#1101](https://github.com/izpack/izpack/pull/1101) in [izpack/izpack](https://github.com/izpack/izpack)
+1. 🗣 Commented on [#187](https://github.com/reinhapa/izpack/pull/187#issuecomment-3402260394) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+2. 🗣 Commented on [#1104](https://github.com/izpack/izpack/pull/1104#issuecomment-3400548082) in [izpack/izpack](https://github.com/izpack/izpack)
+3. 🗣 Commented on [#1105](https://github.com/izpack/izpack/pull/1105#issuecomment-3400518995) in [izpack/izpack](https://github.com/izpack/izpack)
+4. 🗣 Commented on [#1106](https://github.com/izpack/izpack/pull/1106#issuecomment-3400487498) in [izpack/izpack](https://github.com/izpack/izpack)
+5. 🗣 Commented on [#481](https://github.com/reinhapa/Sandbox/pull/481#issuecomment-3348721923) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
