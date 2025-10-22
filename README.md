@@ -50,11 +50,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2242](https://github.com/TweetWallFX/TweetwallFX/pull/2242#issuecomment-3421281886) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-2. ❌ Closed PR [#444](undefined) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
-3. 🗣 Commented on [#182](https://github.com/reinhapa/izpack/pull/182#issuecomment-3415648633) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
-4. 🗣 Commented on [#183](https://github.com/reinhapa/izpack/pull/183#issuecomment-3415648038) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
-5. 🗣 Commented on [#184](https://github.com/reinhapa/izpack/pull/184#issuecomment-3415647146) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
+1. 🗣 Commented on [#104](https://github.com/adoptium/jmc-build/issues/104#issuecomment-3425113416) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
+2.  Assigned issue [#104](https://github.com/adoptium/jmc-build/issues/104) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
+3. 🗣 Commented on [#2242](https://github.com/TweetWallFX/TweetwallFX/pull/2242#issuecomment-3421281886) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+4. ❌ Closed PR [#444](undefined) in [reinhapa/Sandbox](https://github.com/reinhapa/Sandbox)
+5. 🗣 Commented on [#182](https://github.com/reinhapa/izpack/pull/182#issuecomment-3415648633) in [reinhapa/izpack](https://github.com/reinhapa/izpack)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
