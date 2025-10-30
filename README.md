@@ -50,11 +50,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#71](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2025-BE/pull/71#issuecomment-3453123382) in [TweetWallFX/TweetwallFX-Devoxx-2025-BE](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2025-BE)
-2. 🗣 Commented on [#2248](https://github.com/TweetWallFX/TweetwallFX/pull/2248#issuecomment-3453071188) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-3. 🗣 Commented on [#104](https://github.com/adoptium/jmc-build/issues/104#issuecomment-3425113416) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
-4.  Assigned issue [#104](https://github.com/adoptium/jmc-build/issues/104) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
-5. 🗣 Commented on [#2242](https://github.com/TweetWallFX/TweetwallFX/pull/2242#issuecomment-3421281886) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+1. 🔒 Closed issue [#15](https://github.com/bmuschko/gradle-izpack-plugin/issues/15) in [bmuschko/gradle-izpack-plugin](https://github.com/bmuschko/gradle-izpack-plugin)
+2. 🔒 Closed issue [#12](https://github.com/bmuschko/gradle-izpack-plugin/issues/12) in [bmuschko/gradle-izpack-plugin](https://github.com/bmuschko/gradle-izpack-plugin)
+3. 🗣 Commented on [#71](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2025-BE/pull/71#issuecomment-3453123382) in [TweetWallFX/TweetwallFX-Devoxx-2025-BE](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2025-BE)
+4. 🗣 Commented on [#2248](https://github.com/TweetWallFX/TweetwallFX/pull/2248#issuecomment-3453071188) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+5. 🗣 Commented on [#104](https://github.com/adoptium/jmc-build/issues/104#issuecomment-3425113416) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
