@@ -50,11 +50,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#446](undefined) in [reinhapa/eventeditor](https://github.com/reinhapa/eventeditor)
-2. ❌ Closed PR [#445](undefined) in [reinhapa/eventeditor](https://github.com/reinhapa/eventeditor)
-3. 🔒 Closed issue [#15](https://github.com/bmuschko/gradle-izpack-plugin/issues/15) in [bmuschko/gradle-izpack-plugin](https://github.com/bmuschko/gradle-izpack-plugin)
-4. 🔒 Closed issue [#12](https://github.com/bmuschko/gradle-izpack-plugin/issues/12) in [bmuschko/gradle-izpack-plugin](https://github.com/bmuschko/gradle-izpack-plugin)
-5. 🗣 Commented on [#71](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2025-BE/pull/71#issuecomment-3453123382) in [TweetWallFX/TweetwallFX-Devoxx-2025-BE](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2025-BE)
+1. 🗣 Commented on [#21845](https://github.com/OpenAPITools/openapi-generator/issues/21845#issuecomment-3479578920) in [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)
+2. ❌ Closed PR [#446](undefined) in [reinhapa/eventeditor](https://github.com/reinhapa/eventeditor)
+3. ❌ Closed PR [#445](undefined) in [reinhapa/eventeditor](https://github.com/reinhapa/eventeditor)
+4. 🔒 Closed issue [#15](https://github.com/bmuschko/gradle-izpack-plugin/issues/15) in [bmuschko/gradle-izpack-plugin](https://github.com/bmuschko/gradle-izpack-plugin)
+5. 🔒 Closed issue [#12](https://github.com/bmuschko/gradle-izpack-plugin/issues/12) in [bmuschko/gradle-izpack-plugin](https://github.com/bmuschko/gradle-izpack-plugin)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
