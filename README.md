@@ -50,10 +50,10 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5934](undefined) in [eXist-db/exist](https://github.com/eXist-db/exist)
-2. 🗣 Commented on [#21845](https://github.com/OpenAPITools/openapi-generator/issues/21845#issuecomment-3479578920) in [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)
-3. ❌ Closed PR [#445](undefined) in [reinhapa/eventeditor](https://github.com/reinhapa/eventeditor)
-4. 🔒 Closed issue [#15](https://github.com/bmuschko/gradle-izpack-plugin/issues/15) in [bmuschko/gradle-izpack-plugin](https://github.com/bmuschko/gradle-izpack-plugin)
+1. 🔒 Closed issue [#106](https://github.com/adoptium/jmc-build/issues/106) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
+2. 🗣 Commented on [#5935](https://github.com/eXist-db/exist/pull/5935#issuecomment-3516883767) in [eXist-db/exist](https://github.com/eXist-db/exist)
+3. 💪 Opened PR [#5934](undefined) in [eXist-db/exist](https://github.com/eXist-db/exist)
+4. 🗣 Commented on [#21845](https://github.com/OpenAPITools/openapi-generator/issues/21845#issuecomment-3479578920) in [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)
 5. 🔒 Closed issue [#12](https://github.com/bmuschko/gradle-izpack-plugin/issues/12) in [bmuschko/gradle-izpack-plugin](https://github.com/bmuschko/gradle-izpack-plugin)
 <!--END_SECTION:activity-->
 
