@@ -50,11 +50,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#106](https://github.com/adoptium/jmc-build/issues/106) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
-2. 🗣 Commented on [#5935](https://github.com/eXist-db/exist/pull/5935#issuecomment-3516883767) in [eXist-db/exist](https://github.com/eXist-db/exist)
-3. 💪 Opened PR [#5934](undefined) in [eXist-db/exist](https://github.com/eXist-db/exist)
-4. 🗣 Commented on [#21845](https://github.com/OpenAPITools/openapi-generator/issues/21845#issuecomment-3479578920) in [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)
-5. 🔒 Closed issue [#12](https://github.com/bmuschko/gradle-izpack-plugin/issues/12) in [bmuschko/gradle-izpack-plugin](https://github.com/bmuschko/gradle-izpack-plugin)
+1. 🗣 Commented on [#5936](https://github.com/eXist-db/exist/pull/5936#issuecomment-3523010867) in [eXist-db/exist](https://github.com/eXist-db/exist)
+2. 🗣 Commented on [#5937](https://github.com/eXist-db/exist/pull/5937#issuecomment-3523009484) in [eXist-db/exist](https://github.com/eXist-db/exist)
+3. 🗣 Commented on [#5938](https://github.com/eXist-db/exist/pull/5938#issuecomment-3523007859) in [eXist-db/exist](https://github.com/eXist-db/exist)
+4. 🔒 Closed issue [#106](https://github.com/adoptium/jmc-build/issues/106) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
+5. 🗣 Commented on [#5935](https://github.com/eXist-db/exist/pull/5935#issuecomment-3516883767) in [eXist-db/exist](https://github.com/eXist-db/exist)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
