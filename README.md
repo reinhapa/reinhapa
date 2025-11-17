@@ -50,11 +50,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5936](https://github.com/eXist-db/exist/pull/5936#issuecomment-3523010867) in [eXist-db/exist](https://github.com/eXist-db/exist)
-2. 🗣 Commented on [#5937](https://github.com/eXist-db/exist/pull/5937#issuecomment-3523009484) in [eXist-db/exist](https://github.com/eXist-db/exist)
-3. 🗣 Commented on [#5938](https://github.com/eXist-db/exist/pull/5938#issuecomment-3523007859) in [eXist-db/exist](https://github.com/eXist-db/exist)
-4. 🔒 Closed issue [#106](https://github.com/adoptium/jmc-build/issues/106) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
-5. 🗣 Commented on [#5935](https://github.com/eXist-db/exist/pull/5935#issuecomment-3516883767) in [eXist-db/exist](https://github.com/eXist-db/exist)
+1. 🗣 Commented on [#5932](https://github.com/eXist-db/exist/pull/5932#issuecomment-3538478496) in [eXist-db/exist](https://github.com/eXist-db/exist)
+2. 🗣 Commented on [#5936](https://github.com/eXist-db/exist/pull/5936#issuecomment-3523010867) in [eXist-db/exist](https://github.com/eXist-db/exist)
+3. 🗣 Commented on [#5937](https://github.com/eXist-db/exist/pull/5937#issuecomment-3523009484) in [eXist-db/exist](https://github.com/eXist-db/exist)
+4. 🗣 Commented on [#5938](https://github.com/eXist-db/exist/pull/5938#issuecomment-3523007859) in [eXist-db/exist](https://github.com/eXist-db/exist)
+5. 🔒 Closed issue [#106](https://github.com/adoptium/jmc-build/issues/106) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
