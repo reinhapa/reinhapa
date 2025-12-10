@@ -50,10 +50,10 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2272](https://github.com/TweetWallFX/TweetwallFX/pull/2272#issuecomment-3603647545) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-2. 🗣 Commented on [#5936](https://github.com/eXist-db/exist/pull/5936#issuecomment-3523010867) in [eXist-db/exist](https://github.com/eXist-db/exist)
-3. 🗣 Commented on [#5937](https://github.com/eXist-db/exist/pull/5937#issuecomment-3523009484) in [eXist-db/exist](https://github.com/eXist-db/exist)
-4. 🗣 Commented on [#5938](https://github.com/eXist-db/exist/pull/5938#issuecomment-3523007859) in [eXist-db/exist](https://github.com/eXist-db/exist)
+1. 🗣 Commented on [#5968](https://github.com/eXist-db/exist/pull/5968#issuecomment-3630540119) in [eXist-db/exist](https://github.com/eXist-db/exist)
+2. ❌ Labeled PR [#5968](undefined) in [eXist-db/exist](https://github.com/eXist-db/exist)
+3. ❌ Assigned PR [#5968](undefined) in [eXist-db/exist](https://github.com/eXist-db/exist)
+4. 🗣 Commented on [#2272](https://github.com/TweetWallFX/TweetwallFX/pull/2272#issuecomment-3603647545) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
 5. 🔒 Closed issue [#106](https://github.com/adoptium/jmc-build/issues/106) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
 <!--END_SECTION:activity-->
 
