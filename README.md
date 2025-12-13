@@ -50,11 +50,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5968](https://github.com/eXist-db/exist/pull/5968#issuecomment-3630540119) in [eXist-db/exist](https://github.com/eXist-db/exist)
-2. ❌ Labeled PR [#5968](undefined) in [eXist-db/exist](https://github.com/eXist-db/exist)
-3. ❌ Assigned PR [#5968](undefined) in [eXist-db/exist](https://github.com/eXist-db/exist)
-4. 🗣 Commented on [#2272](https://github.com/TweetWallFX/TweetwallFX/pull/2272#issuecomment-3603647545) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-5. 🔒 Closed issue [#106](https://github.com/adoptium/jmc-build/issues/106) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
+1. 💪 Opened PR [#146](undefined) in [xmldb-org/xmldb-grpc-server-mock](https://github.com/xmldb-org/xmldb-grpc-server-mock)
+2. ❌ Unlabeled PR [#5968](undefined) in [eXist-db/exist](https://github.com/eXist-db/exist)
+3. 🗣 Commented on [#5968](https://github.com/eXist-db/exist/pull/5968#issuecomment-3630540119) in [eXist-db/exist](https://github.com/eXist-db/exist)
+4. ❌ Labeled PR [#5968](undefined) in [eXist-db/exist](https://github.com/eXist-db/exist)
+5. ❌ Assigned PR [#5968](undefined) in [eXist-db/exist](https://github.com/eXist-db/exist)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
