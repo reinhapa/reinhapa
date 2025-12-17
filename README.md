@@ -50,11 +50,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#146](undefined) in [xmldb-org/xmldb-grpc-server-mock](https://github.com/xmldb-org/xmldb-grpc-server-mock)
-2. ❌ Unlabeled PR [#5968](undefined) in [eXist-db/exist](https://github.com/eXist-db/exist)
-3. 🗣 Commented on [#5968](https://github.com/eXist-db/exist/pull/5968#issuecomment-3630540119) in [eXist-db/exist](https://github.com/eXist-db/exist)
-4. ❌ Labeled PR [#5968](undefined) in [eXist-db/exist](https://github.com/eXist-db/exist)
-5. ❌ Assigned PR [#5968](undefined) in [eXist-db/exist](https://github.com/eXist-db/exist)
+1. 🗣 Commented on [#5967](https://github.com/eXist-db/exist/pull/5967#issuecomment-3662050102) in [eXist-db/exist](https://github.com/eXist-db/exist)
+2. 💪 Opened PR [#146](undefined) in [xmldb-org/xmldb-grpc-server-mock](https://github.com/xmldb-org/xmldb-grpc-server-mock)
+3. ❌ Unlabeled PR [#5968](undefined) in [eXist-db/exist](https://github.com/eXist-db/exist)
+4. 🗣 Commented on [#5968](https://github.com/eXist-db/exist/pull/5968#issuecomment-3630540119) in [eXist-db/exist](https://github.com/eXist-db/exist)
+5. ❌ Labeled PR [#5968](undefined) in [eXist-db/exist](https://github.com/eXist-db/exist)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
