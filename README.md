@@ -54,7 +54,7 @@
 2. 🗣 Commented on [#98](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2025-BE/pull/98#issuecomment-3666912253) in [TweetWallFX/TweetwallFX-Devoxx-2025-BE](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2025-BE)
 3. 🗣 Commented on [#2280](https://github.com/TweetWallFX/TweetwallFX/pull/2280#issuecomment-3666911284) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
 4. 🗣 Commented on [#2282](https://github.com/TweetWallFX/TweetwallFX/pull/2282#issuecomment-3666909827) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-5. ❌ Assigned PR [#5977](undefined) in [eXist-db/exist](https://github.com/eXist-db/exist)
+5. ℹ️ Assigned PR [#5977](https://github.com/eXist-db/exist/pull/5977) in [eXist-db/exist](https://github.com/eXist-db/exist)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
