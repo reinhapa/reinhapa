@@ -50,11 +50,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6007](https://github.com/eXist-db/exist/issues/6007#issuecomment-3722497874) in [eXist-db/exist](https://github.com/eXist-db/exist)
-2. ❌ Closed PR [#5967](https://github.com/eXist-db/exist/pull/5967) in [eXist-db/exist](https://github.com/eXist-db/exist)
-3. 🗣 Commented on [#5967](https://github.com/eXist-db/exist/pull/5967#issuecomment-3722462637) in [eXist-db/exist](https://github.com/eXist-db/exist)
-4. ℹ️ Labeled issue [#6007](https://github.com/eXist-db/exist/issues/6007) in [eXist-db/exist](https://github.com/eXist-db/exist)
-5. ❗ Opened issue [#6007](https://github.com/eXist-db/exist/issues/6007) in [eXist-db/exist](https://github.com/eXist-db/exist)
+1. 🗣 Commented on [#6005](https://github.com/eXist-db/exist/pull/6005#issuecomment-3727428764) in [eXist-db/exist](https://github.com/eXist-db/exist)
+2. 🗣 Commented on [#6007](https://github.com/eXist-db/exist/issues/6007#issuecomment-3722497874) in [eXist-db/exist](https://github.com/eXist-db/exist)
+3. ❌ Closed PR [#5967](https://github.com/eXist-db/exist/pull/5967) in [eXist-db/exist](https://github.com/eXist-db/exist)
+4. 🗣 Commented on [#5967](https://github.com/eXist-db/exist/pull/5967#issuecomment-3722462637) in [eXist-db/exist](https://github.com/eXist-db/exist)
+5. ℹ️ Labeled issue [#6007](https://github.com/eXist-db/exist/issues/6007) in [eXist-db/exist](https://github.com/eXist-db/exist)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
