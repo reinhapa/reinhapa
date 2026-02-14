@@ -50,11 +50,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6046](https://github.com/eXist-db/exist/pull/6046) in [eXist-db/exist](https://github.com/eXist-db/exist)
-2. 🗣 Commented on [#1140](https://github.com/izpack/izpack/pull/1140#issuecomment-3889558109) in [izpack/izpack](https://github.com/izpack/izpack)
-3. ℹ️ Labeled PR [#1140](https://github.com/izpack/izpack/pull/1140) in [izpack/izpack](https://github.com/izpack/izpack)
-4. 🗣 Commented on [#2309](https://github.com/TweetWallFX/TweetwallFX/pull/2309#issuecomment-3889441850) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-5. 🎉 Merged PR [#1139](https://github.com/izpack/izpack/pull/1139) in [izpack/izpack](https://github.com/izpack/izpack)
+1. ℹ️ Reopened PR [#6046](https://github.com/eXist-db/exist/pull/6046) in [eXist-db/exist](https://github.com/eXist-db/exist)
+2. ❌ Closed PR [#6046](https://github.com/eXist-db/exist/pull/6046) in [eXist-db/exist](https://github.com/eXist-db/exist)
+3. 💪 Opened PR [#6046](https://github.com/eXist-db/exist/pull/6046) in [eXist-db/exist](https://github.com/eXist-db/exist)
+4. 🗣 Commented on [#1140](https://github.com/izpack/izpack/pull/1140#issuecomment-3889558109) in [izpack/izpack](https://github.com/izpack/izpack)
+5. ℹ️ Labeled PR [#1140](https://github.com/izpack/izpack/pull/1140) in [izpack/izpack](https://github.com/izpack/izpack)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
