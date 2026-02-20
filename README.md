@@ -50,11 +50,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#43](https://github.com/reinhapa/exist/pull/43) in [reinhapa/exist](https://github.com/reinhapa/exist)
-2. ❌ Closed PR [#44](https://github.com/reinhapa/exist/pull/44) in [reinhapa/exist](https://github.com/reinhapa/exist)
-3. ❌ Closed PR [#46](https://github.com/reinhapa/exist/pull/46) in [reinhapa/exist](https://github.com/reinhapa/exist)
-4. ❌ Closed PR [#48](https://github.com/reinhapa/exist/pull/48) in [reinhapa/exist](https://github.com/reinhapa/exist)
-5. ❌ Closed PR [#49](https://github.com/reinhapa/exist/pull/49) in [reinhapa/exist](https://github.com/reinhapa/exist)
+1. ℹ️ Labeled issue [#251](https://github.com/xmldb-org/xmldb-api/issues/251) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
+2. 🗣 Commented on [#765](https://github.com/eXist-db/exist/issues/765#issuecomment-3925069729) in [eXist-db/exist](https://github.com/eXist-db/exist)
+3. ❌ Closed PR [#43](https://github.com/reinhapa/exist/pull/43) in [reinhapa/exist](https://github.com/reinhapa/exist)
+4. ❌ Closed PR [#44](https://github.com/reinhapa/exist/pull/44) in [reinhapa/exist](https://github.com/reinhapa/exist)
+5. ❌ Closed PR [#46](https://github.com/reinhapa/exist/pull/46) in [reinhapa/exist](https://github.com/reinhapa/exist)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
