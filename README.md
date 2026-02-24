@@ -50,11 +50,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#52](https://github.com/reinhapa/exist/pull/52) in [reinhapa/exist](https://github.com/reinhapa/exist)
-2. ℹ️ Labeled issue [#251](https://github.com/xmldb-org/xmldb-api/issues/251) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
-3. 🗣 Commented on [#765](https://github.com/eXist-db/exist/issues/765#issuecomment-3925069729) in [eXist-db/exist](https://github.com/eXist-db/exist)
-4. ❌ Closed PR [#43](https://github.com/reinhapa/exist/pull/43) in [reinhapa/exist](https://github.com/reinhapa/exist)
-5. ❌ Closed PR [#44](https://github.com/reinhapa/exist/pull/44) in [reinhapa/exist](https://github.com/reinhapa/exist)
+1. 🗣 Commented on [#5141](https://github.com/nextcloud/contacts/issues/5141#issuecomment-3944781107) in [nextcloud/contacts](https://github.com/nextcloud/contacts)
+2. ℹ️ Labeled issue [#5141](https://github.com/nextcloud/contacts/issues/5141) in [nextcloud/contacts](https://github.com/nextcloud/contacts)
+3. ℹ️ Labeled issue [#5141](https://github.com/nextcloud/contacts/issues/5141) in [nextcloud/contacts](https://github.com/nextcloud/contacts)
+4. ℹ️ Labeled issue [#5141](https://github.com/nextcloud/contacts/issues/5141) in [nextcloud/contacts](https://github.com/nextcloud/contacts)
+5. ❗ Opened issue [#5141](https://github.com/nextcloud/contacts/issues/5141) in [nextcloud/contacts](https://github.com/nextcloud/contacts)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
