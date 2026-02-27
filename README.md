@@ -50,9 +50,9 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#53](https://github.com/reinhapa/exist/pull/53) in [reinhapa/exist](https://github.com/reinhapa/exist)
-2. 🗣 Commented on [#5141](https://github.com/nextcloud/contacts/issues/5141#issuecomment-3944781107) in [nextcloud/contacts](https://github.com/nextcloud/contacts)
-3. ℹ️ Labeled issue [#5141](https://github.com/nextcloud/contacts/issues/5141) in [nextcloud/contacts](https://github.com/nextcloud/contacts)
+1. 🗣 Commented on [#5141](https://github.com/nextcloud/contacts/issues/5141#issuecomment-3967638442) in [nextcloud/contacts](https://github.com/nextcloud/contacts)
+2. ❌ Closed PR [#53](https://github.com/reinhapa/exist/pull/53) in [reinhapa/exist](https://github.com/reinhapa/exist)
+3. 🗣 Commented on [#5141](https://github.com/nextcloud/contacts/issues/5141#issuecomment-3944781107) in [nextcloud/contacts](https://github.com/nextcloud/contacts)
 4. ℹ️ Labeled issue [#5141](https://github.com/nextcloud/contacts/issues/5141) in [nextcloud/contacts](https://github.com/nextcloud/contacts)
 5. ℹ️ Labeled issue [#5141](https://github.com/nextcloud/contacts/issues/5141) in [nextcloud/contacts](https://github.com/nextcloud/contacts)
 <!--END_SECTION:activity-->
