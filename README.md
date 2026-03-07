@@ -50,11 +50,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5141](https://github.com/nextcloud/contacts/issues/5141#issuecomment-4002767386) in [nextcloud/contacts](https://github.com/nextcloud/contacts)
-2. 🎉 Merged PR [#1137](https://github.com/izpack/izpack/pull/1137) in [izpack/izpack](https://github.com/izpack/izpack)
-3. 🗣 Commented on [#5141](https://github.com/nextcloud/contacts/issues/5141#issuecomment-3967638442) in [nextcloud/contacts](https://github.com/nextcloud/contacts)
-4. ❌ Closed PR [#53](https://github.com/reinhapa/exist/pull/53) in [reinhapa/exist](https://github.com/reinhapa/exist)
-5. 🗣 Commented on [#5141](https://github.com/nextcloud/contacts/issues/5141#issuecomment-3944781107) in [nextcloud/contacts](https://github.com/nextcloud/contacts)
+1. 🔒 Closed issue [#251](https://github.com/xmldb-org/xmldb-api/issues/251) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
+2. 🗣 Commented on [#251](https://github.com/xmldb-org/xmldb-api/issues/251#issuecomment-4011437881) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
+3. 🗣 Commented on [#251](https://github.com/xmldb-org/xmldb-api/issues/251#issuecomment-4011422859) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
+4. 🗣 Commented on [#5141](https://github.com/nextcloud/contacts/issues/5141#issuecomment-4002767386) in [nextcloud/contacts](https://github.com/nextcloud/contacts)
+5. 🎉 Merged PR [#1137](https://github.com/izpack/izpack/pull/1137) in [izpack/izpack](https://github.com/izpack/izpack)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
