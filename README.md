@@ -50,11 +50,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5141](https://github.com/nextcloud/contacts/issues/5141#issuecomment-4099210613) in [nextcloud/contacts](https://github.com/nextcloud/contacts)
-2. ℹ️ Assigned PR [#1152](https://github.com/izpack/izpack/pull/1152) in [izpack/izpack](https://github.com/izpack/izpack)
-3. 💪 Opened PR [#1152](https://github.com/izpack/izpack/pull/1152) in [izpack/izpack](https://github.com/izpack/izpack)
-4. 🗣 Commented on [#1151](https://github.com/izpack/izpack/pull/1151#issuecomment-4063639828) in [izpack/izpack](https://github.com/izpack/izpack)
-5. 🗣 Commented on [#5141](https://github.com/nextcloud/contacts/issues/5141#issuecomment-4063482790) in [nextcloud/contacts](https://github.com/nextcloud/contacts)
+1. 🗣 Commented on [#5346](https://github.com/eXist-db/exist/pull/5346#issuecomment-4104014985) in [eXist-db/exist](https://github.com/eXist-db/exist)
+2. 🎉 Merged PR [#6155](https://github.com/eXist-db/exist/pull/6155) in [eXist-db/exist](https://github.com/eXist-db/exist)
+3. 💪 Opened PR [#6155](https://github.com/eXist-db/exist/pull/6155) in [eXist-db/exist](https://github.com/eXist-db/exist)
+4. 🗣 Commented on [#5141](https://github.com/nextcloud/contacts/issues/5141#issuecomment-4099210613) in [nextcloud/contacts](https://github.com/nextcloud/contacts)
+5. ℹ️ Assigned PR [#1152](https://github.com/izpack/izpack/pull/1152) in [izpack/izpack](https://github.com/izpack/izpack)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
