@@ -50,10 +50,10 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#866](https://github.com/adoptium/adoptium.net/pull/866) in [adoptium/adoptium.net](https://github.com/adoptium/adoptium.net)
-2. 💪 Opened PR [#866](https://github.com/adoptium/adoptium.net/pull/866) in [adoptium/adoptium.net](https://github.com/adoptium/adoptium.net)
-3. 🗣 Commented on [#5141](https://github.com/nextcloud/contacts/issues/5141#issuecomment-4171843869) in [nextcloud/contacts](https://github.com/nextcloud/contacts)
-4. 🗣 Commented on [#5141](https://github.com/nextcloud/contacts/issues/5141#issuecomment-4099210613) in [nextcloud/contacts](https://github.com/nextcloud/contacts)
+1. 🗣 Commented on [#5141](https://github.com/nextcloud/contacts/issues/5141#issuecomment-4189159760) in [nextcloud/contacts](https://github.com/nextcloud/contacts)
+2. 🎉 Merged PR [#866](https://github.com/adoptium/adoptium.net/pull/866) in [adoptium/adoptium.net](https://github.com/adoptium/adoptium.net)
+3. 💪 Opened PR [#866](https://github.com/adoptium/adoptium.net/pull/866) in [adoptium/adoptium.net](https://github.com/adoptium/adoptium.net)
+4. 🗣 Commented on [#5141](https://github.com/nextcloud/contacts/issues/5141#issuecomment-4171843869) in [nextcloud/contacts](https://github.com/nextcloud/contacts)
 5. ℹ️ Assigned PR [#1152](https://github.com/izpack/izpack/pull/1152) in [izpack/izpack](https://github.com/izpack/izpack)
 <!--END_SECTION:activity-->
 
