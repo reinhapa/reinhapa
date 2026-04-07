@@ -50,11 +50,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5141](https://github.com/nextcloud/contacts/issues/5141#issuecomment-4189159760) in [nextcloud/contacts](https://github.com/nextcloud/contacts)
-2. 🎉 Merged PR [#866](https://github.com/adoptium/adoptium.net/pull/866) in [adoptium/adoptium.net](https://github.com/adoptium/adoptium.net)
-3. 💪 Opened PR [#866](https://github.com/adoptium/adoptium.net/pull/866) in [adoptium/adoptium.net](https://github.com/adoptium/adoptium.net)
-4. 🗣 Commented on [#5141](https://github.com/nextcloud/contacts/issues/5141#issuecomment-4171843869) in [nextcloud/contacts](https://github.com/nextcloud/contacts)
-5. ℹ️ Assigned PR [#1152](https://github.com/izpack/izpack/pull/1152) in [izpack/izpack](https://github.com/izpack/izpack)
+1. 💪 Opened PR [#108](https://github.com/adoptium/jmc-build/pull/108) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
+2. 🎉 Merged PR [#107](https://github.com/adoptium/jmc-build/pull/107) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
+3. 💪 Opened PR [#107](https://github.com/adoptium/jmc-build/pull/107) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
+4. 🗣 Commented on [#5141](https://github.com/nextcloud/contacts/issues/5141#issuecomment-4189159760) in [nextcloud/contacts](https://github.com/nextcloud/contacts)
+5. 🎉 Merged PR [#866](https://github.com/adoptium/adoptium.net/pull/866) in [adoptium/adoptium.net](https://github.com/adoptium/adoptium.net)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
