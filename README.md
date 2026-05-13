@@ -50,7 +50,7 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1165](https://github.com/izpack/izpack/issues/1165#issuecomment-4365859329) in [izpack/izpack](https://github.com/izpack/izpack)
+1. 🗣 Commented on [#1169](https://github.com/izpack/izpack/issues/1169#issuecomment-4428983587) in [izpack/izpack](https://github.com/izpack/izpack)
 2. 🗣 Commented on [#2347](https://github.com/TweetWallFX/TweetwallFX/pull/2347#issuecomment-4310699211) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
 3. 🗣 Commented on [#2339](https://github.com/TweetWallFX/TweetwallFX/pull/2339#issuecomment-4306853281) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
 4. 🗣 Commented on [#6254](https://github.com/eXist-db/exist/pull/6254#issuecomment-4293518722) in [eXist-db/exist](https://github.com/eXist-db/exist)
