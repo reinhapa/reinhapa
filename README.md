@@ -50,11 +50,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1169](https://github.com/izpack/izpack/issues/1169#issuecomment-4428983587) in [izpack/izpack](https://github.com/izpack/izpack)
-2. 🗣 Commented on [#2347](https://github.com/TweetWallFX/TweetwallFX/pull/2347#issuecomment-4310699211) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-3. 🗣 Commented on [#2339](https://github.com/TweetWallFX/TweetwallFX/pull/2339#issuecomment-4306853281) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-4. 🗣 Commented on [#6254](https://github.com/eXist-db/exist/pull/6254#issuecomment-4293518722) in [eXist-db/exist](https://github.com/eXist-db/exist)
-5. 🗣 Commented on [#2339](https://github.com/TweetWallFX/TweetwallFX/pull/2339#issuecomment-4283671595) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+1. 🗣 Commented on [#6372](https://github.com/eXist-db/exist/pull/6372#issuecomment-4444873277) in [eXist-db/exist](https://github.com/eXist-db/exist)
+2. 🗣 Commented on [#6367](https://github.com/eXist-db/exist/pull/6367#issuecomment-4440478270) in [eXist-db/exist](https://github.com/eXist-db/exist)
+3. 🗣 Commented on [#152](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2025-BE/pull/152#issuecomment-4439013247) in [TweetWallFX/TweetwallFX-Devoxx-2025-BE](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2025-BE)
+4. 🗣 Commented on [#2363](https://github.com/TweetWallFX/TweetwallFX/pull/2363#issuecomment-4439011007) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+5. 🗣 Commented on [#1169](https://github.com/izpack/izpack/issues/1169#issuecomment-4428983587) in [izpack/izpack](https://github.com/izpack/izpack)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
