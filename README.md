@@ -57,4 +57,6 @@
 5. 🗣 Commented on [#1173](https://github.com/izpack/izpack/pull/1173#issuecomment-4511128798) in [izpack/izpack](https://github.com/izpack/izpack)
 <!--END_SECTION:activity-->
 
+<!--
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reinhapa&count_private=true&show_icons=true)
+-->
