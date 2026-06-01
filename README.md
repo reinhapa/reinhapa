@@ -50,9 +50,9 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2373](https://github.com/TweetWallFX/TweetwallFX/pull/2373#issuecomment-4562532072) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-2. 🗣 Commented on [#163](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2025-BE/pull/163#issuecomment-4562527667) in [TweetWallFX/TweetwallFX-Devoxx-2025-BE](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2025-BE)
-3. 🗣 Commented on [#164](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2025-BE/pull/164#issuecomment-4562338411) in [TweetWallFX/TweetwallFX-Devoxx-2025-BE](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2025-BE)
+1. 🗣 Commented on [#6428](https://github.com/eXist-db/exist/pull/6428#issuecomment-4590676508) in [eXist-db/exist](https://github.com/eXist-db/exist)
+2. 🗣 Commented on [#6428](https://github.com/eXist-db/exist/pull/6428#issuecomment-4590248861) in [eXist-db/exist](https://github.com/eXist-db/exist)
+3. ℹ️ Assigned PR [#6428](https://github.com/eXist-db/exist/pull/6428) in [eXist-db/exist](https://github.com/eXist-db/exist)
 4. 🗣 Commented on [#2374](https://github.com/TweetWallFX/TweetwallFX/pull/2374#issuecomment-4562333010) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
 5. 🗣 Commented on [#150](https://github.com/eXist-db/function-documentation/pull/150#issuecomment-4529287833) in [eXist-db/function-documentation](https://github.com/eXist-db/function-documentation)
 <!--END_SECTION:activity-->
