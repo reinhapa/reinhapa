@@ -50,11 +50,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5806](https://github.com/eXist-db/exist/issues/5806#issuecomment-4601788640) in [eXist-db/exist](https://github.com/eXist-db/exist)
-2. 🗣 Commented on [#2376](https://github.com/TweetWallFX/TweetwallFX/pull/2376#issuecomment-4598620016) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-3. 🗣 Commented on [#6428](https://github.com/eXist-db/exist/pull/6428#issuecomment-4590676508) in [eXist-db/exist](https://github.com/eXist-db/exist)
-4. 🗣 Commented on [#6428](https://github.com/eXist-db/exist/pull/6428#issuecomment-4590248861) in [eXist-db/exist](https://github.com/eXist-db/exist)
-5. ℹ️ Assigned PR [#6428](https://github.com/eXist-db/exist/pull/6428) in [eXist-db/exist](https://github.com/eXist-db/exist)
+1. 🎉 Merged PR [#1181](https://github.com/izpack/izpack/pull/1181) in [izpack/izpack](https://github.com/izpack/izpack)
+2. ℹ️ Assigned PR [#1181](https://github.com/izpack/izpack/pull/1181) in [izpack/izpack](https://github.com/izpack/izpack)
+3. 💪 Opened PR [#1181](https://github.com/izpack/izpack/pull/1181) in [izpack/izpack](https://github.com/izpack/izpack)
+4. 🗣 Commented on [#2381](https://github.com/TweetWallFX/TweetwallFX/pull/2381#issuecomment-4622525447) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+5. 🗣 Commented on [#2378](https://github.com/TweetWallFX/TweetwallFX/pull/2378#issuecomment-4622464435) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
 <!--END_SECTION:activity-->
 
 <!--
