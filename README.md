@@ -50,11 +50,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1181](https://github.com/izpack/izpack/pull/1181) in [izpack/izpack](https://github.com/izpack/izpack)
-2. ℹ️ Assigned PR [#1181](https://github.com/izpack/izpack/pull/1181) in [izpack/izpack](https://github.com/izpack/izpack)
-3. 💪 Opened PR [#1181](https://github.com/izpack/izpack/pull/1181) in [izpack/izpack](https://github.com/izpack/izpack)
-4. 🗣 Commented on [#2381](https://github.com/TweetWallFX/TweetwallFX/pull/2381#issuecomment-4622525447) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-5. 🗣 Commented on [#2378](https://github.com/TweetWallFX/TweetwallFX/pull/2378#issuecomment-4622464435) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+1. 🗣 Commented on [#6445](https://github.com/eXist-db/exist/pull/6445#issuecomment-4639916082) in [eXist-db/exist](https://github.com/eXist-db/exist)
+2. ℹ️ Unassigned PR [#1184](https://github.com/izpack/izpack/pull/1184) in [izpack/izpack](https://github.com/izpack/izpack)
+3. ℹ️ Assigned PR [#1184](https://github.com/izpack/izpack/pull/1184) in [izpack/izpack](https://github.com/izpack/izpack)
+4. ℹ️ Assigned PR [#1184](https://github.com/izpack/izpack/pull/1184) in [izpack/izpack](https://github.com/izpack/izpack)
+5. 💪 Opened PR [#1184](https://github.com/izpack/izpack/pull/1184) in [izpack/izpack](https://github.com/izpack/izpack)
 <!--END_SECTION:activity-->
 
 <!--
