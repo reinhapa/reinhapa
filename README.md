@@ -50,11 +50,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6445](https://github.com/eXist-db/exist/pull/6445#issuecomment-4639916082) in [eXist-db/exist](https://github.com/eXist-db/exist)
-2. ℹ️ Unassigned PR [#1184](https://github.com/izpack/izpack/pull/1184) in [izpack/izpack](https://github.com/izpack/izpack)
-3. ℹ️ Assigned PR [#1184](https://github.com/izpack/izpack/pull/1184) in [izpack/izpack](https://github.com/izpack/izpack)
-4. ℹ️ Assigned PR [#1184](https://github.com/izpack/izpack/pull/1184) in [izpack/izpack](https://github.com/izpack/izpack)
-5. 💪 Opened PR [#1184](https://github.com/izpack/izpack/pull/1184) in [izpack/izpack](https://github.com/izpack/izpack)
+1. 🗣 Commented on [#6428](https://github.com/eXist-db/exist/pull/6428#issuecomment-4646204855) in [eXist-db/exist](https://github.com/eXist-db/exist)
+2. 🗣 Commented on [#6428](https://github.com/eXist-db/exist/pull/6428#issuecomment-4646063867) in [eXist-db/exist](https://github.com/eXist-db/exist)
+3. 🗣 Commented on [#6451](https://github.com/eXist-db/exist/pull/6451#issuecomment-4643555321) in [eXist-db/exist](https://github.com/eXist-db/exist)
+4. 🎉 Merged PR [#1184](https://github.com/izpack/izpack/pull/1184) in [izpack/izpack](https://github.com/izpack/izpack)
+5. 🗣 Commented on [#6445](https://github.com/eXist-db/exist/pull/6445#issuecomment-4639916082) in [eXist-db/exist](https://github.com/eXist-db/exist)
 <!--END_SECTION:activity-->
 
 <!--
