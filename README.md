@@ -50,11 +50,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6468](https://github.com/eXist-db/exist/pull/6468#issuecomment-4687825230) in [eXist-db/exist](https://github.com/eXist-db/exist)
-2. ℹ️ Assigned PR [#6468](https://github.com/eXist-db/exist/pull/6468) in [eXist-db/exist](https://github.com/eXist-db/exist)
-3. 🎉 Merged PR [#1152](https://github.com/izpack/izpack/pull/1152) in [izpack/izpack](https://github.com/izpack/izpack)
-4. 🗣 Commented on [#6428](https://github.com/eXist-db/exist/pull/6428#issuecomment-4646204855) in [eXist-db/exist](https://github.com/eXist-db/exist)
-5. 🗣 Commented on [#6428](https://github.com/eXist-db/exist/pull/6428#issuecomment-4646063867) in [eXist-db/exist](https://github.com/eXist-db/exist)
+1. 🚀 Published release [izpack-5.2.6](https://github.com/izpack/izpack/releases/tag/izpack-5.2.6) in [izpack/izpack](https://github.com/izpack/izpack)
+2. 🚀 Published release [izpack-5.2.5](https://github.com/izpack/izpack/releases/tag/izpack-5.2.5) in [izpack/izpack](https://github.com/izpack/izpack)
+3. 🚀 Published release [Release 2.1.0](https://github.com/xmldb-org/xmldb-api/releases/tag/xmldb-api-2.1) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
+4. 🗣 Commented on [#6468](https://github.com/eXist-db/exist/pull/6468#issuecomment-4687825230) in [eXist-db/exist](https://github.com/eXist-db/exist)
+5. ℹ️ Assigned PR [#6468](https://github.com/eXist-db/exist/pull/6468) in [eXist-db/exist](https://github.com/eXist-db/exist)
 <!--END_SECTION:activity-->
 
 <!--
