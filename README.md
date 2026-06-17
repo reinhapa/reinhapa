@@ -50,11 +50,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6468](https://github.com/eXist-db/exist/pull/6468#issuecomment-4711227410) in [eXist-db/exist](https://github.com/eXist-db/exist)
-2. ❌ Closed PR [#184](https://github.com/reinhapa/exist/pull/184) in [reinhapa/exist](https://github.com/reinhapa/exist)
-3. ❌ Closed PR [#172](https://github.com/reinhapa/exist/pull/172) in [reinhapa/exist](https://github.com/reinhapa/exist)
-4. 🚀 Published release [izpack-5.2.6](https://github.com/izpack/izpack/releases/tag/izpack-5.2.6) in [izpack/izpack](https://github.com/izpack/izpack)
-5. 🚀 Published release [izpack-5.2.5](https://github.com/izpack/izpack/releases/tag/izpack-5.2.5) in [izpack/izpack](https://github.com/izpack/izpack)
+1. 🗣 Commented on [#6468](https://github.com/eXist-db/exist/pull/6468#issuecomment-4722134798) in [eXist-db/exist](https://github.com/eXist-db/exist)
+2. 🗣 Commented on [#5141](https://github.com/nextcloud/contacts/issues/5141#issuecomment-4722100325) in [nextcloud/contacts](https://github.com/nextcloud/contacts)
+3. 🗣 Commented on [#6468](https://github.com/eXist-db/exist/pull/6468#issuecomment-4711227410) in [eXist-db/exist](https://github.com/eXist-db/exist)
+4. ❌ Closed PR [#184](https://github.com/reinhapa/exist/pull/184) in [reinhapa/exist](https://github.com/reinhapa/exist)
+5. ❌ Closed PR [#172](https://github.com/reinhapa/exist/pull/172) in [reinhapa/exist](https://github.com/reinhapa/exist)
 <!--END_SECTION:activity-->
 
 <!--
