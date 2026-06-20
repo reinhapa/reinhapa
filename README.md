@@ -50,11 +50,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6499](https://github.com/eXist-db/exist/pull/6499) in [eXist-db/exist](https://github.com/eXist-db/exist)
-2. 🗣 Commented on [#2385](https://github.com/TweetWallFX/TweetwallFX/pull/2385#issuecomment-4745697722) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-3. 💪 Opened PR [#316](https://github.com/reinhapa/virtual-printer/pull/316) in [reinhapa/virtual-printer](https://github.com/reinhapa/virtual-printer)
-4. 🗣 Commented on [#6468](https://github.com/eXist-db/exist/pull/6468#issuecomment-4722134798) in [eXist-db/exist](https://github.com/eXist-db/exist)
-5. 🗣 Commented on [#5141](https://github.com/nextcloud/contacts/issues/5141#issuecomment-4722100325) in [nextcloud/contacts](https://github.com/nextcloud/contacts)
+1. 🎉 Merged PR [#6499](https://github.com/eXist-db/exist/pull/6499) in [eXist-db/exist](https://github.com/eXist-db/exist)
+2. 💪 Opened PR [#6499](https://github.com/eXist-db/exist/pull/6499) in [eXist-db/exist](https://github.com/eXist-db/exist)
+3. 🗣 Commented on [#2385](https://github.com/TweetWallFX/TweetwallFX/pull/2385#issuecomment-4745697722) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+4. 💪 Opened PR [#316](https://github.com/reinhapa/virtual-printer/pull/316) in [reinhapa/virtual-printer](https://github.com/reinhapa/virtual-printer)
+5. 🗣 Commented on [#6468](https://github.com/eXist-db/exist/pull/6468#issuecomment-4722134798) in [eXist-db/exist](https://github.com/eXist-db/exist)
 <!--END_SECTION:activity-->
 
 <!--
