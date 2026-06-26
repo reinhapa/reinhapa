@@ -50,11 +50,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6520](https://github.com/eXist-db/exist/pull/6520) in [eXist-db/exist](https://github.com/eXist-db/exist)
-2. 🗣 Commented on [#2391](https://github.com/TweetWallFX/TweetwallFX/pull/2391#issuecomment-4757341186) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-3. 🎉 Merged PR [#6499](https://github.com/eXist-db/exist/pull/6499) in [eXist-db/exist](https://github.com/eXist-db/exist)
-4. 💪 Opened PR [#6499](https://github.com/eXist-db/exist/pull/6499) in [eXist-db/exist](https://github.com/eXist-db/exist)
-5. 🗣 Commented on [#2385](https://github.com/TweetWallFX/TweetwallFX/pull/2385#issuecomment-4745697722) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+1. 🗣 Commented on [#179](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2025-BE/pull/179#issuecomment-4807880521) in [TweetWallFX/TweetwallFX-Devoxx-2025-BE](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2025-BE)
+2. 💪 Opened PR [#6520](https://github.com/eXist-db/exist/pull/6520) in [eXist-db/exist](https://github.com/eXist-db/exist)
+3. 🗣 Commented on [#2391](https://github.com/TweetWallFX/TweetwallFX/pull/2391#issuecomment-4757341186) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+4. 🎉 Merged PR [#6499](https://github.com/eXist-db/exist/pull/6499) in [eXist-db/exist](https://github.com/eXist-db/exist)
+5. 💪 Opened PR [#6499](https://github.com/eXist-db/exist/pull/6499) in [eXist-db/exist](https://github.com/eXist-db/exist)
 <!--END_SECTION:activity-->
 
 <!--
