@@ -50,11 +50,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6519](https://github.com/eXist-db/exist/pull/6519#issuecomment-4819904493) in [eXist-db/exist](https://github.com/eXist-db/exist)
-2. 💪 Opened PR [#265](https://github.com/xmldb-org/xmldb-api/pull/265) in [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api)
-3. 🗣 Commented on [#2394](https://github.com/TweetWallFX/TweetwallFX/pull/2394#issuecomment-4807883376) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-4. 🗣 Commented on [#179](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2025-BE/pull/179#issuecomment-4807880521) in [TweetWallFX/TweetwallFX-Devoxx-2025-BE](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2025-BE)
-5. 💪 Opened PR [#6520](https://github.com/eXist-db/exist/pull/6520) in [eXist-db/exist](https://github.com/eXist-db/exist)
+1. 🗣 Commented on [#2397](https://github.com/TweetWallFX/TweetwallFX/pull/2397#issuecomment-4830571013) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+2. 🗣 Commented on [#182](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2025-BE/pull/182#issuecomment-4830565736) in [TweetWallFX/TweetwallFX-Devoxx-2025-BE](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2025-BE)
+3. 🗣 Commented on [#2398](https://github.com/TweetWallFX/TweetwallFX/pull/2398#issuecomment-4830507030) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+4. 🗣 Commented on [#181](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2025-BE/pull/181#issuecomment-4830499660) in [TweetWallFX/TweetwallFX-Devoxx-2025-BE](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2025-BE)
+5. 🗣 Commented on [#182](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2025-BE/pull/182#issuecomment-4830491564) in [TweetWallFX/TweetwallFX-Devoxx-2025-BE](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2025-BE)
 <!--END_SECTION:activity-->
 
 <!--
