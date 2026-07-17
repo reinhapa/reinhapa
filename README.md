@@ -50,11 +50,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#1190](https://github.com/izpack/izpack/pull/1190) in [izpack/izpack](https://github.com/izpack/izpack)
-2. ℹ️ Unassigned PR [#1190](https://github.com/izpack/izpack/pull/1190) in [izpack/izpack](https://github.com/izpack/izpack)
-3. 🗣 Commented on [#2406](https://github.com/TweetWallFX/TweetwallFX/pull/2406#issuecomment-4956245559) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-4. 🗣 Commented on [#2405](https://github.com/TweetWallFX/TweetwallFX/pull/2405#issuecomment-4956238292) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-5. 🗣 Commented on [#188](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2025-BE/pull/188#issuecomment-4956199648) in [TweetWallFX/TweetwallFX-Devoxx-2025-BE](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2025-BE)
+1. 🎉 Merged PR [#1190](https://github.com/izpack/izpack/pull/1190) in [izpack/izpack](https://github.com/izpack/izpack)
+2. ℹ️ Assigned PR [#1190](https://github.com/izpack/izpack/pull/1190) in [izpack/izpack](https://github.com/izpack/izpack)
+3. ℹ️ Unassigned PR [#1190](https://github.com/izpack/izpack/pull/1190) in [izpack/izpack](https://github.com/izpack/izpack)
+4. 🗣 Commented on [#2406](https://github.com/TweetWallFX/TweetwallFX/pull/2406#issuecomment-4956245559) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+5. 🗣 Commented on [#2405](https://github.com/TweetWallFX/TweetwallFX/pull/2405#issuecomment-4956238292) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
 <!--END_SECTION:activity-->
 
 <!--
