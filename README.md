@@ -50,11 +50,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1204](https://github.com/izpack/izpack/pull/1204) in [izpack/izpack](https://github.com/izpack/izpack)
-2. 🗣 Commented on [#205](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2025-BE/pull/205#issuecomment-5238434027) in [TweetWallFX/TweetwallFX-Devoxx-2025-BE](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2025-BE)
-3. 🗣 Commented on [#2428](https://github.com/TweetWallFX/TweetwallFX/pull/2428#issuecomment-5238351622) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-4. 🗣 Commented on [#203](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2025-BE/pull/203#issuecomment-5238348446) in [TweetWallFX/TweetwallFX-Devoxx-2025-BE](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2025-BE)
-5. 🗣 Commented on [#2427](https://github.com/TweetWallFX/TweetwallFX/pull/2427#issuecomment-5238261353) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+1. 🗣 Commented on [#212](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2025-BE/pull/212#issuecomment-5399067866) in [TweetWallFX/TweetwallFX-Devoxx-2025-BE](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2025-BE)
+2. 🗣 Commented on [#210](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2025-BE/pull/210#issuecomment-5398965382) in [TweetWallFX/TweetwallFX-Devoxx-2025-BE](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2025-BE)
+3. 🗣 Commented on [#2435](https://github.com/TweetWallFX/TweetwallFX/pull/2435#issuecomment-5398947801) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+4. 🗣 Commented on [#2436](https://github.com/TweetWallFX/TweetwallFX/pull/2436#issuecomment-5398902273) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+5. 💪 Opened PR [#1204](https://github.com/izpack/izpack/pull/1204) in [izpack/izpack](https://github.com/izpack/izpack)
 <!--END_SECTION:activity-->
 
 <!--
