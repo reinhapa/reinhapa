@@ -50,11 +50,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2438](https://github.com/TweetWallFX/TweetwallFX/pull/2438#issuecomment-5450652104) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-2. 🎉 Merged PR [#1211](https://github.com/izpack/izpack/pull/1211) in [izpack/izpack](https://github.com/izpack/izpack)
-3. 💪 Opened PR [#1211](https://github.com/izpack/izpack/pull/1211) in [izpack/izpack](https://github.com/izpack/izpack)
-4. 🎉 Merged PR [#1210](https://github.com/izpack/izpack/pull/1210) in [izpack/izpack](https://github.com/izpack/izpack)
-5. 🗣 Commented on [#1157](https://github.com/izpack/izpack/pull/1157#issuecomment-5440505574) in [izpack/izpack](https://github.com/izpack/izpack)
+1. 🗣 Commented on [#2440](https://github.com/TweetWallFX/TweetwallFX/pull/2440#issuecomment-5482400637) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+2. 🗣 Commented on [#2441](https://github.com/TweetWallFX/TweetwallFX/pull/2441#issuecomment-5482305641) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+3. 🗣 Commented on [#2442](https://github.com/TweetWallFX/TweetwallFX/pull/2442#issuecomment-5482227060) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+4. 🗣 Commented on [#215](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2025-BE/pull/215#issuecomment-5482207243) in [TweetWallFX/TweetwallFX-Devoxx-2025-BE](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2025-BE)
+5. 🗣 Commented on [#2438](https://github.com/TweetWallFX/TweetwallFX/pull/2438#issuecomment-5450652104) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
 <!--END_SECTION:activity-->
 
 <!--
