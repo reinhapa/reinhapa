@@ -50,11 +50,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2456](https://github.com/TweetWallFX/TweetwallFX/pull/2456#issuecomment-5729827575) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-2. 🗣 Commented on [#222](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2025-BE/pull/222#issuecomment-5729820979) in [TweetWallFX/TweetwallFX-Devoxx-2025-BE](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2025-BE)
-3. 🗣 Commented on [#3890](https://github.com/pgjdbc/pgjdbc/pull/3890#issuecomment-5636888960) in [pgjdbc/pgjdbc](https://github.com/pgjdbc/pgjdbc)
-4. 🎉 Merged PR [#1216](https://github.com/izpack/izpack/pull/1216) in [izpack/izpack](https://github.com/izpack/izpack)
-5. 💪 Opened PR [#1216](https://github.com/izpack/izpack/pull/1216) in [izpack/izpack](https://github.com/izpack/izpack)
+1. 🗣 Commented on [#1165](https://github.com/izpack/izpack/issues/1165#issuecomment-5758167671) in [izpack/izpack](https://github.com/izpack/izpack)
+2. 🔒 Closed issue [#1165](https://github.com/izpack/izpack/issues/1165) in [izpack/izpack](https://github.com/izpack/izpack)
+3. 🚀 Published release [izpack-5.2.7](https://github.com/izpack/izpack/releases/tag/izpack-5.2.7) in [izpack/izpack](https://github.com/izpack/izpack)
+4. 🗣 Commented on [#2456](https://github.com/TweetWallFX/TweetwallFX/pull/2456#issuecomment-5729827575) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+5. 🗣 Commented on [#222](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2025-BE/pull/222#issuecomment-5729820979) in [TweetWallFX/TweetwallFX-Devoxx-2025-BE](https://github.com/TweetWallFX/TweetwallFX-Devoxx-2025-BE)
 <!--END_SECTION:activity-->
 
 <!--
