@@ -50,11 +50,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/izpack/izpack.github.io/pull/34) in [izpack/izpack.github.io](https://github.com/izpack/izpack.github.io)
-2. 💪 Opened PR [#34](https://github.com/izpack/izpack.github.io/pull/34) in [izpack/izpack.github.io](https://github.com/izpack/izpack.github.io)
-3. 🗣 Commented on [#1165](https://github.com/izpack/izpack/issues/1165#issuecomment-5758167671) in [izpack/izpack](https://github.com/izpack/izpack)
-4. 🔒 Closed issue [#1165](https://github.com/izpack/izpack/issues/1165) in [izpack/izpack](https://github.com/izpack/izpack)
-5. 🚀 Published release [izpack-5.2.7](https://github.com/izpack/izpack/releases/tag/izpack-5.2.7) in [izpack/izpack](https://github.com/izpack/izpack)
+1. 🎉 Merged PR [#53](https://github.com/BisonSchweizAG/gws-cli/pull/53) in [BisonSchweizAG/gws-cli](https://github.com/BisonSchweizAG/gws-cli)
+2. 💪 Opened PR [#53](https://github.com/BisonSchweizAG/gws-cli/pull/53) in [BisonSchweizAG/gws-cli](https://github.com/BisonSchweizAG/gws-cli)
+3. 🎉 Merged PR [#34](https://github.com/izpack/izpack.github.io/pull/34) in [izpack/izpack.github.io](https://github.com/izpack/izpack.github.io)
+4. 💪 Opened PR [#34](https://github.com/izpack/izpack.github.io/pull/34) in [izpack/izpack.github.io](https://github.com/izpack/izpack.github.io)
+5. 🗣 Commented on [#1165](https://github.com/izpack/izpack/issues/1165#issuecomment-5758167671) in [izpack/izpack](https://github.com/izpack/izpack)
 <!--END_SECTION:activity-->
 
 <!--
