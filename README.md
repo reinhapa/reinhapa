@@ -50,11 +50,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#53](https://github.com/BisonSchweizAG/gws-cli/pull/53) in [BisonSchweizAG/gws-cli](https://github.com/BisonSchweizAG/gws-cli)
-2. 💪 Opened PR [#53](https://github.com/BisonSchweizAG/gws-cli/pull/53) in [BisonSchweizAG/gws-cli](https://github.com/BisonSchweizAG/gws-cli)
-3. 🎉 Merged PR [#34](https://github.com/izpack/izpack.github.io/pull/34) in [izpack/izpack.github.io](https://github.com/izpack/izpack.github.io)
-4. 💪 Opened PR [#34](https://github.com/izpack/izpack.github.io/pull/34) in [izpack/izpack.github.io](https://github.com/izpack/izpack.github.io)
-5. 🗣 Commented on [#1165](https://github.com/izpack/izpack/issues/1165#issuecomment-5758167671) in [izpack/izpack](https://github.com/izpack/izpack)
+1. 🗣 Commented on [#2462](https://github.com/TweetWallFX/TweetwallFX/pull/2462#issuecomment-5869091882) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+2. 🗣 Commented on [#2461](https://github.com/TweetWallFX/TweetwallFX/pull/2461#issuecomment-5868989320) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+3. 🗣 Commented on [#2460](https://github.com/TweetWallFX/TweetwallFX/pull/2460#issuecomment-5868862664) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+4. ❌ Closed PR [#327](https://github.com/reinhapa/virtual-printer/pull/327) in [reinhapa/virtual-printer](https://github.com/reinhapa/virtual-printer)
+5. 🎉 Merged PR [#53](https://github.com/BisonSchweizAG/gws-cli/pull/53) in [BisonSchweizAG/gws-cli](https://github.com/BisonSchweizAG/gws-cli)
 <!--END_SECTION:activity-->
 
 <!--
