@@ -50,11 +50,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2462](https://github.com/TweetWallFX/TweetwallFX/pull/2462#issuecomment-5869091882) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-2. 🗣 Commented on [#2461](https://github.com/TweetWallFX/TweetwallFX/pull/2461#issuecomment-5868989320) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-3. 🗣 Commented on [#2460](https://github.com/TweetWallFX/TweetwallFX/pull/2460#issuecomment-5868862664) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-4. ❌ Closed PR [#327](https://github.com/reinhapa/virtual-printer/pull/327) in [reinhapa/virtual-printer](https://github.com/reinhapa/virtual-printer)
-5. 🎉 Merged PR [#53](https://github.com/BisonSchweizAG/gws-cli/pull/53) in [BisonSchweizAG/gws-cli](https://github.com/BisonSchweizAG/gws-cli)
+1. 🗣 Commented on [#1224](https://github.com/izpack/izpack/issues/1224#issuecomment-5885984143) in [izpack/izpack](https://github.com/izpack/izpack)
+2. 🗣 Commented on [#1224](https://github.com/izpack/izpack/issues/1224#issuecomment-5885816296) in [izpack/izpack](https://github.com/izpack/izpack)
+3. 🗣 Commented on [#1224](https://github.com/izpack/izpack/issues/1224#issuecomment-5885637430) in [izpack/izpack](https://github.com/izpack/izpack)
+4. ℹ️ Labeled issue [#1224](https://github.com/izpack/izpack/issues/1224) in [izpack/izpack](https://github.com/izpack/izpack)
+5. ℹ️ Assigned issue [#1224](https://github.com/izpack/izpack/issues/1224) in [izpack/izpack](https://github.com/izpack/izpack)
 <!--END_SECTION:activity-->
 
 <!--
