@@ -50,11 +50,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1224](https://github.com/izpack/izpack/issues/1224#issuecomment-5885984143) in [izpack/izpack](https://github.com/izpack/izpack)
-2. 🗣 Commented on [#1224](https://github.com/izpack/izpack/issues/1224#issuecomment-5885816296) in [izpack/izpack](https://github.com/izpack/izpack)
-3. 🗣 Commented on [#1224](https://github.com/izpack/izpack/issues/1224#issuecomment-5885637430) in [izpack/izpack](https://github.com/izpack/izpack)
-4. ℹ️ Labeled issue [#1224](https://github.com/izpack/izpack/issues/1224) in [izpack/izpack](https://github.com/izpack/izpack)
-5. ℹ️ Assigned issue [#1224](https://github.com/izpack/izpack/issues/1224) in [izpack/izpack](https://github.com/izpack/izpack)
+1. 🗣 Commented on [#1224](https://github.com/izpack/izpack/issues/1224#issuecomment-5907726231) in [izpack/izpack](https://github.com/izpack/izpack)
+2. 💪 Opened PR [#1225](https://github.com/izpack/izpack/pull/1225) in [izpack/izpack](https://github.com/izpack/izpack)
+3. ℹ️ Assigned PR [#1225](https://github.com/izpack/izpack/pull/1225) in [izpack/izpack](https://github.com/izpack/izpack)
+4. 🔒 Closed issue [#1224](https://github.com/izpack/izpack/issues/1224) in [izpack/izpack](https://github.com/izpack/izpack)
+5. 🗣 Commented on [#1224](https://github.com/izpack/izpack/issues/1224#issuecomment-5885984143) in [izpack/izpack](https://github.com/izpack/izpack)
 <!--END_SECTION:activity-->
 
 <!--
