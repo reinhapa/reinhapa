@@ -50,11 +50,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2471](https://github.com/TweetWallFX/TweetwallFX/pull/2471#issuecomment-5991160376) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-2. 🗣 Commented on [#2472](https://github.com/TweetWallFX/TweetwallFX/pull/2472#issuecomment-5991079369) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
-3. 🎉 Merged PR [#1230](https://github.com/izpack/izpack/pull/1230) in [izpack/izpack](https://github.com/izpack/izpack)
-4. ℹ️ Assigned PR [#1230](https://github.com/izpack/izpack/pull/1230) in [izpack/izpack](https://github.com/izpack/izpack)
-5. 💪 Opened PR [#1230](https://github.com/izpack/izpack/pull/1230) in [izpack/izpack](https://github.com/izpack/izpack)
+1. 💪 Opened PR [#1232](https://github.com/izpack/izpack/pull/1232) in [izpack/izpack](https://github.com/izpack/izpack)
+2. 🗣 Commented on [#2471](https://github.com/TweetWallFX/TweetwallFX/pull/2471#issuecomment-5991160376) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+3. 🗣 Commented on [#2472](https://github.com/TweetWallFX/TweetwallFX/pull/2472#issuecomment-5991079369) in [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX)
+4. 🎉 Merged PR [#1230](https://github.com/izpack/izpack/pull/1230) in [izpack/izpack](https://github.com/izpack/izpack)
+5. ℹ️ Assigned PR [#1230](https://github.com/izpack/izpack/pull/1230) in [izpack/izpack](https://github.com/izpack/izpack)
 <!--END_SECTION:activity-->
 
 <!--
