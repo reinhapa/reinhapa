@@ -50,11 +50,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1234](https://github.com/izpack/izpack/pull/1234) in [izpack/izpack](https://github.com/izpack/izpack)
-2. ℹ️ Labeled PR [#1234](https://github.com/izpack/izpack/pull/1234) in [izpack/izpack](https://github.com/izpack/izpack)
-3. ℹ️ Assigned PR [#1234](https://github.com/izpack/izpack/pull/1234) in [izpack/izpack](https://github.com/izpack/izpack)
-4. 💪 Opened PR [#1234](https://github.com/izpack/izpack/pull/1234) in [izpack/izpack](https://github.com/izpack/izpack)
-5. 🔒 Closed issue [#1227](https://github.com/izpack/izpack/issues/1227) in [izpack/izpack](https://github.com/izpack/izpack)
+1. 💪 Opened PR [#1236](https://github.com/izpack/izpack/pull/1236) in [izpack/izpack](https://github.com/izpack/izpack)
+2. 🗣 Commented on [#1228](https://github.com/izpack/izpack/issues/1228#issuecomment-6040227773) in [izpack/izpack](https://github.com/izpack/izpack)
+3. 🔓 Reopened issue [#1228](https://github.com/izpack/izpack/issues/1228) in [izpack/izpack](https://github.com/izpack/izpack)
+4. 🎉 Merged PR [#1234](https://github.com/izpack/izpack/pull/1234) in [izpack/izpack](https://github.com/izpack/izpack)
+5. ℹ️ Labeled PR [#1234](https://github.com/izpack/izpack/pull/1234) in [izpack/izpack](https://github.com/izpack/izpack)
 <!--END_SECTION:activity-->
 
 <!--
